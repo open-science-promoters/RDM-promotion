@@ -14,3 +14,5 @@ You only have time to enter the link, no problem the data will be curated later!
 https://docs.google.com/spreadsheets/d/1ybqL2WNdJZb7nwEAJ6yWJ0W95D3CtyEkQ97DFcJydsk/edit?usp=sharing
 
 2. For motivated people: enter detailed information for each entry
+
+3. You may also download the material and add it to this repo using github functionality (fork-commit-push-pullrequest)
