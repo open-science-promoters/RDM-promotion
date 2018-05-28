@@ -12,7 +12,7 @@ https://docs.google.com/spreadsheets/d/1ybqL2WNdJZb7nwEAJ6yWJ0W95D3CtyEkQ97DFcJy
 
 2. For motivated people: enter detailed information for each entry
 
-3. You may also download the material and add it to this repo using github functionality (fork-commit-push-pullrequest)
+3. You may also download the material and add it to this repo using github functionality (fork-commit-push-pullrequest, of make changes on your branch if you are part of the team ;) )
 
 ## 2 Reasearch data management: case studies
 
