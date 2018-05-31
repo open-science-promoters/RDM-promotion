@@ -10,10 +10,11 @@ disqusShortname = "devcows"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
+
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 # Define the number of posts per page
-paginate = 1
+paginate = 3
 
 [menu]
 
@@ -125,11 +126,7 @@ paginate = 1
     # at 'exampleSite/data/carousel'.
     # For more informtion take a look at the README.
 
-[params.features]
-    enable = true
-    # All features are defined in their own files. You can find example items
-    # at 'exampleSite/data/features'.
-    # For more informtion take a look at the README.
+
 
 [params.testimonials]
     enable = false
@@ -147,6 +144,12 @@ paginate = 1
     subtitle = "Go to our github page and sign up."
     link_url = "https://github.com/open-science-promoters/RDM-promotion"
     link_text = "https://github.com/open-science-promoters/RDM-promotion"
+    
+[params.features]
+    enable = true
+    # All features are defined in their own files. You can find example items
+    # at 'exampleSite/data/features'.
+    # For more informtion take a look at the README.
 
 [params.clients]
     enable = false
