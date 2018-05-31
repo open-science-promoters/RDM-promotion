@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Promoting open science</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on Promoting open science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>my notes on possible new RDM promotion material</title>
+      <link>/blog/2018/05/31/2018-05-31-my-notes-on-possible-new-rdm-promotion-material/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018/05/31/2018-05-31-my-notes-on-possible-new-rdm-promotion-material/</guid>
+      <description>type of videos  hijack: computer game, superhero, star treck, star wars… dialogue: research data VS GOfair research data data is my child chrismas present. hijack logical fallacies/known psychological events/dioseases,…, give examples with data management   source of inspiration  phd comics https://theupturnedmicroscope.com, https://theupturnedmicroscope.com/comic/flash-comic-february-2016/, https://theupturnedmicroscope.com/comic/flash-comic-may-2015/, https://theupturnedmicroscope.com/comic/tip/, https://imgur.com/gallery/ZpgQz   topics  data loss  you lost all your data but this todo list, it says: “backup data”  data documentation  message to the future self if you read this, ….</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/blog/2015/07/23/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/blog/2015/07/23/2015-07-23-r-rmarkdown/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+  </channel>
+</rss>

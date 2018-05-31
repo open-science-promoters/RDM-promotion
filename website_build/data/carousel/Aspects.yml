@@ -1,0 +1,9 @@
+weight: 2
+title: "Different aspects of open science"
+description: >
+  <ul class="list-style-none">
+     <li>Research data managment</li>
+     <li>Open access</li>
+     <li>Peer review</li>
+   </ul>
+image: "img/carousel/opensciencelogo.png"
