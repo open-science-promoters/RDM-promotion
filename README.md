@@ -1,24 +1,37 @@
-# Gathering material and ideas for new material concerning the promotion of good research data management practice
-
-This is an open project, everyone is warmly welcome and expected to warmly welcome others. Please have a look at our [conduct.md](codeo of conduct) for details, and report any misconduct. Material is organised following the license attached to it, an index will be provided. We are presently working on 3 directions
-
-## 1 Gathering existing videos
-
-We start wit a list of material one can use to advocate research data management. we look especially at videos and cartoons.
+# This is an open project to gather and expand material for the promotion of good RDM (research data management) practice
 
 
-### Contribute
+Everyone is warmly welcome and expected to warmly welcome others. Please have a look at our [conduct.md](code of conduct) for details, and report any misconduct. Foran introduction of the project and our aims, please browse our website at https://zealous-johnson-d4652e.netlify.com.
 
+
+# Contribute
+
+You have different ways to contribute to this project. While you may simply send documents, remarks or issues by email (see contact page on the website), my experience tells that using the github issue functions work better on the long term. (Simply click the "issue" link and you may add comments or create new issues there). On the other hand, you may want to bring more direct contributions using the pull request feature of github (please visit http://mozillascience.github.io/working-open-workshop/github_for_collaboration/#introduction for a good and fast introduction about these functionalities if you are new to github).
+
+
+## Special help needed
+
+1. We need to create a metadata scheme for our material, please see and comment the issue #3 https://github.com/open-science-promoters/RDM-promotion/issues/3
+
+
+## Gathering existing material
+ 
 1. Enter a link to your favorite video, image, comics,... in this google sheet
 https://docs.google.com/spreadsheets/d/1ybqL2WNdJZb7nwEAJ6yWJ0W95D3CtyEkQ97DFcJydsk/edit?usp=sharing
 
-2. For motivated people: enter detailed information for each entry
+2. You may enter detailed information for each entry following the spreadsheet format
 
-3. You may also download the material and add it to this repo using github functionality (fork-commit-push-pullrequest, of make changes on your branch if you are part of the team ;) )
+3. You may download the material and add it to this repo using github functionality (inside the website_build/material folder).
+That folder is organised following the license attached to each piece of material.
+
+
 
 ## 2 Gathering case studies
 
-We would like to gather stories and strategies RDM specialists are using for the promotion of their work. Please do share your expertise with the world. You can use your mother tongue and we will get to translate it.
+We would like to gather stories and strategies RDM specialists are using for the promotion of their work. Please do share your expertise with the world. 
+
+Send us an email or comment issue 4:
+https://github.com/open-science-promoters/RDM-promotion/issues/4
 
 
 
@@ -26,7 +39,7 @@ We would like to gather stories and strategies RDM specialists are using for the
 
 I have started to write down my thoughts in [ideas_and_notes.md](ideas_and_notes.md). More material is to come.
 
-### Contribute
+You wanna share your thoughts: 
 
 1. Open a new issue and label it "RDM_video_ideation", write some comments and let's start the discussion.
 

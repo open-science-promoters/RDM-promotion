@@ -1,13 +1,15 @@
 # Promotion
 
-
-
-# all material listed here. 
+## material listed via googlesheet
 
 ```{r, echo= FALSE}
-Metad= read.csv("../static/material/material_metadata.csv")
-DT::datatable(Metad)
+Metad1= read.csv("../static/material/ggsheet_list.csv")
+DT::datatable(Metad1)
 ```
+
+
+## material listed here. 
+
 
 ## Phdcomics material
 
@@ -30,4 +32,9 @@ B<- paste0 ("![../material/",d,"](../material/",d,"){width=80%}" , collapse = "\
 
 
 `r B` 
+
+```{r, echo= FALSE}
+Metad= read.csv("../static/material/material_metadata.csv")
+DT::datatable(Metad)
+```
 
