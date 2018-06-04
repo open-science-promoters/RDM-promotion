@@ -1,0 +1,33 @@
+# Promotion
+
+
+
+# all material listed here. 
+
+```{r, echo= FALSE}
+Metad= read.csv("../static/material/material_metadata.csv")
+DT::datatable(Metad)
+```
+
+## Phdcomics material
+
+http://phdcomics.com/comics/archive_print.php?comicid=1531
+
+http://phdcomics.com/comics/archive.php?comicid=382
+
+## here the material itself
+
+(every image found in the "material" folder will be shown on that page)
+
+```{r, echo=FALSE}
+
+d <- list.files("../static/material", recursive =TRUE, pattern = c(".png", ".jpg"))
+
+B<- paste0 ("![../material/",d,"](../material/",d,"){width=80%}" , collapse = "\n")
+
+```
+
+
+
+`r B` 
+

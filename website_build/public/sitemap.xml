@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/blog/2018/06/01/2018-06-01-open-science-and-quality-management/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/2018/05/31/2018-05-31-my-notes-on-possible-new-rdm-promotion-material/</loc>
     <lastmod>2018-05-31T00:00:00+00:00</lastmod>
   </url>
@@ -18,6 +23,10 @@
   </url>
   
   <url>
+    <loc>/creation/</loc>
+  </url>
+  
+  <url>
     <loc>/consulting/</loc>
   </url>
   
@@ -30,8 +39,16 @@
   </url>
   
   <url>
+    <loc>/teaching/</loc>
+  </url>
+  
+  <url>
+    <loc>/userstories/</loc>
+  </url>
+  
+  <url>
     <loc>/blog/</loc>
-    <lastmod>2018-05-31T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -49,6 +66,12 @@
   </url>
   
   <url>
+    <loc>/tags/open-data/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
@@ -61,14 +84,20 @@
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/tags/promotion/</loc>
     <lastmod>2018-05-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/promotion/</loc>
-    <lastmod>2018-05-31T00:00:00+00:00</lastmod>
+    <loc>/tags/qa-versus-os/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/quality-assesment/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -86,7 +115,7 @@
   
   <url>
     <loc>/tags/rdm/</loc>
-    <lastmod>2018-05-31T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -97,8 +126,20 @@
   </url>
   
   <url>
+    <loc>/tags/reproducibility/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

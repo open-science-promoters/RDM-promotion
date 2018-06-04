@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Promoting open science</title>
+    <title>Tags on Research data promotion</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Promoting open science</description>
+    <description>Recent content in Tags on Research data promotion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Open Data</title>
+      <link>/tags/open-data/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/open-data/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Plot</title>
@@ -30,6 +39,24 @@
     </item>
     
     <item>
+      <title>Qa Versus Os</title>
+      <link>/tags/qa-versus-os/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/qa-versus-os/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quality Assesment</title>
+      <link>/tags/quality-assesment/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/quality-assesment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>R Markdown</title>
       <link>/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
@@ -41,7 +68,7 @@
     <item>
       <title>Rdm</title>
       <link>/tags/rdm/</link>
-      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/rdm/</guid>
       <description></description>
@@ -53,6 +80,15 @@
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reproducibility</title>
+      <link>/tags/reproducibility/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/reproducibility/</guid>
       <description></description>
     </item>
     

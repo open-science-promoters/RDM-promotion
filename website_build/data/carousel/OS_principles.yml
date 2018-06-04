@@ -1,4 +1,8 @@
 weight: 1
-title: "Using open science principle to promote open science"
-description: "<p>Building a community of open science advocate </p>"
-image: "img/carousel/opensciencelogo.png"
+title: "An open source project"
+description: >
+  <ul class="list-style-none">
+     <li>Forstering collaboration</li>
+     <li>Producing open FAIR material </li>
+   </ul>
+image: "img/carousel/RDM_word_cloud.jpg"

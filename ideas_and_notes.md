@@ -11,9 +11,10 @@
 - phd comics: http://phdcomics.com/comics/archive_print.php?comicid=1531
 http://phdcomics.com/comics/archive.php?comicid=382
 
-- https://theupturnedmicroscope.com, https://theupturnedmicroscope.com/comic/flash-comic-february-2016/,
-https://theupturnedmicroscope.com/comic/flash-comic-may-2015/,
+- https://theupturnedmicroscope.com, 
+giving tips:
 https://theupturnedmicroscope.com/comic/tip/,
+real vs movie scientist series
 https://imgur.com/gallery/ZpgQz
 
 ## topics

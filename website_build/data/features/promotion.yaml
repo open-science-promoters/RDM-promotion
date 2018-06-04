@@ -1,5 +1,5 @@
-weight: 2
+weight: 1
 name: "Promotion material"
-icon: "fa fa-lightbulb-o"
+icon: "fa fa-diamond"
 url: "/promotion/"
-description: "We gathered promotion material for different aspects of open science"
+description: "We gathered promotion material for different aspects of RDM."

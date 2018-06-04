@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Promoting open science</title>
+    <title>Research data promotion</title>
     <link>/</link>
-    <description>Recent content on Promoting open science</description>
+    <description>Recent content on Research data promotion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>open science and quality management 1</title>
+      <link>/blog/2018/06/01/2018-06-01-open-science-and-quality-management/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018/06/01/2018-06-01-open-science-and-quality-management/</guid>
+      <description>During the second week of march, I had the chance to participate to two interesting meetings: the open science barcamp and the premierquality seminar. Both events have some online archive with results of discussion for the barcamp (https://etherpad.wikimedia.org/p/oscibar2018) and slides of the presentations for the seminar (https://www.bihealth.org/de/quest-center/projekte/premier/news/). I was stroked by the similarity in the discourses, not only concerning the problems discussed but also the solutions proposed.
+Here is the first of a series of blog about the parallel between the two events and communities.</description>
+    </item>
     
     <item>
       <title>my notes on possible new RDM promotion material</title>
@@ -42,6 +52,15 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title></title>
+      <link>/creation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/creation/</guid>
+      <description>Promotion still empty</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/consulting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -64,6 +83,28 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/promotion/</guid>
+      <description>    Promotion  all material listed here.  {&#34;x&#34;:{&#34;filter&#34;:&#34;none&#34;,&#34;data&#34;:[[&#34;1&#34;,&#34;2&#34;,&#34;3&#34;],[&#34;opensciencelogo.png&#34;,&#34;data_crash.png&#34;,&#34;flash-may2015-data-management_2.png&#34;],[&#34;https://github.com/jcolomb/opensciencelogo&#34;,&#34;https://theupturnedmicroscope.com/comic/flash-comic-february-2016/&#34;,&#34;https://upmic.files.wordpress.com/2015/05/flash-may2015-data-management_2.png&#34;],[&#34;CC-BY 4.0&#34;,&#34;CC-by-NC-SA&#34;,&#34;CC-by-NC-SA&#34;],[&#34;Julien COLOMB&#34;,&#34;Nik Papageorgiou&#34;,&#34;Nik Papageorgiou&#34;],[null,null,null],[null,null,null]],&#34;container&#34;:&#34;\n \n \n  \n image\n dowloaded_from\n license\n Author\n citation\n PUID\n \n \n&#34;,&#34;options&#34;:{&#34;order&#34;:[],&#34;autoWidth&#34;:false,&#34;orderClasses&#34;:false,&#34;columnDefs&#34;:[{&#34;orderable&#34;:false,&#34;targets&#34;:0}]}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]} Phdcomics material http://phdcomics.com/comics/archive_print.php?comicid=1531
+http://phdcomics.com/comics/archive.php?comicid=382
+ here the material itself (every image found in the “material” folder will be shown on that page)
+  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/</guid>
+      <description>teaching RDM http://www.opensciencemooc.eu
+http://rpubs.com/j_colomb/workshops</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/userstories/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/userstories/</guid>
       <description>Promotion still empty</description>
     </item>
     

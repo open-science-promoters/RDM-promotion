@@ -1,0 +1,5 @@
+weight: 3
+name: "Teaching material"
+icon: "fa fa-lightbulb-o"
+url: "/teaching/"
+description: "We gathered teaching material for different aspects of open science."

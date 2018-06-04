@@ -1,6 +1,6 @@
 baseurl = "/"
 
-title = "Promoting open science"
+title = "Research data promotion"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
@@ -64,9 +64,9 @@ paginate = 3
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "DevCows"
-    defaultKeywords = ["devows", "hugo", "go"]
-    defaultDescription = "Site template made by devcows using hugo"
+    author = "jcolomb"
+    defaultKeywords = ["RDM"]
+    defaultDescription = "Project initiated from the eefdm project in Jena"
 
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
@@ -90,12 +90,12 @@ paginate = 3
     email = "julien.colomb@fu-berlin.de"
 
     about_us = "<p>We are open science enthusiasts</p>"
-    copyright = "Copyright (c) 2018, CC-BY"
+    copyright = "Copyright (c) Julien Colomb 2018, distributed under CC-BY 4.0"
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
-    logo = "img/logo.png"
+    logo = "img/RDM_promo_mat.png"
     address = "<p><strong>we are an online community</strong></p>"
       
     
@@ -108,7 +108,7 @@ paginate = 3
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Making science open!</p>
+    text = """<p class="hidden-sm hidden-xs">An open source project, please contribute and use.</p>
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
       </p>
@@ -129,7 +129,7 @@ paginate = 3
 
 
 [params.testimonials]
-    enable = true
+    enable = false
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
