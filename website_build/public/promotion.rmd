@@ -7,7 +7,7 @@
 Metad1= read.csv("../static/material/ggsheet_list.csv")
 Metad1$Link = 
   paste0 ('<a href="',Metad1$Link,'" target="_blank">',Metad1$Link,"</a>")
-
+Metad1$duration..mm.ss. = format(Metad1$duration..mm.ss. , format = "%M:%S")
 
 DT::datatable(Metad1, escape= c(-2))
 ```
