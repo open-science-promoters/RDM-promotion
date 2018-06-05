@@ -1,10 +1,15 @@
 # Promotion
 
-## material listed via googlesheet
+## videos listed via googlesheet 
+(https://docs.google.com/spreadsheets/d/1ybqL2WNdJZb7nwEAJ6yWJ0W95D3CtyEkQ97DFcJydsk/edit?usp=sharing)
 
 ```{r, echo= FALSE}
 Metad1= read.csv("../static/material/ggsheet_list.csv")
-DT::datatable(Metad1)
+Metad1$Link = 
+  paste0 ('<a href="',Metad1$Link,'" target="_blank">',Metad1$Link,"</a>")
+
+
+DT::datatable(Metad1, escape= c(-2))
 ```
 
 
