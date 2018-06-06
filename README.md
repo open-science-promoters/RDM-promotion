@@ -1,7 +1,9 @@
 # This is an open project to gather and expand material for the promotion of good RDM (research data management) practice
 
 
-Everyone is warmly welcome and expected to warmly welcome others. Please have a look at our [conduct.md](code of conduct) for details, and report any misconduct. Foran introduction of the project and our aims, please browse our website at https://zealous-johnson-d4652e.netlify.com.
+Everyone is warmly welcome and expected to warmly welcome others. Please have a look at our [conduct.md](code of conduct) for details, and report any misconduct. For an introduction of the project and our aims, please browse our website at https://zealous-johnson-d4652e.netlify.com. We created this github project to 
+1. we publish our resutls, before we think we are finished.
+2. Foster collaboration and avoid that others do the same work.
 
 
 # Contribute
