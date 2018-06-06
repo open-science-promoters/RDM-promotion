@@ -3,6 +3,6 @@ title = "Contact"
 id = "contact"
 +++
 
-# Stay in touch
+# Email us
 
-We are a bunch of open science enthusiasts and advocate. 
+The contact form is not working at the moment. Send an email to julien.colomb [at] fu-berlin.de to keep it touch
