@@ -8,8 +8,17 @@ Metad1= read.csv("../static/material/ggsheet_list.csv")
 Metad1$Link = 
   paste0 ('<a href="',Metad1$Link,'" target="_blank">',Metad1$Link,"</a>")
 Metad1$duration..mm.ss. = format(Metad1$duration..mm.ss. , format = "%M:%S")
-
-DT::datatable(Metad1, escape= c(-2))
+#DT:::DT2BSClass(c('compact', 'cell-border'))
+DT::datatable(Metad1, escape= c(-2), 
+              width = "100%",
+              options = list(columnDefs = list(list(
+  targets = 2,
+  render = DT::JS(
+    "function(data, type, row, meta) {",
+    "return type === 'display' && data.length > 6 ?",
+    "'<span title=\"' + data + '\">' + data.substr(0, 6) + '...</span>' : data;",
+    "}")
+))), callback = DT::JS('table.page(3).draw(false);'))
 ```
 
 
