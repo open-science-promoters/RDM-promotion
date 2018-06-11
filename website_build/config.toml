@@ -134,7 +134,7 @@ paginate = 3
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
-    title = "Who we are"
+    title = "Who we are."
     subtitle = "(only part of the team)"
     
 
@@ -154,12 +154,13 @@ paginate = 3
     # For more informtion take a look at the README.
 
 [params.clients]
-    enable = false
+    enable = true
+    url  = "/thanks.html"
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
-    title = "Our Clients"
-    subtitle = ""
+    title = "Partners and supporters"
+    subtitle = "Without these institutions, this project would not have been possible."
 
 [params.recent_posts]
     enable = true
