@@ -61,6 +61,15 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title></title>
+      <link>/thanks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/thanks/</guid>
+      <description>Partners This project was initiated inside the eeFDM project to the Research Data Management Helpdesk of the Friedrich-Schiller-Universität Jena, financed by teh BMBF.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/consulting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

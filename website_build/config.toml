@@ -155,12 +155,13 @@ paginate = 3
 
 [params.clients]
     enable = true
-    url  = "/thanks.html"
+    #
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
     title = "Partners and supporters"
     subtitle = "Without these institutions, this project would not have been possible."
+    url  = "/Thanks/"
 
 [params.recent_posts]
     enable = true
