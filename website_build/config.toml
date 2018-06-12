@@ -160,7 +160,7 @@ paginate = 3
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
     title = "Partners and supporters"
-    subtitle = "Without these institutions, this project would not have been possible."
+    subtitle = "Click here for more detailed infromation."
     url  = "/Thanks/"
 
 [params.recent_posts]
