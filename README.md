@@ -1,9 +1,14 @@
 # This is an open project to gather and expand material for the promotion of good RDM (research data management) practice
 
 
-Everyone is warmly welcome and expected to warmly welcome others. Please have a look at our [conduct.md](code of conduct) for details, and report any misconduct. For an introduction of the project and our aims, please browse our website at https://zealous-johnson-d4652e.netlify.com. We created this github project to 
-1. we publish our resutls, before we think we are finished.
-2. Foster collaboration and avoid that others do the same work.
+Everyone is warmly welcome and expected to warmly welcome others. Please have a look at our [code of conduct](conduct.md ) for details, and report any misconduct. For an better description of the project and our aims, please browse our website at https://zealous-johnson-d4652e.netlify.com. 
+
+We thrive on open science principles in this project and therefore:
+
+1. We publish our results, as soon as we produce them.
+2. We foster collaboration, hoping no others will do the same work independently.
+3. A data management plan has been elaborated.
+4. The data produced/collected will is published under a CC0 or CC-By license.
 
 
 # Contribute
@@ -30,10 +35,11 @@ That folder is organised following the license attached to each piece of materia
 
 ## 2 Gathering case studies
 
-We would like to gather stories and strategies RDM specialists are using for the promotion of their work. Please do share your expertise with the world. 
+We would like to gather stories and strategies RDM specialists are using for the promotion of their work. Please do share your expertise with the world. What you write will be analysed to find key topics and punch lines for the promotion material. Please indicate is what license you want to be attached to your writing (CC0 or CC-BY).
 
 Send us an email or comment issue 4:
 https://github.com/open-science-promoters/RDM-promotion/issues/4
+The text will then be published as a blog post on the website.
 
 
 
@@ -45,4 +51,4 @@ You wanna share your thoughts:
 
 1. Open a new issue and label it "RDM_video_ideation", write some comments and let's start the discussion.
 
-2. You might write me an email at julien.colomb [at] jena-uni.de to start a one to one discussion
+2. Alternatively, you might write me an email at julien.colomb [at] jena-uni.de to start a one to one discussion
