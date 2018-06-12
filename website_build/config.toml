@@ -1,6 +1,6 @@
 baseurl = "https://zealous-johnson-d4652e.netlify.com/"
 
-title = "Research data promotion"
+title = "Promotion of Research data management, an open source Project."
 theme = "hugo-universal-theme"
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
