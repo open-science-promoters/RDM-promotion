@@ -52,14 +52,14 @@ paginate = 3
 
 [[menu.topbar]]
     weight = 3
-    name = "Twitter"
-    url = "http://twitter.com"
+    name = "Twitter: #promote_rdm"
+    url = "https://twitter.com/search?f=tweets&q=%23promote_rdm&src=typd"
     pre = "<i class='fa fa-2x fa-twitter'></i>"
 
 [[menu.topbar]]
     weight = 4
     name = "Email"
-    url = "julien.colomb@fu-berlin.de"
+    url = "mailto:julien.colomb@fu-berlin.de"
     pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 [params]
@@ -89,16 +89,16 @@ paginate = 3
     # Enable the contact form by entering your Formspree.io email
     email = "julien.colomb@fu-berlin.de"
 
-    about_us = "<p>We are open science enthusiasts</p>"
+    about_us = "<p>We would like to use open science principles to help with RDM promotion</p>"
     copyright = "Copyright (c) Julien Colomb 2018, distributed under CC-BY 4.0"
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
     logo = "img/RDM_promo_mat.png"
-    address = """<p><strong>ONLINE</strong>
+    address = """<p><strong>Our current home is GitHub</strong>
         
-        <strong>main team in Jena</strong>
+        <strong>Initiators working in Jena</strong>
       </p>
       """
     latitude = "50.9306985"
@@ -109,7 +109,7 @@ paginate = 3
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">An open source project, please contribute and use.</p>
+    text = """<p class="hidden-sm hidden-xs">Using open science principles to gather and create material for the promotion of best RDM practices</p>
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
       </p>
@@ -142,8 +142,8 @@ paginate = 3
     enable = true
     icon = "fa fa-file-code-o"
     url  = "/" 
-    title = "Do you want to participate"
-    subtitle = "Go to our github page and sign up."
+    title = "Do you want to participate ?"
+    subtitle = "Follow the directives presented on Github and use the comment functions of our posts."
     link_url = "https://github.com/open-science-promoters/RDM-promotion"
     link_text = "https://github.com/open-science-promoters/RDM-promotion"
     
