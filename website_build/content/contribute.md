@@ -35,4 +35,13 @@ the project runs on github for its project managment
 and your are welcome to use github functionalities (issue tracker, pull request,..).
 Contact us if you would like to get read and write access to the repository, by entering the organisation "open-science-promoters". 
 
-The website is being produced using Rblogdown in Rstudio `r knitcitations::citep(citation("blogdown")) `. Please reach out if you would like to apply open science principles to your own project.
+The website is being produced using Rblogdown in Rstudio (Xie, 2018; Xie, Hill, and Thomas, 2017). Please reach out if you would like to apply open science principles to your own project.
+
+## references
+
+Y. Xie. _blogdown: Create Blogs and Websites with R Markdown_. R package version 0.6.
+2018. <URL: https://github.com/rstudio/blogdown>.
+
+Y. Xie, A. P. Hill and A. Thomas. _blogdown: Creating Websites with R Markdown_. ISBN
+978-0815363729. Boca Raton, Florida: Chapman and Hall/CRC, 2017. <URL:
+https://github.com/rstudio/blogdown>.

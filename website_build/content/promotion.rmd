@@ -1,3 +1,8 @@
+---
+categories: []
+tags: []
+---
+
 # Promotion
 
 ## videos listed via googlesheet 
@@ -24,6 +29,7 @@ DT::datatable(Metad1, escape= c(-2),
 
 
 ## image material listed here. 
+
 ```{r, echo= FALSE}
 Metad= read.csv("../static/material/material_metadata.csv")
 DT::datatable(Metad)
