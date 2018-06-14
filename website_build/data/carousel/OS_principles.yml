@@ -2,7 +2,9 @@ weight: 2
 title: "An open source project"
 description: >
   <ul class="list-style-none">
-     <li>Forstering collaboration</li>
+     <li>Fostering collaboration</li>
      <li>Producing open FAIR material </li>
    </ul>
+   
 image: "material/CC-BY/Open_data_cloud_openaire.jpg"
+source: "CC-BY, by openaire"
