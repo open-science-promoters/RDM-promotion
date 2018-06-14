@@ -1,5 +1,7 @@
-weight: 2
-name: "User stories"
+weight: 3
+name: "Life-stories"
 icon: "fa fa-pencil -o"
 url: "/categories/user_story/"
-description: "Please share your experience as a RDM advocate or as a scientist, or read the stories other had shared."
+description: "Read about RDM successes and misfortunes.
+<br>
+Peek into the life of researchers and data managers."

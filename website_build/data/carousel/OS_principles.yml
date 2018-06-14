@@ -4,7 +4,8 @@ description: >
   <ul class="list-style-none">
      <li>Fostering collaboration</li>
      <li>Producing open FAIR material </li>
+     <li>Making everything open as early as possible</li>
    </ul>
    
-image: "material/CC-BY/Open_data_cloud_openaire.jpg"
-source: "CC-BY, by openaire"
+image: "img/carousel/opensciencelogo.png"
+source: "CC-BY, https://github.com/jcolomb/opensciencelogo"

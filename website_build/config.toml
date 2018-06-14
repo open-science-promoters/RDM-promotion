@@ -130,7 +130,7 @@ paginate = 3
 
 
 [params.testimonials]
-    enable = false
+    enable = true
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
@@ -142,8 +142,8 @@ paginate = 3
     enable = true
     icon = "fa fa-file-code-o"
     url  = "/" 
-    title = "Do you want to participate ?"
-    subtitle = "Follow the directives presented on Github and use the comment functions of our posts."
+    title = "Please, help us create amazing material you could re-use !"
+    subtitle = "From sending us a 140-characters story in your mother tongue, to co-leading this project: we welcome any contribution! Learn more on our github page:"
     link_url = "https://github.com/open-science-promoters/RDM-promotion"
     link_text = "https://github.com/open-science-promoters/RDM-promotion"
     
@@ -165,5 +165,5 @@ paginate = 3
 
 [params.recent_posts]
     enable = true
-    title = "Our latest contributions"
+    title = "Latest contributions"
     subtitle = ""

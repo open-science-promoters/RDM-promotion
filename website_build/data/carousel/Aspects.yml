@@ -1,10 +1,10 @@
-weight: 1
-title: "Come and help us to:"
+weight: 3
+title: "The Strategy"
 description: >
   <ul class="list-style-none">
-     <li>Gather promotion material</li>
-     <li>Find and Give user stories </li>
-     <li>Create new material</li>
+     <li>Gather and list existing material </li>
+     <li>Share and analyse real life-stories </li>
+     <li>Create new material (script, comics, videos,...) </li>
    </ul>
 image: "material/CC-BY/RDM_word_cloud.jpg"
 source: "CC-BY, by De Montfort University"

@@ -1,6 +1,7 @@
 # Promotion
 
 ## videos listed via googlesheet 
+
 (https://docs.google.com/spreadsheets/d/1ybqL2WNdJZb7nwEAJ6yWJ0W95D3CtyEkQ97DFcJydsk/edit?usp=sharing)
 
 ```{r, echo= FALSE}
@@ -22,16 +23,20 @@ DT::datatable(Metad1, escape= c(-2),
 ```
 
 
-## material listed here. 
+## image material listed here. 
+```{r, echo= FALSE}
+Metad= read.csv("../static/material/material_metadata.csv")
+DT::datatable(Metad)
+```
 
 
-## Phdcomics material
+## Copyrighted material
 
 http://phdcomics.com/comics/archive_print.php?comicid=1531
 
 http://phdcomics.com/comics/archive.php?comicid=382
 
-## here the material itself
+## image material on open license (including NC)
 
 (every image found in the "material" folder will be shown on that page)
 
@@ -47,8 +52,5 @@ B<- paste0 ("![../material/",d,"](../material/",d,"){width=80%}" , collapse = "\
 
 `r B` 
 
-```{r, echo= FALSE}
-Metad= read.csv("../static/material/material_metadata.csv")
-DT::datatable(Metad)
-```
+
 

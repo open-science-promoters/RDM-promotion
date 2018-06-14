@@ -1,7 +1,9 @@
 setwd("website_build")
 blogdown::build_site()
+blogdown::stop_server()
 blogdown::serve_site()
 
+blogdown::hugo_build() # do not recompile rmd file
 
 blogdown:::new_post_addin()
 
