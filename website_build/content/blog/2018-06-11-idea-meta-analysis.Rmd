@@ -14,12 +14,12 @@ https://github.com/open-science-promoters/RDM-promotion/issues/8
 
 Tim working at his computer. two others speaking:
 
-What is Tim doing?
-Meta-analysis.
-whaa Cool, he is comparing his results with the data of other scientists got all over the world during the last 10 years?
-No that's what the computer of Amanda, who is drinking coffee there is being doing...
-Tim is just trying to compare his data, with the data he obtained two years ago.
-Slogan You want to manage your data like a pro, ask a pro
+- What is Tim doing?
+- Meta-analysis.
+- whaa Cool, he is comparing his results with the data of other scientists got all over the world during the last 10 years?
+- No that's what the computer of Amanda, who is drinking coffee there is being doing...
+- Tim is just trying to compare his data, with the data he obtained two years ago.
+- Slogan You want to manage your data like a pro, ask a pro
 
 ##questions:
 
