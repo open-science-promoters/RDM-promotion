@@ -142,8 +142,8 @@ paginate = 3
     enable = true
     icon = "fa fa-2x fa-github"
     url  = "/" 
-    title = "Project hosted on github,"
-    subtitle = "i.e. archived on zenodo."
+    title = "Project hosted on github,i.e. archived on zenodo."
+    subtitle = ""
     link_url = "https://github.com/open-science-promoters/RDM-promotion"
     link_text = "https://github.com/open-science-promoters/RDM-promotion"
     

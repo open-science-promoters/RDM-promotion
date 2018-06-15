@@ -1,5 +1,6 @@
 setwd("website_build")
 blogdown::build_site()
+
 blogdown::stop_server()
 blogdown::serve_site()
 
