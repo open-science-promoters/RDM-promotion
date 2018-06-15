@@ -25,7 +25,7 @@
                     {{ range .Site.Data.clients2 }}
                     <li class="item" title="{{ .name }}">
                         {{ if .url }}
-                          <a href="{{ .url }}" target="_blank">
+                          <a href="{{ .url }}">
                             <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" style="width:250px" />
                            <p class="lead"> {{ .name }}</p>
                           </a>
