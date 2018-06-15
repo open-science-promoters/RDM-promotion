@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Promotion of Research data management, an open source Project.</title>
-    <link>https://zealous-johnson-d4652e.netlify.com/blog/</link>
+    <link>/blog/</link>
     <description>Recent content in Blogs on Promotion of Research data management, an open source Project.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 11 Jun 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://zealous-johnson-d4652e.netlify.com/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Idea: meta-analysis</title>
-      <link>https://zealous-johnson-d4652e.netlify.com/blog/2018/06/11/idea-meta-analysis/</link>
+      <link>/blog/2018/06/11/idea-meta-analysis/</link>
       <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://zealous-johnson-d4652e.netlify.com/blog/2018/06/11/idea-meta-analysis/</guid>
+      <guid>/blog/2018/06/11/idea-meta-analysis/</guid>
       <description>https://github.com/open-science-promoters/RDM-promotion/issues/8
 Tim working at his computer. two others speaking:
 What is Tim doing? Meta-analysis. whaa Cool, he is comparing his results with the data of other scientists got all over the world during the last 10 years? No that’s what the computer of Amanda, who is drinking coffee there is being doing… Tim is just trying to compare his data, with the data he obtained two years ago. Slogan You want to manage your data like a pro, ask a pro</description>
@@ -24,10 +24,10 @@ What is Tim doing? Meta-analysis. whaa Cool, he is comparing his results with th
     
     <item>
       <title>fly olfactory learning and lab meta-analysis</title>
-      <link>https://zealous-johnson-d4652e.netlify.com/blog/2018/06/11/fly-olfactory-learning-and-lab-meta-analysis/</link>
+      <link>/blog/2018/06/11/fly-olfactory-learning-and-lab-meta-analysis/</link>
       <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://zealous-johnson-d4652e.netlify.com/blog/2018/06/11/fly-olfactory-learning-and-lab-meta-analysis/</guid>
+      <guid>/blog/2018/06/11/fly-olfactory-learning-and-lab-meta-analysis/</guid>
       <description>name: julien Colomb
 http://orcid.org/0000-0002-3127-5520
 position at the time: scientist
@@ -36,29 +36,29 @@ position at the time: scientist
     
     <item>
       <title>open science and quality management 1</title>
-      <link>https://zealous-johnson-d4652e.netlify.com/blog/2018/06/01/open-science-and-quality-management/</link>
+      <link>/blog/2018/06/01/open-science-and-quality-management/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://zealous-johnson-d4652e.netlify.com/blog/2018/06/01/open-science-and-quality-management/</guid>
+      <guid>/blog/2018/06/01/open-science-and-quality-management/</guid>
       <description>During the second week of march, I had the chance to participate to two interesting meetings: the open science barcamp and the premierquality seminar. Both events have some online archive with results of discussion for the barcamp (https://etherpad.wikimedia.org/p/oscibar2018) and slides of the presentations for the seminar (https://www.bihealth.org/de/quest-center/projekte/premier/news/). I was stroked by the similarity in the discourses, not only concerning the problems discussed but also the solutions proposed.
 Here is the first of a series of blog about the parallel between the two events and communities.</description>
     </item>
     
     <item>
       <title>my notes on possible new RDM promotion material</title>
-      <link>https://zealous-johnson-d4652e.netlify.com/blog/2018/05/31/my-notes-on-possible-new-rdm-promotion-material/</link>
+      <link>/blog/2018/05/31/my-notes-on-possible-new-rdm-promotion-material/</link>
       <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://zealous-johnson-d4652e.netlify.com/blog/2018/05/31/my-notes-on-possible-new-rdm-promotion-material/</guid>
+      <guid>/blog/2018/05/31/my-notes-on-possible-new-rdm-promotion-material/</guid>
       <description>type of videos  hijack: computer game, superhero, star treck, star wars… dialogue: research data VS GOfair research data data is my child chrismas present. hijack logical fallacies/known psychological events/dioseases,…, give examples with data management   source of inspiration  phd comics https://theupturnedmicroscope.com, https://theupturnedmicroscope.com/comic/flash-comic-february-2016/, https://theupturnedmicroscope.com/comic/flash-comic-may-2015/, https://theupturnedmicroscope.com/comic/tip/, https://imgur.com/gallery/ZpgQz   topics  data loss  you lost all your data but this todo list, it says: “backup data”  data documentation  message to the future self if you read this, ….</description>
     </item>
     
     <item>
       <title>Hello R Markdown 2</title>
-      <link>https://zealous-johnson-d4652e.netlify.com/blog/2015/07/23/init/</link>
+      <link>/blog/2015/07/23/init/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://zealous-johnson-d4652e.netlify.com/blog/2015/07/23/init/</guid>
+      <guid>/blog/2015/07/23/init/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>

@@ -134,8 +134,8 @@ paginate = 3
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
-    title = "Who we are."
-    subtitle = "(only part of the team)"
+    title = "The team"
+    subtitle = ""
     
 
 [params.see_more]
