@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>https://zealous-johnson-d4652e.netlify.com/blog/2015/07/23/2015-07-23-r-rmarkdown/</link>
+      <title>Hello R Markdown 2</title>
+      <link>https://zealous-johnson-d4652e.netlify.com/blog/2015/07/23/init/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://zealous-johnson-d4652e.netlify.com/blog/2015/07/23/2015-07-23-r-rmarkdown/</guid>
+      <guid>https://zealous-johnson-d4652e.netlify.com/blog/2015/07/23/init/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>

@@ -15,12 +15,13 @@
                         </div>
                         <div class="col-sm-7">
                             <img class="img-responsive" src="{{ .image }}" alt="">
-                        </div>    
+                            
                             {{ if .source }}
-                            <div class="col-sm-5 right">
-                            <small> image {{ .source | safeHTML}} </small>
-                            </div>
+                            
+                            <p></p><small> image {{ .source | safeHTML}} </small> </p>
+                            
                             {{ end }}
+                        </div>    
                         
                     </div>
                 </div>

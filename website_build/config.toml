@@ -104,7 +104,7 @@ paginate = 3
     latitude = "50.9306985"
     longitude = "11.5898526"
 [Permalinks]
-    blog = "/blog/:year/:month/:day/:filename/"
+    blog = "/blog/:year/:month/:day/:slug/"
 
 # Enable or disable top bar with social icons
 [params.topbar]
@@ -140,10 +140,10 @@ paginate = 3
 
 [params.see_more]
     enable = true
-    icon = "fa fa-file-code-o"
+    icon = "fa fa-2x fa-github"
     url  = "/" 
-    title = "Please, help us create amazing material you could re-use !"
-    subtitle = "From sending us a 140-characters story in your mother tongue, to co-leading this project: we welcome any contribution! Learn more on our github page:"
+    title = "Project hosted on github,"
+    subtitle = "i.e. archived on zenodo."
     link_url = "https://github.com/open-science-promoters/RDM-promotion"
     link_text = "https://github.com/open-science-promoters/RDM-promotion"
     
@@ -153,6 +153,21 @@ paginate = 3
     # at 'exampleSite/data/features'.
     # For more informtion take a look at the README.
 
+
+    
+[params.clients2]
+    enable = true
+    #
+    # All clients are defined in their own files. You can find example items
+    # at 'exampleSite/data/clients'.
+    # For more informtion take a look at the README.
+    title1 = "Can your experience in research data management help me promote it better ?"
+    title2 = " and vice versa ?"
+    subtitle = "The primary aim of this 'open sciency' project is to create short videos everyone can use to raise the scientists' awareness on RDM issues. But to create amazing material, we first gather stories from data managers and scientists about their relation to data management to choose the most representative topics."
+    center = false
+    
+    #url  = ""  
+    
 [params.clients]
     enable = true
     #
@@ -161,9 +176,9 @@ paginate = 3
     # For more informtion take a look at the README.
     title = "Partners and supporters"
     subtitle = "Click here for detailed information."
-    url  = "/Thanks/"
+    url  = "/Thanks/"    
 
 [params.recent_posts]
-    enable = true
+    enable = false
     title = "Latest contributions"
     subtitle = ""
