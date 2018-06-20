@@ -1,5 +1,6 @@
 # This is an open project to gather and expand material for the promotion of good RDM (research data management) practice
 
+[![DOI](https://zenodo.org/badge/135207858.svg)](https://zenodo.org/badge/latestdoi/135207858)
 
 Everyone is warmly welcome and expected to warmly welcome others. Please have a look at our [code of conduct](conduct.md ) for details, and report any misconduct. For an better description of the project and our aims, please browse our website at https://zealous-johnson-d4652e.netlify.com. 
 
