@@ -11,7 +11,10 @@ tags: []
 
 ```{r, echo=FALSE}
 
-#d <- list.files("../static/material", recursive =TRUE, pattern = c(".png", ".jpg"))
+d1 <- list.files("../static/material", recursive =TRUE, pattern = ".png")
+d2 <- list.files("../static/material", recursive =TRUE, pattern = ".jpg")
+all = c(d1,d2)
+
 Metad= read.csv("../static/material/material_metadata.csv")
 d= Metad$image
 
@@ -33,6 +36,8 @@ dt=DT::datatable(Metad, extensions = 'FixedColumns',
     fixedColumns = TRUE)
 )
 widgetframe::frameWidget(dt)
+
+
 ```
 
 ## list of Copyrighted material

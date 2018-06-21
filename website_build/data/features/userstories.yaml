@@ -1,7 +1,7 @@
 weight: 3
 name: "Life-stories"
 icon: "fa fa-pencil -o"
-url: "/categories/user_story/"
+url: "/categories/life_story/"
 description: "Read about RDM successes and misfortunes.
 <br>
 Peek into the life of researchers and data managers."
