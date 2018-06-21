@@ -7,7 +7,7 @@ tags: []
 
 ## image material on open license (including NC)
 
-(every image found in the "material" folder will be shown on that page)
+(only images present in the metadata file will be shown)
 
 ```{r, echo=FALSE}
 
