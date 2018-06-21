@@ -4,3 +4,4 @@
 .Ruserdata
 .html
 .httr-oauth
+/website_build/public/**

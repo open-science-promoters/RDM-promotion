@@ -1,2 +1,0 @@
-license: CC-BY 
-author: De Montfort University
