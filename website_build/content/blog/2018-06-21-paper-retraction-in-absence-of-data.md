@@ -8,6 +8,7 @@ categories:
 tags:
   - RDM
   - reproducibility
+  - CC0
 banner : "img/userstory.png"   
 ---
 
