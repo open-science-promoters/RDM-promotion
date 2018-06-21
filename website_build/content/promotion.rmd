@@ -11,7 +11,9 @@ tags: []
 
 ```{r, echo=FALSE}
 
-d <- list.files("../static/material", recursive =TRUE, pattern = c(".png", ".jpg"))
+#d <- list.files("../static/material", recursive =TRUE, pattern = c(".png", ".jpg"))
+Metad= read.csv("../static/material/material_metadata.csv")
+d= Metad$image
 
 B<- paste0 ("![../material/",d,"](../material/",d,"){width=80%}" , collapse = "\n")
 
@@ -22,7 +24,8 @@ B<- paste0 ("![../material/",d,"](../material/",d,"){width=80%}" , collapse = "\
 `r B` 
 
 ```{r, echo= FALSE}
-Metad= read.csv("../static/material/material_metadata.csv")
+#Metad= read.csv("../static/material/material_metadata.csv")
+
 dt=DT::datatable(Metad, extensions = 'FixedColumns',
   options = list(
     dom = 't',

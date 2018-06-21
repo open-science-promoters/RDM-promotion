@@ -11,10 +11,10 @@ blogdown:::new_post_addin()
 
 
 ## get googlesheetsupdates
-library(googlesheets)
-be=gs_title("list of videos for the promotion of open science")
+#library(googlesheets)
+be=googlesheets::gs_title("list of videos for the promotion of open science")
 
-list=gs_read(ss=be, #literal=FALSE,
-             col_types = readr::cols(`duration (mm:ss)` =readr::col_character()))
+list=googlesheets::gs_read(ss=be, #literal=FALSE,
+             col_types = readr::cols(`duration_mm:ss` =readr::col_character()))
 
 readr::write_csv(list,path = "static/material/ggsheet_list.csv")
