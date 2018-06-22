@@ -161,9 +161,9 @@ paginate = 3
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
-    title1 = "Can your experience in research data management help me promote it better ?"
-    title2 = " and vice versa ?"
-    subtitle = "The primary aim of this 'open sciency' project is to create short videos everyone can use to raise the scientists' awareness on RDM issues. But to create amazing material, we first gather stories from data managers and scientists about their relation to data management to choose the most representative topics."
+    title1 = "Your experience will help us promoting research data management."
+    title2 = " and vice versa !"
+    subtitle = "The primary aim of this 'open sciency' project is to create short videos everyone can use to raise the scientists' awareness on RDM issues. In order to design and create amazing material, we gather (your?) favorite stories - personal or not - about data management and open data. On top of being interesting per se, the provided data will allow us to choose the most representative topics."
     center = false
     
     #url  = ""  
