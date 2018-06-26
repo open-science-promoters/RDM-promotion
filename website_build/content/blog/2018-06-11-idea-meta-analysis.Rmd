@@ -7,12 +7,11 @@ categories:
   - new_mat_idea
 tags:
   - metaanalysis
+  - CC0
 banner : "img/newidea.png"  
 ---
 
-https://github.com/open-science-promoters/RDM-promotion/issues/8
-
-Tim working at his computer. two others speaking:
+Tim working at his computer. Two others speaking:
 
 - What is Tim doing?
 - Meta-analysis.
@@ -26,3 +25,14 @@ Tim working at his computer. two others speaking:
 - name of protagonist
 - kind of personages (people, animals,...)
 - maybe Amanda could be one of the 2 speaking.
+
+---
+
+
+Distributed under a CC0 license
+
+From Julien Colomb,
+data manager
+
+Comment below or on 
+https://github.com/open-science-promoters/RDM-promotion/issues/8

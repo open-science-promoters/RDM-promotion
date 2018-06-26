@@ -9,6 +9,7 @@ tags:
   - open data
   - policies
   - grant
+  - CC0
 banner : "img/newidea.png"   
 ---
 
@@ -33,3 +34,12 @@ scientist, panicking:
 
 - Ask for help and get training, if there is an helpdesk at your university, call them.
 
+
+---
+
+
+Distributed under a CC0 license
+
+From Julien Colomb,
+http://orcid.org/0000-0002-3127-5520,
+data manager

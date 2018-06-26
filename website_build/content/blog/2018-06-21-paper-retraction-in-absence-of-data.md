@@ -27,3 +27,12 @@ Interesting comments:
 > One of the co-authors was stripped of her PhD.
 
 > the authors of the original study were unable to provide the raw data in order to confirm which data file was correct.
+
+---
+
+
+Distributed under a CC0 license
+
+Collected by Julien Colomb,
+http://orcid.org/0000-0002-3127-5520,
+data manager

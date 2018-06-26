@@ -35,3 +35,12 @@ While both communities want to see this part of the research process to be more 
 From both events, it seems the time is right to take a leap forward and bring quality assessment in the lab, providing the data openly while it is gathered might be an effective way to keep good records of data and metadata. Research data management training seem to be an prerequisite for these approaches (and it has yet other benefits than promoting good quality and collaboration).
 
 
+
+---
+
+
+Distributed under a CC-BY license.
+
+From Julien Colomb,
+http://orcid.org/0000-0002-3127-5520,
+data manager

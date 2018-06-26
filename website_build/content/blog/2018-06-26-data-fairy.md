@@ -17,3 +17,9 @@ Narrator's voice: Once upon a time, in the kingdom of academia, there worked a s
 All of a sudden, a data management fairy appeared. -lists data backup options-
 
 And the scientist and his/her data lived happily ever after.
+
+---
+
+Distributed under the CC0 license
+From Olena Tykhostup,
+data manager

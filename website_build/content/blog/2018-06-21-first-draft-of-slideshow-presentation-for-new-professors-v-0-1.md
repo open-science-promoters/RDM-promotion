@@ -19,3 +19,12 @@ You can download it here (the quality of the image is low on purpose): [https://
 
 while the pdf version is here:
 [https://github.com/open-science-promoters/RDM-promotion/tree/master/website_build/static/material/CC-BY-SA/Colomb_HUpresentaition_2.pdf](https://github.com/open-science-promoters/RDM-promotion/tree/master/website_build/static/material/CC-BY-SA/Colomb_HUpresentaition_2.pdf)
+
+
+---
+
+Distributed under a CC-BY-SA license
+
+Julien Colomb,
+http://orcid.org/0000-0002-3127-5520,
+data manager

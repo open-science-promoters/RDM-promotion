@@ -9,9 +9,17 @@ blogdown::hugo_build() # do not recompile rmd file
 
 blogdown:::new_post_addin()
 
+# banner : "img/userstory.png"   
+# banner : "img/newidea.png"   
+
+# Distributed under a CC0 license
+# 
+# Collected by Julien Colomb,
+# data manager
 
 ## get googlesheetsupdates
 #library(googlesheets)
+
 be=googlesheets::gs_title("list of videos for the promotion of open science")
 
 list=googlesheets::gs_read(ss=be, #literal=FALSE,
