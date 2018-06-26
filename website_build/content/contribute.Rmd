@@ -1,6 +1,11 @@
+---
+categories: []
+tags: []
+---
+
 
 ```{r setup, echo=FALSE, results='asis', warning=FALSE}
-contribute <- readLines(con <- file("~/github_repo/rdm_promotion/contribute.md"))
+contribute <- suppressWarnings(readLines(con <- file("~/github_repo/rdm_promotion/contribute.md")))
 
 cat(paste0 (contribute, collapse = "\n"))
 ```
