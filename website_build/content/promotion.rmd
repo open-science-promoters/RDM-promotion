@@ -16,7 +16,8 @@ d2 <- list.files("../static/material", recursive =TRUE, pattern = ".jpg")
 all = c(d1,d2)
 
 Metad= read.csv("../static/material/material_metadata.csv")
-d= Metad$image
+
+d= Metad$image[Metad$Include_page == 1]
 
 B<- paste0 ("![../material/",d,"](../material/",d,"){width=80%}" , collapse = "\n")
 
