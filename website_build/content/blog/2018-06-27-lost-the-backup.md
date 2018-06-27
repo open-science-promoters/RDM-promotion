@@ -9,7 +9,7 @@ tags:
   - CC-BY
   - RDM
   - data loss
-banner : "img/userstory.png"  
+banner : "../blog/2018-06-27-lost-the-backup_files/lostandfound_data.png"  
 ---
 
 <img src="/blog/2018-06-27-lost-the-backup_files/lostandfound_data.png" alt="Note the value of the lost 5 year research data" width="80%"/>
