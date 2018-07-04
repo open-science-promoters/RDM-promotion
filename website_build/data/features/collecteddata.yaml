@@ -1,0 +1,5 @@
+weight: 4
+name: "collected"
+icon: "fa fa-html5-circle"
+url: "/categories/collected_data/"
+description: "Read information and interview extract we collected."
