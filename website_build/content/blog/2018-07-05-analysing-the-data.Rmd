@@ -1,0 +1,61 @@
+---
+title: Analysing the data
+author: Julien Colomb
+date: '2018-07-05'
+slug: analysing-the-data
+categories:
+  - material
+tags:
+  - RDM
+  - CC0
+---
+
+# argument_analysis
+
+On this page, we will report the analysis of the data we gathered and collected, the page is recreated with updated data. The data itsel is created in a spreadsheet available on the github page.
+
+```{r, echo=FALSE, warning=FALSE, results='hide'}
+
+library (tidyverse, quietly = TRUE, warn.conflicts = FALSE)
+
+argument_analysis <- read_delim("../../static/material/CC0/argument_analysis.csv", 
+    "\t", escape_double = FALSE, trim_ws = TRUE,
+    col_types = cols(
+  ID = col_integer(),
+  Argument = col_character(),
+  type_of_col = col_character(),
+  `linked to` = col_character(),
+  content = col_character(),
+  source_intern_slug = col_character(),
+  source_extern = col_character()
+)
+) 
+
+```
+
+
+`r # We split that data into one table for each argumentation.`
+
+For each argument, we gathered 
+
+- real life stories
+- punch lines
+- jokes, funny way to bring it
+- reference to the (pop) culture wich could be used
+
+# list of arguments:
+
+```{r, echo=FALSE, results='asis'}
+print(unique(argument_analysis$Argument))
+```
+# details
+
+```{r, echo=FALSE, results='asis'}
+argum = unique(argument_analysis$Argument)
+for (thisargument in  argum){
+  table = argument_analysis %>% filter (Argument == thisargument)
+  print (paste0("## ",thisargument, "\n"))
+  print(DT::datatable(table))
+}
+```
+
