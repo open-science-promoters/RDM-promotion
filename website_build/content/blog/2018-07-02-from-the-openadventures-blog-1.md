@@ -1,5 +1,5 @@
 ---
-title: From the openadventures blog: 1 interviews
+title: "From the openadventures blog: 1 interviews"
 author: Julien Colomb
 date: '2018-07-02'
 slug: from-the-openadventures-blog-1

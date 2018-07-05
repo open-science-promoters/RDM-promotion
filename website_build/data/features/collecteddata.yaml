@@ -1,5 +1,5 @@
 weight: 4
-name: "collected"
+name: "collected statements"
 icon: "fa fa-html5 -o"
 url: "/categories/collected_data/"
-description: "Read information and interview extract we collected."
+description: "Read information and interview extract we collected via browsing the web."
