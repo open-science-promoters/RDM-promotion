@@ -1,0 +1,24 @@
+## {{thisargument}}
+
+```{r, echo=FALSE}
+table = argument_analysis %>% filter (Argument ==  "{{thisargument}}") %>% select (-Argument)
+
+dt=DT::datatable(table,
+                 rownames = FALSE
+                 escape = c(-6),
+                 extensions = list('FixedColumns',
+                 'Scroller'),
+                 options = list(
+                 deferRender = TRUE,
+                 scrollY = 200,
+                 scroller = TRUE,
+                 dom = 't',
+                 scrollX = TRUE,
+                 fixedColumns = TRUE
+                 ))
+widgetframe::frameWidget(dt, height = 200)
+
+dt=DT::datatable(table)
+widgetframe::frameWidget(dt, height = 200)
+```
+

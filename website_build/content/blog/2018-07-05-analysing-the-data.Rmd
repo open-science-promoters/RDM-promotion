@@ -48,14 +48,25 @@ For each argument, we gathered
 ```{r, echo=FALSE, results='asis'}
 print(unique(argument_analysis$Argument))
 ```
+
 # details
 
-```{r, echo=FALSE, results='asis'}
+```{r, run-numeric-md, include=FALSE}
+argument_analysis$source_extern = 
+  paste0 ('<a href="',argument_analysis$source_extern,'" target="_blank">',argument_analysis$source_extern,"</a>")
+
 argum = unique(argument_analysis$Argument)
+out = NULL
 for (thisargument in  argum){
-  table = argument_analysis %>% filter (Argument == thisargument)
-  print (paste0("## ",thisargument, "\n"))
-  print(DT::datatable(table))
+  
+  #cat (paste0("## ",thisargument, " <br>"))
+  #print (nrow (table))
+  #print(htmltools::tagList(DT::datatable(table)))
+  #out = c(out, knitr::knit_expand('../../template_analysis.rmd'))
+  out = c(out, knitr::knit_expand('../../template_analysis.rmd'))
 }
 ```
+
+
+`r paste(knitr::knit( text= out), collapse = '\n')`
 
