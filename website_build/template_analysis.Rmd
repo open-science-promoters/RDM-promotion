@@ -4,21 +4,51 @@
 table = argument_analysis %>% filter (Argument ==  "{{thisargument}}") %>% select (-Argument)
 
 dt=DT::datatable(table,
-                 rownames = FALSE
+                 rownames = FALSE,
+                 filter = 'top',
                  escape = c(-6),
-                 extensions = list('FixedColumns',
+                 
+              extensions = list('FixedColumns',
                  'Scroller'),
-                 options = list(
+              options = list(
+                columnDefs = list(list(width = '50%', targets = list(4))),
+                autoWidth = TRUE,
                  deferRender = TRUE,
-                 scrollY = 200,
+                 scrollY = 300,
                  scroller = TRUE,
                  dom = 't',
                  scrollX = TRUE,
                  fixedColumns = TRUE
-                 ))
-widgetframe::frameWidget(dt, height = 200)
+                ,scrollCollapse=TRUE
+                 
+                 )
+                 )
 
-dt=DT::datatable(table)
-widgetframe::frameWidget(dt, height = 200)
+
+#dt=DT::datatable(table)
+#widgetframe::frameWidget(dt, height = 200)
+
+
+dt=DT::datatable(table,
+                 rownames = FALSE,
+                 filter = 'top',
+                 escape = c(-6),
+                 
+              extensions = list(Scroller=NULL, FixedColumns=TRUE),
+              
+              options = list(
+                #columnDefs = list(list(width = '300', targets = list(4))),
+                autoWidth = TRUE,
+                 deferRender = TRUE,
+                 scrollY = 300,
+                 scroller = TRUE,
+                 dom = 't',
+                 scrollX = TRUE,
+                 scrollCollapse=TRUE
+                 
+                 )
+                 )
+widgetframe::frameWidget(dt, height = 300)
+
 ```
 

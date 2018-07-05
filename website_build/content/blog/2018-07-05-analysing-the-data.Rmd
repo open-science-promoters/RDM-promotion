@@ -31,6 +31,8 @@ argument_analysis <- read_delim("../../static/material/CC0/argument_analysis.csv
 )
 ) 
 
+argument_analysis$type_of_col = as.factor (argument_analysis$type_of_col)
+
 ```
 
 
@@ -56,6 +58,7 @@ argument_analysis$source_extern =
   paste0 ('<a href="',argument_analysis$source_extern,'" target="_blank">',argument_analysis$source_extern,"</a>")
 
 argum = unique(argument_analysis$Argument)
+
 out = NULL
 for (thisargument in  argum){
   
