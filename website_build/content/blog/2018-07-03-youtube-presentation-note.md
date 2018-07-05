@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=hRoqQX97F6o&list=PLG24w6ETyHS3fYbDnB6LOOzOfATVhP
 
 
 Tip of the day kind of communication very successful.
-Data steward as professional hepers in data management.
+Data steward as professional helpers in data management.
 
 Avoid data disaster!
 
