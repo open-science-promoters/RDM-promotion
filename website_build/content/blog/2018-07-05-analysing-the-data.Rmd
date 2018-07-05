@@ -54,11 +54,12 @@ print(unique(argument_analysis$Argument))
 # details
 
 ```{r, run-numeric-md, include=FALSE}
+argument_analysis= argument_analysis [,c(5,1,2,3,4,6)]
+
 argument_analysis$source_extern = 
   paste0 ('<a href="',argument_analysis$source_extern,'" target="_blank">',argument_analysis$source_extern,"</a>")
 
 argum = unique(argument_analysis$Argument)
-
 out = NULL
 for (thisargument in  argum){
   
@@ -69,7 +70,6 @@ for (thisargument in  argum){
   out = c(out, knitr::knit_expand('../../template_analysis.rmd'))
 }
 ```
-
 
 `r paste(knitr::knit( text= out), collapse = '\n')`
 

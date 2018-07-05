@@ -4,6 +4,7 @@
 table = argument_analysis %>% filter (Argument ==  "{{thisargument}}") %>% select (-Argument)
 
 dt=DT::datatable(table,
+                 colnames = c('The content (______________________________________________________________)' = 'content'),
                  rownames = FALSE,
                  filter = 'top',
                  escape = c(-6),
@@ -25,8 +26,7 @@ dt=DT::datatable(table,
                  )
 
 
-#dt=DT::datatable(table)
-#widgetframe::frameWidget(dt, height = 200)
+widgetframe::frameWidget(dt, height = 300)
 
 
 dt=DT::datatable(table,
@@ -48,7 +48,7 @@ dt=DT::datatable(table,
                  
                  )
                  )
-widgetframe::frameWidget(dt, height = 300)
+
 
 ```
 
