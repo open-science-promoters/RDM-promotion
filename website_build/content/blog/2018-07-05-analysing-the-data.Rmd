@@ -14,6 +14,7 @@ tags:
 
 On this page, we will report the analysis of the data we gathered and collected, the page is recreated with updated data. The data itsel is created in a spreadsheet available on the github page.
 
+
 ```{r, echo=FALSE, warning=FALSE, results='hide'}
 
 library (tidyverse, quietly = TRUE, warn.conflicts = FALSE)
