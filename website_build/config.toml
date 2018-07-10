@@ -148,7 +148,7 @@ paginate = 6
     link_text = "https://github.com/open-science-promoters/RDM-promotion"
     
 [params.features]
-    enable = true
+    enable = false
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
     # For more informtion take a look at the README.

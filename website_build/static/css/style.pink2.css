@@ -1230,7 +1230,7 @@ fieldset[disabled] .btn-template-primary.active {
 .customers .item {
   list-style-type: none;
   text-align: center;
-  margin: 0 10px;
+  margin: 0 20px;
 }
 .customers .item img {
   display: inline-block;
