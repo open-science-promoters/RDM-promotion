@@ -1,0 +1,25 @@
+DOI 10.5281/zenodo.1164397
+version 3 downloaded the 16.7.2016
+
+TU Delft Data Stewards, EPFL Library Research Data Team, Krause, Jan, Lambeng, Nathalie, Andrews, Heather, Boehmer, Jasmin, … Teperek, Marta. (2018). Quantitative assessment of research data management practice (Version 3) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.1168800
+
+@misc{tu_delft_data_stewards_2018_1168800,
+  author       = {TU Delft Data Stewards and
+                  EPFL Library Research Data Team and
+                  Krause, Jan and
+                  Lambeng, Nathalie and
+                  Andrews, Heather and
+                  Boehmer, Jasmin and
+                  Cruz, Maria and
+                  van Dijck, Jasper and
+                  den Heijter, Kees and
+                  van der Kruyk, Munire and
+                  Teperek, Marta},
+  title        = {{Quantitative assessment of research data 
+                   management practice}},
+  month        = feb,
+  year         = 2018,
+  note         = {Subfield separators normalized},
+  doi          = {10.5281/zenodo.1168800},
+  url          = {https://doi.org/10.5281/zenodo.1168800}
+}
