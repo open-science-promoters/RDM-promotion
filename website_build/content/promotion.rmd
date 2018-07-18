@@ -30,6 +30,8 @@ B<- paste0 ("![../material/",d,"](../material/",d,"){width=80%, height=200}" , c
 
 `r B` 
 
+## Metadata for the image material
+
 ```{r, echo= FALSE}
 #Metad= read.csv("../static/material/material_metadata.csv")
 
