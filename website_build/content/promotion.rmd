@@ -1,11 +1,14 @@
 ---
 categories: []
 tags: []
+output:
+  blogdown::html_page:
+    toc: true
 ---
 
-# Promotion
 
-## image material on open license (including NC)
+
+## Image material on open license (including NC)
 
 (images are shown in small size, but high resolution, metadata indicated below)
 
