@@ -20,7 +20,7 @@ blogdown:::new_post_addin()
 ## get googlesheetsupdates
 #library(googlesheets)
 
-be=googlesheets::gs_title("list of videos for the promotion of open science")
+be=googlesheets::gs_title("list of videos for the promotion of open data and rdm. see https://rdmpromotion.rbind.io")
 
 list=googlesheets::gs_read(ss=be, #literal=FALSE,
              col_types = readr::cols(`duration_mm:ss` =readr::col_character()))
