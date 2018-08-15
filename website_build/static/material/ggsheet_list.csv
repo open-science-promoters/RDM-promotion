@@ -1,4 +1,4 @@
-Link,comment,type,duration_mm:ss,importance_0to3,technique,research_field,license,title,production_year,language(s),rights_holder,contact,format
+Link,comment,type,duration_mm:ss,importance_0to4,technique,research_field,license,title,production_year,language(s),rights_holder,contact,format
 https://doi.org/10.4126/FRL01-006399385,"not working in safari, also available on youtube",information,04:12,0,"animation, drawing",Lebenswissenschaften,k.A.,Der Publikationsservice GMS und das Forschungsdatenrepositorium DRYAD,2015,German,"Arning, Ursula; Haas, Simone; Kullmer, Bettina; Schmitz, Jasmin",Lindstaedt@zbmed.de,Video
 https://doi.org/10.4126/FRL01-006399500,"not working in safari, also available on youtube",information,04:24,0,"animation, drawing",Lebenswissenschaften,k.A.,"Digital Object Identifier (DOIs) für Forschungsdaten und Publikationen in den Lebenswissenschaften, 1: DOI-Registrierung von ZB MED",2015,German,"Haas, Simone; Kullmer, Bettina; Lindstädt, Birte; Pletsch, Katja; Arning, Ursula; Schmitz, Jasmin",Lindstaedt@zbmed.de,Video
 https://doi.org/10.4126/FRL01-006399502,"not working in safari, also available on youtube",information,03:34,0,"animation, drawing",Lebenswissenschaften,k.A.,"Digital Object Identifier (DOIs) für Forschungsdaten und Publikationen in den Lebenswissenschaften, 2: Registrierung von DOIs durch Forschungseinrichtungen",2015,German,"Haas, Simone; Kullmer, Bettina; Lindstädt, Birte; Pletsch, Katja; Arning, Ursula; Schmitz, Jasmin",Lindstaedt@zbmed.de,Video
@@ -47,3 +47,8 @@ https://www.youtube.com/watch?v=-fM-RTyseHE,open data,information,07:01,2,whiteb
 https://www.youtube.com/watch?v=cpXMTf6qPfw,"RDM promotion, only text",awareness,02:05,1,powtoon but sliedshow feel,allgemein,youtube,"
 Lilian Austin
 ",2016,engl,Lilian Austin,NA,video
+https://media.ed.ac.uk/channel/Research+Data+Management+and+Sharing/74117801,15 videos: interviews and information for a MOOC,information,60:00,2,video + slideshow,allgemein,CC-BY,Research Data Management and Sharing mooc,2016,english,The University of Edinburgh.,NA,video
+https://www.youtube.com/watch?v=uEf0c0NT9_A,NA,promotion,04:44,3,video,linguistics,?,TROLLing - why linguists need it,NA,NA,NA,NA,NA
+https://www.youtube.com/watch?time_continue=90&v=sSkUUCfps2Y,NA,promotion,03:04,4,video,allgemein,?,"Reuse of Research Data: Rewards, Incentives, and Mindset",NA,NA,NA,NA,NA
+https://www.youtube.com/watch?v=i2jcOJOFUZg&index=2&list=PL2XF5RiVI7GMB6mlitNrD38Z82i2qOmZR,nice discussion about data labels,teaching,03:18,2,interview,allgemein,CC-BY,MANTRA - Jeff Haywood - Importance of good file management in research,2011,english,University of Edinburgh Data Library,NA,video
+https://www.youtube.com/watch?v=RhxVmYtKqIY&list=PL2XF5RiVI7GMB6mlitNrD38Z82i2qOmZR&index=3,NA,teaching,02:25,2,interview,allgemein,CC-BY,MANTRA - Richard Rodger - Organising data,2011,english,University of Edinburgh Data Library,NA,video
