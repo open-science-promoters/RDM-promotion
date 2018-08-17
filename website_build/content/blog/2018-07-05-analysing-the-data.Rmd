@@ -58,7 +58,7 @@ cat(unique(argument_analysis$Argument), sep = "<br>")
 ```{r, run-numeric-md, include=FALSE}
 argument_analysis= argument_analysis [,c(5,1,2,3,4,6)]
 
-argument_analysis$source_extern = 
+argument_analysis$source_extern <- 
   paste0 ('<a href="',argument_analysis$source_extern,'" target="_blank">',argument_analysis$source_extern,"</a>")
 
 argum = unique(argument_analysis$Argument)
