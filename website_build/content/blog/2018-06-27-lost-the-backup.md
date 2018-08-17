@@ -23,5 +23,5 @@ I think comments are unnecessary.
 Distributed under a CC-BY license, photo ©Peter Murray-Rust
 originally posted at https://blogs.ch.cam.ac.uk/pmr/2011/08/01/why-you-need-a-data-management-plan/
 
-Collected by Julien Colomb, originally 
+Collected by Julien Colomb,
 data manager

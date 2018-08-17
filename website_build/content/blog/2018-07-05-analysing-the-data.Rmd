@@ -1,0 +1,77 @@
+---
+title: Analysing the data
+author: Julien Colomb
+date: '2018-07-05'
+slug: analysing-the-data
+categories:
+  - material
+tags:
+  - RDM
+  - CC0
+---
+
+
+On this page, we will report the analysis of the data we gathered and collected, the page is recreated with updated data. The data itsel is created in a spreadsheet available on the github page. We welcome any of your comments in the blog comment section below.
+
+
+```{r, echo=FALSE, warning=FALSE,message=FALSE}
+
+library (tidyverse, quietly = TRUE, warn.conflicts = FALSE)
+
+argument_analysis <- read_delim("../../static/material/CC0/argument_analysis.csv", 
+    "\t", escape_double = FALSE, trim_ws = TRUE,
+    col_types = cols(
+  ID =  col_character(),
+  Argument = col_character(),
+  type_of_col = col_character(),
+  `linked to` = col_character(),
+  content = col_character(),
+  source_intern_slug = col_character(),
+  source_extern = col_character()
+)
+) 
+
+argument_analysis$type_of_col = as.factor (argument_analysis$type_of_col)
+
+```
+
+
+`r # We split that data into one table for each argumentation.`
+
+For each argument, we gathered 
+
+- real life stories
+- punch lines
+- jokes, funny way to bring it
+- reference to the (pop) culture wich could be used
+
+# list of arguments:
+
+```{r, echo=FALSE, results='asis'}
+
+cat(unique(argument_analysis$Argument), sep = "<br>")
+
+```
+
+# details
+
+```{r, run-numeric-md, include=FALSE}
+argument_analysis= argument_analysis [,c(5,1,2,3,4,6)]
+
+argument_analysis$source_extern = 
+  paste0 ('<a href="',argument_analysis$source_extern,'" target="_blank">',argument_analysis$source_extern,"</a>")
+
+argum = unique(argument_analysis$Argument)
+out = NULL
+for (thisargument in  argum){
+  
+  #cat (paste0("## ",thisargument, " <br>"))
+  #print (nrow (table))
+  #print(htmltools::tagList(DT::datatable(table)))
+  #out = c(out, knitr::knit_expand('../../template_analysis.rmd'))
+  out = c(out, knitr::knit_expand('../../template_analysis.rmd'))
+}
+```
+
+`r paste(knitr::knit( text= out), collapse = '\n')`
+
