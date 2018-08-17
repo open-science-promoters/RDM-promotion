@@ -4,7 +4,7 @@ author: Julien Colomb
 date: '2018-06-11'
 slug: idea-meta-analysis
 categories:
-  - new_mat_idea
+  - idea_new_mat
 tags:
   - metaanalysis
   - CC0

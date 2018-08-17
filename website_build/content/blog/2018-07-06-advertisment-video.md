@@ -4,9 +4,12 @@ author: Julien Colomb
 date: '2018-07-06'
 slug: advertisment-video
 categories:
-  - video inspiration
+  - idea_new_mat
 tags:
   - CC0
+  - inspiration
+  - form_notcontent
+banner : "material/CC0/openwindow.jpg"  
 ---
 
 Links to interesting advertisment videos: giving ideas

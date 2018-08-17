@@ -9,8 +9,19 @@ blogdown::hugo_build() # do not recompile rmd file
 
 blogdown:::new_post_addin()
 
-# banner : "img/userstory.png"   
-# banner : "img/newidea.png"   
+# banner : "img/userstory.png"  
+# banner : "material/CC-BY/eJournals_DigitalPreservation.png"
+# collected_stories (user or from web)
+  # tags: - user_story
+  # tags: - collected data
+# banner : "img/newidea.png"  
+# idea_new_mat
+# banner : "material/CC-BY/eJournals_DigitalPreservation.png"
+#data
+
+# banner : "material/CC-BY/FunctionalPreservation_DigitalPreservation"
+#created_material
+
 
 # Distributed under a CC0 license
 # 

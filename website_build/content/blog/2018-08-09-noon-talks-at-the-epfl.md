@@ -4,9 +4,11 @@ author: Frank Milfort and Eliane Blumer
 date: '2018-08-09'
 slug: noon-talks-at-the-epfl
 categories:
-  - promotion_strategies
-tags: []
-banner: "material/CC0/openwindow.jpg"
+  - collected_stories
+tags:
+  - collected data
+  - strategies
+banner: "material/CC-BY/eJournals_DigitalPreservation.png"
 ---
 
 The Noon Talks are regular events that took place twice a year since 2016 at the Library. These events mainly cover scientific related topics such as preprints, open access, reusing content in theses, etc. The most efficient way to promote this event are our emailing list that we use to spread invitations on the campus. We obviously communicate as well on the common social media and via other channels (screens on the campus, online agendas, events lists, etc.). On average, 70 participants took part in these events.

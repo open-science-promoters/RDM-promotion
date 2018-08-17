@@ -4,10 +4,12 @@ author: Julien Colomb
 date: '2018-07-04'
 slug: openscholarchampions
 categories:
-  - collected_data
+  - collected_stories
 tags:
   - CC-BY
   - open data
+  - collected data
+banner : "material/CC-BY/eJournals_DigitalPreservation.png"  
 ---
 
 ## Prof. Tuuli Toivonen on 5 June 2017, University of Helsinki

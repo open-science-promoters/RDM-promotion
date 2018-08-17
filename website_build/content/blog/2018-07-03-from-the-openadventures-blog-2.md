@@ -4,10 +4,11 @@ author: Julien Colomb
 date: '2018-07-03'
 slug: from-the-openadventures-blog-2
 categories:
-  - collected_data
+  - collected_stories
 tags:
   - CC-BY
-banner: "img/ORPP.png"  
+  - collected data
+banner: "material/CC-BY/eJournals_DigitalPreservation.png" 
 ---
 
 We report here abstract form the text present on the origina blog

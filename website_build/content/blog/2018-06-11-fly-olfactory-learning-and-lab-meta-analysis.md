@@ -4,7 +4,7 @@ author: Julien Colomb
 date: '2018-06-11'
 slug: fly-olfactory-learning-and-lab-meta-analysis
 categories:
-  - life_story
+  - collected_stories
 tags:
   - user_story
   - metaanalysis

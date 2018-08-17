@@ -4,11 +4,13 @@ author: Julien Colomb
 date: '2018-07-04'
 slug: open-data-coming-proof
 categories:
-  - collected_data
+  - collected_stories
 tags:
   - CC-BY
   - open data
   - policies
+  - collected data
+banner : "material/CC-BY/eJournals_DigitalPreservation.png"  
 ---
 
 Open data is coming, here are some data to backup this claim:

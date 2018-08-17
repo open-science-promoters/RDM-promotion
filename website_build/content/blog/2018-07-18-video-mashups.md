@@ -4,12 +4,13 @@ author: Julien Colomb
 date: '2018-07-18'
 slug: video-mashups
 categories:
-  - video inspiration
+  - idea_new_mat
 tags:
   - CC0
   - promotion
   - reuse
   - ideas
+  - form_notcontent
 banner : "material/CC0/openwindow.jpg"  
 ---
 

@@ -4,12 +4,13 @@ author: Julien Colomb
 date: '2018-06-27'
 slug: lost-the-backup
 categories:
-  - life_story
+  - collected_stories
 tags:
   - CC-BY
   - RDM
   - data loss
-banner : "../blog/2018-06-27-lost-the-backup_files/lostandfound_data.png"  
+  - collected data
+banner : "material/CC-BY/eJournals_DigitalPreservation.png"
 ---
 
 <img src="/blog/2018-06-27-lost-the-backup_files/lostandfound_data.png" alt="Note the value of the lost 5 year research data" width="80%"/>

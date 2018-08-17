@@ -4,12 +4,13 @@ author: Franziska Zander
 date: '2018-06-26'
 slug: exposing-research-data
 categories:
-  - life_story
+  - collected_stories
 tags:
   - CC0
   - open data
   - RDM
   - reuse
+  - user_story
 banner : "img/userstory.png"   
 ---
 

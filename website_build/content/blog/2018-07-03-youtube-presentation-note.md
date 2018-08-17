@@ -4,10 +4,11 @@ author: Julien Colomb
 date: '2018-07-03'
 slug: youtube-presentation-note
 categories:
-  - collected_data
+  - collected_stories
 tags:
   - CC-BY
-banner: "img/ORPP.png"    
+   - collected data
+banner: "material/CC-BY/eJournals_DigitalPreservation.png" 
 ---
 
 https://www.youtube.com/watch?v=hRoqQX97F6o&list=PLG24w6ETyHS3fYbDnB6LOOzOfATVhP3zp&index=16&t=0s
@@ -24,3 +25,9 @@ https://www.youtube.com/watch?v=bccJtgiM67c&feature=youtu.be
 better to get a continuous flow of promotion coming that single workshops.
 
 the added value of RDM and value of data.
+
+---
+ Distributed under a CC0 license
+ 
+ Collected by Julien Colomb,
+ data manager

@@ -4,7 +4,7 @@ author: Julien Colomb
 date: '2018-06-21'
 slug: open-fair-data-is-coming
 categories:
-  - new_mat_idea
+  - idea_new_mat
 tags:
   - open data
   - policies

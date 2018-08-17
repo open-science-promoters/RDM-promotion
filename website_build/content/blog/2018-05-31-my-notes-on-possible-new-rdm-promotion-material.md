@@ -3,12 +3,12 @@ title: my notes on possible new RDM promotion material
 author: Julien Colomb
 date: '2018-05-31'
 slug: my-notes-on-possible-new-rdm-promotion-material
-categories: []
+categories: [idea_new_mat]
 tags:
   - RDM
   - promotion
   - CC0
-banner : "img/data_crash.png"
+banner : "img/newidea.png"
 ---
 
 ## type of videos

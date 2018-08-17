@@ -4,12 +4,13 @@ author: Julien Colomb
 date: '2018-06-21'
 slug: paper-retraction-in-absence-of-data
 categories:
-  - life_story
+  - collected_stories
 tags:
   - RDM
   - reproducibility
   - CC0
-banner : "img/userstory.png"   
+  - collected data
+banner : "material/CC-BY/eJournals_DigitalPreservation.png"  
 ---
 
 see copyrighted material here: http://science.sciencemag.org/content/357/6352/654.1

@@ -4,13 +4,14 @@ author: Julien Colomb
 date: '2018-06-21'
 slug: first-draft-of-slideshow-presentation-for-new-professors-v-0-1
 categories:
-  - material
+  - created_material
 tags:
   - CC-BY-SA
   - grant
   - policies
   - promotion
   - RDM
+banner : "material/CC-BY/FunctionalPreservation_DigitalPreservation"
 ---
 
 This video is a first draft, I would be happy to get some feedback, about the storyline and the overall design. It is focused on the HU, because I will use it for my job interview there. A version aimed at the FSU will probably follow. This post may be updated when new versions of the video will be made.

@@ -4,11 +4,13 @@ author: Julien Colomb
 date: '2018-08-07'
 slug: mashup-data-analysis
 categories:
-  - mashups_script
+  - idea_new_mat
 tags:
   - CC0
   - reproducibility
   - reuse
+  - script
+banner : "img/newidea.png"   
 ---
 
 Topic: rdm for data analysis

@@ -4,7 +4,7 @@ author: Olena Tykhostup
 date: '2018-06-20'
 slug: data-fairy
 categories:
-  - new_mat_idea
+  - idea_new_mat
 tags:
   - CC0
   - promotion

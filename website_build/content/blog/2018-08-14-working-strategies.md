@@ -4,12 +4,17 @@ author: Julien Colomb
 date: '2018-08-14'
 slug: working-strategies
 categories:
-  - collected_data
-tags: []
-
+  - analysis
+tags:
+  - strategies
+  - scenarios
+  - arguments
+banner : "material/CC-BY/FunctionalPreservation_DigitalPreservation.png"
 ---
 
-obtained from https://research-data-network.readme.io/docs/senior-management-engagement
+Modified from https://research-data-network.readme.io/docs/senior-management-engagement (reorganise text and add comments),
+
+This is the result of the analyse of discussion in the UK community, remember that country specificities in working strategies and stories are to be expected.
 
 
 # Use senarios and story-telling
