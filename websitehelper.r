@@ -23,10 +23,10 @@ blogdown:::new_post_addin()
 #created_material
 
 
-# Distributed under a CC0 license
-# 
-# Collected by Julien Colomb,
-# data manager
+Distributed under a CC0 license
+
+Collected by Julien Colomb,
+data manager
 
 ## get googlesheetsupdates
 #library(googlesheets)
