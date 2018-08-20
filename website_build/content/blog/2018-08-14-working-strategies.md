@@ -4,7 +4,7 @@ author: Julien Colomb
 date: '2018-08-14'
 slug: working-strategies
 categories:
-  - analysis
+  - collected_data
 tags:
   - strategies
   - scenarios
