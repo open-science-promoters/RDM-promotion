@@ -67,11 +67,13 @@ What to do to get data in a state where it is easy to analyse? No problem, I am 
 
 *Prepare data for analysis*
 
-V3: datq manager as super hero:
+---
+
+V3: data manager as super hero:
 
 It took a while for the scripts to run. I can still remember sitting there listening to the screeching sounds of the computer. And then one by one I got... Oh no! there are problems with the data!
 
-In blackest drawers, in brightest delight
+In brightest day, in blackest night,
 No data shall escape my sight. 
 Let those who start their research fight
 listen to my advice… data managers’ light.
@@ -84,3 +86,28 @@ Beware, you might be a lucky researcher and someone already created standard dat
 And remember, you might need to combine different datasets to answer your question. Make your data ready for it: use or create standard vocabularies, plan data conversions and do not forget to...
 
 Want to know more, check at your institutions how you can get personal conselling.
+
+---
+
+v4: wizard of oz: 
+
+It took a while for the scripts to run. I can still remember sitting there listening to the screeching sounds of the computer. And then one by one I got... Oh no! there are problems with the data!
+
+*Why, anybody can produce data. That's a very mediocre commodity. 
+Back where I come from, we have universities, seats of great research, where men go to produce great data analysis. They get great analyses done and with no more data than you have. But they have one thing you haven't got: data management.
+So says the data managers in Oz, they are a very good men, but a very bad Wizards. Listen*
+
+Know how your data will be analysed before you start collecting it!
+You will then be better equipped to plan and choose how you will collect the data, in which format you will digitalise it, and how you will organise and save it. 
+
+Beware, you might be a lucky researcher and someone already created standard data formats and analysis tools that you can use. Look for it.
+
+And remember, you might need to combine different datasets to answer your question. Make your data ready for it: use or create standard vocabularies, plan data conversions and do not forget to...
+
+Want to know more, check at your institutions how you can get personal conselling.
+
+
+
+All you need is a good data management plan. There is no researcher who is not afraid when it faces the new #opendata standards. The true courage is in facing these difficulties early on, and that kind of wit you have in plenty.
+
+Your dataset is not judged by how much you love it, but by how much it is loved by others.

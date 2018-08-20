@@ -13,13 +13,14 @@ tags:
 banner: "material/CC-BY/data_reuse.png"  
 ---
 
-# This document
+# Method
 
-Here, we use the data collected and analysed so far and give a non-automatized report. It is based on the elements found at [blog of the analysis category](https://rdmpromotion.rbind.io/categories/analysis/ ).
+Here, we use the text collected and analysed so far (mostly via browsing the web, few direct contribution from the crowd), comparing it to a report from the research data alliance report. Both reports can be found as blog posts found [under the  category analysis](https://rdmpromotion.rbind.io/categories/analysis/ ).
+
 
 # Summary
 
-We collected stories we got from contributors and stories we found in different blogs and papers on the net. We could see three interesting content: Marketing strategies (how to reach researchers), arguments for RDM, and stories to tell.
+We focused our analysis on three interesting content: Marketing strategies (how to reach researchers), arguments for research data management, and stories to tell.
 
 ## marketing strategies
 
