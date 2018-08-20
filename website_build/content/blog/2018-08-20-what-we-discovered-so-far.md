@@ -62,3 +62,10 @@ In a second phase, one can use different arguments to convince people to do RDM 
 # Conclusion
 
 Only the efficiencies and ethical arguments were reported in the research data network blog (2017). This is in contrast with the reaction of scientists when asked about their happies data moment: they only refer to data analyses. I therefore think there is a high potential in presenting a pragmatic approach to rdm, where its importance for data analysis (on the long term) is emphasized.
+
+---
+
+ Distributed under a CC-BY license
+
+ Julien Colomb,
+ data manager
