@@ -4,7 +4,7 @@ author: Julien Colomb, Roman Gerlach
 date: '2018-08-20'
 slug: branding-as-data-preparation-for-analysis
 categories:
-  - collected_data
+  - collected_stories
 tags:
   - user_story
 banner : "img/userstory.png"   
