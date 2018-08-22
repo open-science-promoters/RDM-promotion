@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Promotion of Research data management, an open source Project.</title>
+    <link>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/categories/</link>
+    <description>Recent content in Categories on Promotion of Research data management, an open source Project.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Analysis</title>
+      <link>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/categories/analysis/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/categories/analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collected_stories</title>
+      <link>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/categories/collected_stories/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/categories/collected_stories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Created_material</title>
+      <link>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/categories/created_material/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/categories/created_material/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Idea_new_mat</title>
+      <link>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/categories/idea_new_mat/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/categories/idea_new_mat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Policies on Promotion of Research data management, an open source Project.</title>
+    <link>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/tags/policies/</link>
+    <description>Recent content in Policies on Promotion of Research data management, an open source Project.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/tags/policies/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Open data is coming</title>
+      <link>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/07/04/open-data-coming-proof/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/07/04/open-data-coming-proof/</guid>
+      <description>Open data is coming, here are some data to backup this claim:
+Carlos Moedas – Commissioner for Research, Science and Innovation - said on 22 June 2015:
+ This will mean setting standards for the management, interoperability and quality of scientific data. I would like to see progress on this in next 12 months. And I will want to see what further support or requirements for open data should be introduced in Horizon 2020 following the mid term review.</description>
+    </item>
+    
+    <item>
+      <title>first draft of slideshow presentation for new professors v.0.1</title>
+      <link>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/06/21/first-draft-of-slideshow-presentation-for-new-professors-v-0-1/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/06/21/first-draft-of-slideshow-presentation-for-new-professors-v-0-1/</guid>
+      <description>This video is a first draft, I would be happy to get some feedback, about the storyline and the overall design. It is focused on the HU, because I will use it for my job interview there. A version aimed at the FSU will probably follow. This post may be updated when new versions of the video will be made.
+You can download it here (the quality of the image is low on purpose): https://github.</description>
+    </item>
+    
+    <item>
+      <title>open FAIR data is coming</title>
+      <link>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/06/21/open-fair-data-is-coming/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/06/21/open-fair-data-is-coming/</guid>
+      <description>A scientist is sitting in the cafeteria, we ear people chatting:
+ Do you know, you need to provide your data when you publish? The data should be in a state where it can be re-used. And each scientist is responsible for dealing with his data.  The scientist says: &amp;ldquo;That is bullshit: who is saying that?&amp;rdquo;
+ Our main funders (DFG) Our favorite publishers Our employer, the university, is, too!</description>
+    </item>
+    
+  </channel>
+</rss>

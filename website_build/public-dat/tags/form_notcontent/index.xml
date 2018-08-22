@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Form_notcontent on Promotion of Research data management, an open source Project.</title>
+    <link>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/tags/form_notcontent/</link>
+    <description>Recent content in Form_notcontent on Promotion of Research data management, an open source Project.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/tags/form_notcontent/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>video mashups</title>
+      <link>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/07/18/video-mashups/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/07/18/video-mashups/</guid>
+      <description>The inspiration comes from ARTE: https://www.arte.tv/fr/videos/RC-015330/propaganda/ (french) https://www.arte.tv/de/videos/RC-015330/moneypulation/ (german), and I talk about the format, not the content :)
+The idea is to create mashup videos, i.e. videos where the images are unrelated to the content but bring humor or a different perspective to what the voice off is saying. There is a lot of free to reuse videos available to do it.
+The strategy to make some is to first write a script for the voice off and then look for the videos.</description>
+    </item>
+    
+    <item>
+      <title>advertisment video</title>
+      <link>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/07/06/advertisment-video/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/07/06/advertisment-video/</guid>
+      <description>Links to interesting advertisment videos: giving ideas
+http://www.culturepub.fr/videos/volkswagen-golf-kids-dreams/ we make future real (VW)
+https://twitter.com/culturepub/status/1014081590706819072</description>
+    </item>
+    
+  </channel>
+</rss>

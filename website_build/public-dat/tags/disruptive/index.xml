@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Disruptive on Promotion of Research data management, an open source Project.</title>
+    <link>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/tags/disruptive/</link>
+    <description>Recent content in Disruptive on Promotion of Research data management, an open source Project.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/tags/disruptive/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>link RDM with the open science movement via Wikimedia</title>
+      <link>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/08/21/link-rdm-os-wikimedia/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/08/21/link-rdm-os-wikimedia/</guid>
+      <description>The very first Data Management Engagement Award, a competition sponsored by SPARC Europe, the University of Cambridge and Jisc to elicit new and imaginative ideas for engaging researchers in the practices of good Research Data Management (RDM).
+Our proposal is to link RDM with the open science movement via the Wikimedia suite of tools.
+Basically just share yours or others’ openly licensed research material via Wikimedia Commons to create an aggregated resource that can be used to improve Wikipedia.</description>
+    </item>
+    
+  </channel>
+</rss>

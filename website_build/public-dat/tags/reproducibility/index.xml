@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reproducibility on Promotion of Research data management, an open source Project.</title>
+    <link>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/tags/reproducibility/</link>
+    <description>Recent content in Reproducibility on Promotion of Research data management, an open source Project.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/tags/reproducibility/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mashup_data analysis</title>
+      <link>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/08/07/mashup-data-analysis/</link>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/08/07/mashup-data-analysis/</guid>
+      <description>Topic: rdm for data analysis
+template: Start with sth positive. one-liner problem. get the fixed content for all videos (time travel, rdm professional ,&amp;hellip;?)
+explain what can be done to fix the problem.
+Script: &amp;ldquo;It took a while for the scripts to run. I can still remember sitting there listening to the screeching sounds of the computer. And then one by one I got the results, and they all confirmed my hypothesis.</description>
+    </item>
+    
+    <item>
+      <title>paper retraction in absence of data</title>
+      <link>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/06/21/paper-retraction-in-absence-of-data/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/06/21/paper-retraction-in-absence-of-data/</guid>
+      <description>see copyrighted material here: http://science.sciencemag.org/content/357/6352/654.1
+In brief, a paper was retracted from science because the raw data could not be presented. The computer containing the data has apparently been stolen and no backup existed.
+There are other similar stories on retractionwatch.com (https://retractionwatch.com/2016/02/23/we-are-living-in-hell-authors-retract-2nd-paper-due-to-missing-raw-data/, https://retractionwatch.com/2017/01/20/boom-headshot-disputed-video-game-paper-retracted/). It is not always clear if there were misconduct, but it seems the absence of data makes it impossible for researchers to prove they did not misconduct.</description>
+    </item>
+    
+    <item>
+      <title>open science and quality management 1</title>
+      <link>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/06/01/open-science-and-quality-management/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/06/01/open-science-and-quality-management/</guid>
+      <description>During the second week of march, I had the chance to participate to two interesting meetings: the open science barcamp and the premierquality seminar. Both events have some online archive with results of discussion for the barcamp (https://etherpad.wikimedia.org/p/oscibar2018) and slides of the presentations for the seminar (https://www.bihealth.org/de/quest-center/projekte/premier/news/). I was stroked by the similarity in the discourses, not only concerning the problems discussed but also the solutions proposed.
+Here is the first of a series of blog about the parallel between the two events and communities.</description>
+    </item>
+    
+  </channel>
+</rss>

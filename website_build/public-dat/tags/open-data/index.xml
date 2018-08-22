@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Data on Promotion of Research data management, an open source Project.</title>
+    <link>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/tags/open-data/</link>
+    <description>Recent content in Open Data on Promotion of Research data management, an open source Project.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/tags/open-data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Open data is coming</title>
+      <link>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/07/04/open-data-coming-proof/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/07/04/open-data-coming-proof/</guid>
+      <description>Open data is coming, here are some data to backup this claim:
+Carlos Moedas – Commissioner for Research, Science and Innovation - said on 22 June 2015:
+ This will mean setting standards for the management, interoperability and quality of scientific data. I would like to see progress on this in next 12 months. And I will want to see what further support or requirements for open data should be introduced in Horizon 2020 following the mid term review.</description>
+    </item>
+    
+    <item>
+      <title>openscholarchampions</title>
+      <link>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/07/04/openscholarchampions/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/07/04/openscholarchampions/</guid>
+      <description>Prof. Tuuli Toivonen on 5 June 2017, University of Helsinki https://openscholarchampions.eu/opendata/champion/changeresearchcultureforopendatadefault/
+It was frustrating to know that valuable data had been collected but there was no access to that. The frustration was particularly intense if the data was collected by publicly-funded institutions that did not have the resources to really analyse the data. Then, we argued, that publicly-produced data should be mobilised for research. Or even better, we argued, it should be available for everyone without restrictions, to reduce the administrative workload and to reduce the barriers for collaboration and innovation between scientists, companies and active citizens.</description>
+    </item>
+    
+    <item>
+      <title>Exposing research data</title>
+      <link>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/06/26/exposing-research-data/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/06/26/exposing-research-data/</guid>
+      <description>In my work, I am the developer and administrator of a web based information system for research data applied in more than 30 research projects to share collected, brought or created data within the project consortium and with stakeholders. Even single researcher e.g. PhD students use the system to organize their own data. While most datasets can be downloaded without any extra request, few datasets can only be downloaded after the dataset owner approval.</description>
+    </item>
+    
+    <item>
+      <title>open FAIR data is coming</title>
+      <link>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/06/21/open-fair-data-is-coming/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/06/21/open-fair-data-is-coming/</guid>
+      <description>A scientist is sitting in the cafeteria, we ear people chatting:
+ Do you know, you need to provide your data when you publish? The data should be in a state where it can be re-used. And each scientist is responsible for dealing with his data.  The scientist says: &amp;ldquo;That is bullshit: who is saying that?&amp;rdquo;
+ Our main funders (DFG) Our favorite publishers Our employer, the university, is, too!</description>
+    </item>
+    
+    <item>
+      <title>open science and quality management 1</title>
+      <link>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/06/01/open-science-and-quality-management/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/06/01/open-science-and-quality-management/</guid>
+      <description>During the second week of march, I had the chance to participate to two interesting meetings: the open science barcamp and the premierquality seminar. Both events have some online archive with results of discussion for the barcamp (https://etherpad.wikimedia.org/p/oscibar2018) and slides of the presentations for the seminar (https://www.bihealth.org/de/quest-center/projekte/premier/news/). I was stroked by the similarity in the discourses, not only concerning the problems discussed but also the solutions proposed.
+Here is the first of a series of blog about the parallel between the two events and communities.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reuse on Promotion of Research data management, an open source Project.</title>
+    <link>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/tags/reuse/</link>
+    <description>Recent content in Reuse on Promotion of Research data management, an open source Project.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/tags/reuse/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mashup_data analysis</title>
+      <link>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/08/07/mashup-data-analysis/</link>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/08/07/mashup-data-analysis/</guid>
+      <description>Topic: rdm for data analysis
+template: Start with sth positive. one-liner problem. get the fixed content for all videos (time travel, rdm professional ,&amp;hellip;?)
+explain what can be done to fix the problem.
+Script: &amp;ldquo;It took a while for the scripts to run. I can still remember sitting there listening to the screeching sounds of the computer. And then one by one I got the results, and they all confirmed my hypothesis.</description>
+    </item>
+    
+    <item>
+      <title>video mashups</title>
+      <link>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/07/18/video-mashups/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/07/18/video-mashups/</guid>
+      <description>The inspiration comes from ARTE: https://www.arte.tv/fr/videos/RC-015330/propaganda/ (french) https://www.arte.tv/de/videos/RC-015330/moneypulation/ (german), and I talk about the format, not the content :)
+The idea is to create mashup videos, i.e. videos where the images are unrelated to the content but bring humor or a different perspective to what the voice off is saying. There is a lot of free to reuse videos available to do it.
+The strategy to make some is to first write a script for the voice off and then look for the videos.</description>
+    </item>
+    
+    <item>
+      <title>Exposing research data</title>
+      <link>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/06/26/exposing-research-data/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/06/26/exposing-research-data/</guid>
+      <description>In my work, I am the developer and administrator of a web based information system for research data applied in more than 30 research projects to share collected, brought or created data within the project consortium and with stakeholders. Even single researcher e.g. PhD students use the system to organize their own data. While most datasets can be downloaded without any extra request, few datasets can only be downloaded after the dataset owner approval.</description>
+    </item>
+    
+  </channel>
+</rss>

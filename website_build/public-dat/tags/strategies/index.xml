@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Strategies on Promotion of Research data management, an open source Project.</title>
+    <link>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/tags/strategies/</link>
+    <description>Recent content in Strategies on Promotion of Research data management, an open source Project.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/tags/strategies/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>link RDM with the open science movement via Wikimedia</title>
+      <link>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/08/21/link-rdm-os-wikimedia/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/08/21/link-rdm-os-wikimedia/</guid>
+      <description>The very first Data Management Engagement Award, a competition sponsored by SPARC Europe, the University of Cambridge and Jisc to elicit new and imaginative ideas for engaging researchers in the practices of good Research Data Management (RDM).
+Our proposal is to link RDM with the open science movement via the Wikimedia suite of tools.
+Basically just share yours or others’ openly licensed research material via Wikimedia Commons to create an aggregated resource that can be used to improve Wikipedia.</description>
+    </item>
+    
+    <item>
+      <title>working strategies</title>
+      <link>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/08/14/working-strategies/</link>
+      <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/08/14/working-strategies/</guid>
+      <description>Modified from https://research-data-network.readme.io/docs/senior-management-engagement (reorganise text and add comments),
+This is the result of the analyse of discussion in the UK community, remember that country specificities in working strategies and stories are to be expected.
+Use senarios and story-telling Accusation of fraud We all agreed that one strategy that works for almost all possible audience types are doomsday scenarios – disasters that can happen when researchers do not adhere to good RDM practice.</description>
+    </item>
+    
+    <item>
+      <title>Noon talks at the EPFL</title>
+      <link>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/08/09/noon-talks-at-the-epfl/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/08/09/noon-talks-at-the-epfl/</guid>
+      <description>The Noon Talks are regular events that took place twice a year since 2016 at the Library. These events mainly cover scientific related topics such as preprints, open access, reusing content in theses, etc. The most efficient way to promote this event are our emailing list that we use to spread invitations on the campus. We obviously communicate as well on the common social media and via other channels (screens on the campus, online agendas, events lists, etc.</description>
+    </item>
+    
+  </channel>
+</rss>
