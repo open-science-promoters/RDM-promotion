@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Analysis on Promotion of Research data management, an open source Project.</title>
-    <link>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/categories/analysis/</link>
+    <link>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/categories/analysis/</link>
     <description>Recent content in Analysis on Promotion of Research data management, an open source Project.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/categories/analysis/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/categories/analysis/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>What we discovered so far</title>
-      <link>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/08/20/what-we-discovered-so-far/</link>
+      <link>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/blog/2018/08/20/what-we-discovered-so-far/</link>
       <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/08/20/what-we-discovered-so-far/</guid>
+      <guid>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/blog/2018/08/20/what-we-discovered-so-far/</guid>
       <description>Method Here, we use the text collected and analysed so far (mostly via browsing the web, few direct contribution from the crowd), comparing it to a report from the research data alliance report. Both reports can be found as blog posts found under the category analysis.
 Summary We focused our analysis on three interesting content: Marketing strategies (how to reach researchers), arguments for research data management, and stories to tell.</description>
     </item>
     
     <item>
       <title>working strategies</title>
-      <link>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/08/14/working-strategies/</link>
+      <link>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/blog/2018/08/14/working-strategies/</link>
       <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/08/14/working-strategies/</guid>
+      <guid>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/blog/2018/08/14/working-strategies/</guid>
       <description>Modified from https://research-data-network.readme.io/docs/senior-management-engagement (reorganise text and add comments),
 This is the result of the analyse of discussion in the UK community, remember that country specificities in working strategies and stories are to be expected.
 Use senarios and story-telling Accusation of fraud We all agreed that one strategy that works for almost all possible audience types are doomsday scenarios – disasters that can happen when researchers do not adhere to good RDM practice.</description>
@@ -34,10 +34,10 @@ Use senarios and story-telling Accusation of fraud We all agreed that one strate
     
     <item>
       <title>Analysing the data</title>
-      <link>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/07/05/analysing-the-data/</link>
+      <link>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/blog/2018/07/05/analysing-the-data/</link>
       <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>dat://22185fbab02c357e9ded9a2138bf0b7797acb04453cd6f69ea5f5741d96c5ae5/blog/2018/07/05/analysing-the-data/</guid>
+      <guid>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/blog/2018/07/05/analysing-the-data/</guid>
       <description>On this page, we will report the analysis of the data we gathered and collected, the page is recreated with updated data. The data itsel is created in a spreadsheet available on the github page. We welcome any of your comments in the blog comment section below.
 For each argument, we gathered
  real life stories punch lines jokes, funny way to bring it reference to the (pop) culture wich could be used  list of arguments: Open data is inevitable</description>
