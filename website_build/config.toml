@@ -176,7 +176,7 @@ paginate = 6
     # For more informtion take a look at the README.
     title = "Partners and supporters"
     subtitle = "Click here for detailed information."
-    url  = "/Thanks/"    
+    url  = "/thanks/"    
 
 [params.recent_posts]
     enable = false
