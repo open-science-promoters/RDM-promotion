@@ -90,12 +90,15 @@ Want to know more, check at your institutions how you can get personal consellin
 ---
 
 v4: wizard of oz: 
++ well known
+- not pop culture
+- no direct call to action
 
 It took a while for the scripts to run. I can still remember sitting there listening to the screeching sounds of the computer. And then one by one I got... Oh no! there are problems with the data!
 
 *Why, anybody can produce data. That's a very mediocre commodity. 
 Back where I come from, we have universities, seats of great research, where men go to produce great data analysis. They get great analyses done and with no more data than you have. But they have one thing you haven't got: data management.
-So says the data managers in Oz, they are a very good men, but a very bad Wizards. Listen*
+So says the data managers in Oz, a very good men, but a very bad Wizards. Listen*
 
 Know how your data will be analysed before you start collecting it!
 You will then be better equipped to plan and choose how you will collect the data, in which format you will digitalise it, and how you will organise and save it. 
@@ -111,3 +114,41 @@ Want to know more, check at your institutions how you can get personal consellin
 All you need is a good data management plan. There is no researcher who is not afraid when it faces the new #opendata standards. The true courage is in facing these difficulties early on, and that kind of wit you have in plenty.
 
 Your dataset is not judged by how much you love it, but by how much it is loved by others.
+
+---
+v5: it's a wonderful life: 
+(one could also go the other way and take only images of that movie for the whole movie, changing the voices)
++ movie (but not sound/music) is public domain
++ strong emotional background fo those who have seen the movie (=whole USA)
++ easier to handle the video
+- no call to action 
+
+I am just curating data, instead of gathering some new one, I will not get tenure...
+
+You've been given a great gift, George: A chance to see what your research would be like without data managment.
+
+Where is the martini files? Never heard of it.
+
+
+Where is my paper? you will not like it: it was retracted because you could not provide the raw data.
+
+
+
+It was right there, in the repository. There have never been any repository, you were not there to build it.
+
+...
+
+Bring me back, bring me back.
+telegram: it is your funding agency: they want to give you a job. Another one, it is a pharma/startup/NGO/... company, you got the job.
+
+Dear George, Remember, no researcher is a failure, who has well managed data.Thanks for the wings, Clarence
+
+
+
+---
+v6 video game classics
+
+mario: Thank you Mario. But our princess is in another castle
+zelda: it#s dangerous to go alone, take this
+Master using it and you can have this
+secret power is said to be in the arrow
