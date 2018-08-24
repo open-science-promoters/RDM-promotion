@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cc By on Promotion of Research data management, an open source Project.</title>
+    <link>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/tags/cc-by/</link>
+    <description>Recent content in Cc By on Promotion of Research data management, an open source Project.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/tags/cc-by/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>scientists’ perceptions about data reuse</title>
+      <link>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/blog/2018/08/23/scientists-perceptions-about-data-reuse/</link>
+      <pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/blog/2018/08/23/scientists-perceptions-about-data-reuse/</guid>
+      <description>modified from http://blogs.lse.ac.uk/impactofsocialsciences/2018/03/20/what-factors-do-scientists-perceive-as-promoting-or-hindering-scientific-data-reuse/ and the article DOI: 10.1371/journal.pone.0189288 (http://doi.org/10.1371/journal.pone.0189288)
+Interesting conclusions: 1. researchers who re-use the data are different from researchers making data open for reuse 2. expressed lack of trust in reused data was not a factor explaining a lack of data reuse: while trust is a problem per se, it does not impeede data reuse. 3. there is a correlation between data reuse and perceived efficacy of data reuse (in contrast to the authors, I am not infering in which direction this might be causal).</description>
+    </item>
+    
+    <item>
+      <title>What we discovered so far</title>
+      <link>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/blog/2018/08/20/what-we-discovered-so-far/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/blog/2018/08/20/what-we-discovered-so-far/</guid>
+      <description>Method Here, we use the text collected and analysed so far (mostly via browsing the web, few direct contribution from the crowd), comparing it to a report from the research data alliance report. Both reports can be found as blog posts found under the category analysis.
+Summary We focused our analysis on three interesting content: Marketing strategies (how to reach researchers), arguments for research data management, and stories to tell.</description>
+    </item>
+    
+    <item>
+      <title>Creative commons blog</title>
+      <link>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/blog/2018/07/04/creative-commons/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/blog/2018/07/04/creative-commons/</guid>
+      <description>Here are extracts from the blog.
+Open Practices and Policies for Research Data in the Marine Community, from Alessandro Sarretta https://creativecommons.org/2016/12/01/open-practices-policies-research-data-marine-community/
+As a researcher in the field(s) of Coastal and Marine Environment and Geospatial Information, I’m constantly dealing with data. Data are the core of science, and research has to be based on sound and reliable data.
+My goal as an IOL fellow is to inform relevant marine communities of the benefits of an open research data policy and, more specifically, to apply these principles to the practices within my institute—the Institute of Marine Sciences (ISMAR), part of the Italian National Research Council.</description>
+    </item>
+    
+    <item>
+      <title>Open data is coming</title>
+      <link>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/blog/2018/07/04/open-data-coming-proof/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/blog/2018/07/04/open-data-coming-proof/</guid>
+      <description>Open data is coming, here are some data to backup this claim:
+Carlos Moedas – Commissioner for Research, Science and Innovation - said on 22 June 2015:
+ This will mean setting standards for the management, interoperability and quality of scientific data. I would like to see progress on this in next 12 months. And I will want to see what further support or requirements for open data should be introduced in Horizon 2020 following the mid term review.</description>
+    </item>
+    
+    <item>
+      <title>openscholarchampions</title>
+      <link>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/blog/2018/07/04/openscholarchampions/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/blog/2018/07/04/openscholarchampions/</guid>
+      <description>Prof. Tuuli Toivonen on 5 June 2017, University of Helsinki https://openscholarchampions.eu/opendata/champion/changeresearchcultureforopendatadefault/
+It was frustrating to know that valuable data had been collected but there was no access to that. The frustration was particularly intense if the data was collected by publicly-funded institutions that did not have the resources to really analyse the data. Then, we argued, that publicly-produced data should be mobilised for research. Or even better, we argued, it should be available for everyone without restrictions, to reduce the administrative workload and to reduce the barriers for collaboration and innovation between scientists, companies and active citizens.</description>
+    </item>
+    
+    <item>
+      <title>From the openadventures blog: 2</title>
+      <link>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/blog/2018/07/03/from-the-openadventures-blog-2/</link>
+      <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/blog/2018/07/03/from-the-openadventures-blog-2/</guid>
+      <description>We report here abstract form the text present on the origina blog
+Jennifer Harris and Tim Fulton (https://openadventures-blog.lib.cam.ac.uk/?p=90)
+The task [asked by data manageers] is sometimes only a small one such as uploading a paper to an institutional repository post-publication. But these small tasks can sometimes be the final straw when it comes to managing your workload.
+We have begun the process of preparing data for publication at the time of collection rather than as a subsequent publication step.</description>
+    </item>
+    
+    <item>
+      <title>From the openadventures blog: 1 interviews</title>
+      <link>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/blog/2018/07/02/from-the-openadventures-blog-1/</link>
+      <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/blog/2018/07/02/from-the-openadventures-blog-1/</guid>
+      <description>text obtained from: https://openadventures-blog.lib.cam.ac.uk
+In a series of interview, data champions were asked to tell about their &amp;ldquo;happiest data moment.&amp;rdquo; Different answer were given.
+David Marshall, @futurelib Around two years ago we (Futurelib) finished the data gathering phase of a project, Protolib, looking at the design of physical study spaces. We had prototyped different study spaces based on the findings of a collaborative design process conducted with Cambridge students and researchers.</description>
+    </item>
+    
+    <item>
+      <title>lost the backup</title>
+      <link>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/blog/2018/06/27/lost-the-backup/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/blog/2018/06/27/lost-the-backup/</guid>
+      <description>The external hard drive is VERY important to me as it contains 5 years of research data which are crucial for my PhD thesis !!!
+ I think comments are unnecessary.
+Distributed under a CC-BY license, photo ©Peter Murray-Rust originally posted at https://blogs.ch.cam.ac.uk/pmr/2011/08/01/why-you-need-a-data-management-plan/
+Collected by Julien Colomb, data manager</description>
+    </item>
+    
+    <item>
+      <title>fly olfactory learning and lab meta-analysis</title>
+      <link>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/blog/2018/06/11/fly-olfactory-learning-and-lab-meta-analysis/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/blog/2018/06/11/fly-olfactory-learning-and-lab-meta-analysis/</guid>
+      <description>In 2007, I entered a lab doing mainly one experiment: olfactory learning assay in fruit fly. The output of the experiment is the number of flies choosing one or the other odor, recorded manually on spreadsheets. For the 14 people in the lab, they were approximately 20 different spreadsheets around. We managed to create one tidy template for all experiments in about 6 months. Interestingly, it took 2-3 of us to design the first draft, we then gathered feedback from the whole group, get a second version and so on.</description>
+    </item>
+    
+  </channel>
+</rss>

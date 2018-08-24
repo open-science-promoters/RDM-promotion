@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grant on Promotion of Research data management, an open source Project.</title>
+    <link>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/tags/grant/</link>
+    <description>Recent content in Grant on Promotion of Research data management, an open source Project.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/tags/grant/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>first draft of slideshow presentation for new professors v.0.1</title>
+      <link>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/blog/2018/06/21/first-draft-of-slideshow-presentation-for-new-professors-v-0-1/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/blog/2018/06/21/first-draft-of-slideshow-presentation-for-new-professors-v-0-1/</guid>
+      <description>This video is a first draft, I would be happy to get some feedback, about the storyline and the overall design. It is focused on the HU, because I will use it for my job interview there. A version aimed at the FSU will probably follow. This post may be updated when new versions of the video will be made.
+You can download it here (the quality of the image is low on purpose): https://github.</description>
+    </item>
+    
+    <item>
+      <title>open FAIR data is coming</title>
+      <link>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/blog/2018/06/21/open-fair-data-is-coming/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/blog/2018/06/21/open-fair-data-is-coming/</guid>
+      <description>A scientist is sitting in the cafeteria, we ear people chatting:
+ Do you know, you need to provide your data when you publish? The data should be in a state where it can be re-used. And each scientist is responsible for dealing with his data.  The scientist says: &amp;ldquo;That is bullshit: who is saying that?&amp;rdquo;
+ Our main funders (DFG) Our favorite publishers Our employer, the university, is, too!</description>
+    </item>
+    
+  </channel>
+</rss>

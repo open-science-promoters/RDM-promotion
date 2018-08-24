@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arguments on Promotion of Research data management, an open source Project.</title>
+    <link>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/tags/arguments/</link>
+    <description>Recent content in Arguments on Promotion of Research data management, an open source Project.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/tags/arguments/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>data archive is putting it out for discovery</title>
+      <link>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/blog/2018/08/20/data-archive-is-putting-it-out-for-discovery/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/blog/2018/08/20/data-archive-is-putting-it-out-for-discovery/</guid>
+      <description>The idea is to represent the idea that data archive is not putting the data in a place where nobody will ever look at it, but showing it to the world.
+The idea is to represent a building, with a scienctist working at its computer and pushing the &amp;ldquo;archive the data&amp;rdquo; button. Then it would show someone in the basement shovelling data into the corners, which a voice over stating that it is what people think archiving is.</description>
+    </item>
+    
+    <item>
+      <title>working strategies</title>
+      <link>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/blog/2018/08/14/working-strategies/</link>
+      <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/blog/2018/08/14/working-strategies/</guid>
+      <description>Modified from https://research-data-network.readme.io/docs/senior-management-engagement (reorganise text and add comments),
+This is the result of the analyse of discussion in the UK community, remember that country specificities in working strategies and stories are to be expected.
+Use senarios and story-telling Accusation of fraud We all agreed that one strategy that works for almost all possible audience types are doomsday scenarios – disasters that can happen when researchers do not adhere to good RDM practice.</description>
+    </item>
+    
+  </channel>
+</rss>
