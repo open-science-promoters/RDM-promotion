@@ -6,10 +6,20 @@
     <description>Recent content in Collected_stories on Promotion of Research data management, an open source Project.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/categories/collected_stories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>scientists’ perceptions about data reuse</title>
+      <link>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/blog/2018/08/23/scientists-perceptions-about-data-reuse/</link>
+      <pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/blog/2018/08/23/scientists-perceptions-about-data-reuse/</guid>
+      <description>modified from http://blogs.lse.ac.uk/impactofsocialsciences/2018/03/20/what-factors-do-scientists-perceive-as-promoting-or-hindering-scientific-data-reuse/ and the article DOI: 10.1371/journal.pone.0189288 (http://doi.org/10.1371/journal.pone.0189288)
+Interesting conclusions: 1. researchers who re-use the data are different from researchers making data open for reuse 2. expressed lack of trust in reused data was not a factor explaining a lack of data reuse: while trust is a problem per se, it does not impeede data reuse. 3. there is a correlation between data reuse and perceived efficacy of data reuse (in contrast to the authors, I am not infering in which direction this might be causal).</description>
+    </item>
     
     <item>
       <title>link RDM with the open science movement via Wikimedia</title>

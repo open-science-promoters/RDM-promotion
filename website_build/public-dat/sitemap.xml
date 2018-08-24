@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/blog/2018/08/23/scientists-perceptions-about-data-reuse/</loc>
+    <lastmod>2018-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/blog/2018/08/21/link-rdm-os-wikimedia/</loc>
     <lastmod>2018-08-21T00:00:00+00:00</lastmod>
   </url>
@@ -158,13 +163,13 @@
   </url>
   
   <url>
-    <loc>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/categories/analysis/</loc>
+    <loc>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/tags/analysis/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/tags/analysis/</loc>
+    <loc>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/categories/analysis/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -177,7 +182,7 @@
   
   <url>
     <loc>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/blog/</loc>
-    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -189,7 +194,7 @@
   
   <url>
     <loc>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/tags/cc-by/</loc>
-    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -213,13 +218,13 @@
   
   <url>
     <loc>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/tags/collected-data/</loc>
-    <lastmod>2018-08-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/categories/collected_stories/</loc>
-    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -323,7 +328,7 @@
   
   <url>
     <loc>dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/</loc>
-    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
