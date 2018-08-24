@@ -5,3 +5,4 @@
 .html
 .httr-oauth
 /website_build/public/**
+/website_build/public-dat/**

@@ -1,12 +1,16 @@
+#
 
 setwd("website_build")
-blogdown::build_site()
+blogdown::hugo_cmd("--config config.toml,config-dat.toml") #bulid dat version
+#blogdown::build_site()
 
 blogdown::stop_server()
-blogdown::serve_site()
+blogdown::serve_site() # preview http version
 
 blogdown::hugo_build() # do not recompile rmd file
 
+-------
+  
 blogdown:::new_post_addin()
 
 # banner : "img/userstory.png"  

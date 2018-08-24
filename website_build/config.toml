@@ -109,7 +109,7 @@ paginate = 6
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Using open science principles to gather and create material for the promotion of best RDM practices</p>
+    text = """<p class="hidden-sm hidden-xs">Using open science principles to gather and create material for the promotion of best RDM practices.</p>
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
       </p>
@@ -143,7 +143,7 @@ paginate = 6
     icon = "fa fa-2x fa-github"
     url  = "/" 
     title = "Project hosted on github,i.e. archived on zenodo."
-    subtitle = ""
+    subtitle = "Published at https://rdmpromotion.rbind.io, and  dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/"
     link_url = "https://github.com/open-science-promoters/RDM-promotion"
     link_text = "https://github.com/open-science-promoters/RDM-promotion"
     
