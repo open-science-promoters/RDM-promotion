@@ -1,3 +1,16 @@
-baseurl = 'dat://be23bc55c79e487e7e627a4e31dbf59db88e6d3365926c987c319d185da63114/'
+baseurl = 'dat://e4af805791046dc8b531ba1b24ae6591295c70e9735479b42e8742d3ce180a3f/'
 
 publishDir = 'public-dat'
+
+# Disable comments by entering no Disqus shortname
+disqusShortname = ""
+
+[params.see_more]
+    enable = true
+    icon = "fa fa-2x fa-github"
+    url  = "/" 
+    title = "Project hosted on github,i.e. archived on zenodo."
+    subtitle = "Also published at https://rdmpromotion.rbind.io"
+    link_url = "https://github.com/open-science-promoters/RDM-promotion"
+    link_text = "https://github.com/open-science-promoters/RDM-promotion"
+    

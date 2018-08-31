@@ -26,14 +26,14 @@ paginate = 6
     weight = 1
 
 [[menu.main]]
-    name = "Blog"
+    name = "texts"
     url  = "/blog/"
     weight = 2
 
 [[menu.main]]
-    name = "FAQ"
+    name = "Images and videos"
     identifier = "faq"
-    url  = "/faq/"
+    url  = "/Promotion/"
     weight = 3
 
 [[menu.main]]
