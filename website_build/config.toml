@@ -32,13 +32,11 @@ paginate = 6
 
 [[menu.main]]
     name = "Images"
-    identifier = "faq"
     url  = "/Promotion/"
     weight = 3
     
 [[menu.main]]
     name = "Videos"
-    identifier = "faq"
     url  = "/videolist/"
     weight = 4    
 
