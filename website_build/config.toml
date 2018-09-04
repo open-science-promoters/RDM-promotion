@@ -31,15 +31,21 @@ paginate = 6
     weight = 2
 
 [[menu.main]]
-    name = "Images and videos"
+    name = "Images"
     identifier = "faq"
     url  = "/Promotion/"
     weight = 3
+    
+[[menu.main]]
+    name = "Videos"
+    identifier = "faq"
+    url  = "/videolist/"
+    weight = 4    
 
 [[menu.main]]
     name = "Contact"
     url  = "/contact/"
-    weight = 4
+    weight = 5
 
 # Top bar social links menu
 
