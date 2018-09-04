@@ -1,0 +1,21 @@
+Dear research data manager,
+
+We want to create an online platform to share experience and material for the promotion of research data management practice (www.rdmpromotion.rbind.io). As many of your colleagues, you are probably thinking: that is a nice idea.
+A survey reported that you are spending 40 to 90 percent of your time doing outreach and teaching activities, and such a platform would make perfect sense, right? 
+
+However, you were not about to click the link to see how you could contribute to the project, were you? Indeed, there is an history of failed attempts at creating such a platform, so let me list a couple of elements that might convince you to make the first step, indeed the project was build to
+
+1. Be collaborative. We are using github to collaborate on the project and we used very easy, powerful and fast technology to add content (googlesheets, markdown blogs, Rmarkdown for reproducible reports, git). 
+
+2. Be persistent. The website costs exactly 0€ for hosting as it used free plans for github, netify and zenodo. There is even a backup plan using the peer to peer network dat*
+
+3. Be yours. The project needs a community behind it to continue its development beyond our funding. There is work to do in helping new contributors in using github to make their own contributions.
+
+
+
+
+
+
+* Even if the web services would go down or not free, there is a backup plan using the peer to peer network dat (in short, if one person gives 100 MB and part of its upload capacity, the website will remain available).
+
+It addition, It is also available on the dat peer to peer network. So the data is safe and the website will be available as long as one of us is seeding it on dat

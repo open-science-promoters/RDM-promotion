@@ -1,0 +1,27 @@
+
+
+## videos listed via googlesheet 
+
+(For technical reasons, we did not apply the website design to this page)
+
+(see https://docs.google.com/spreadsheets/d/1ybqL2WNdJZb7nwEAJ6yWJ0W95D3CtyEkQ97DFcJydsk/edit?usp=sharing to add or cleanse the data)
+
+```{r, echo= FALSE}
+Metad1= read.csv("../static/material/ggsheet_list.csv")
+Metad1$Link = 
+  paste0 ('<a href="',Metad1$Link,'" target="_blank">',Metad1$Link,"</a>")
+Metad1$duration_mm.ss = format(Metad1$duration_mm.ss , format = "%M:%S")
+
+#DT:::DT2BSClass(c('compact', 'cell-border'))
+dt = DT::datatable(
+  Metad1,
+  escape = c(-2),
+  filter = "top"
+  
+  
+)
+
+
+```
+
+`r dt `
