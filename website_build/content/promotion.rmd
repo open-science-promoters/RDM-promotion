@@ -86,15 +86,6 @@ dt = DT::datatable(
     fixedColumns = TRUE
   )
 )
-#widgetframe::frameWidget(dt, width = '95%')
+widgetframe::frameWidget(dt, width = '95%')
 
 ```
-
-
-
-
-`r dt `
-
-
-
-
