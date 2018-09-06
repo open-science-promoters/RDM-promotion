@@ -8,6 +8,7 @@ categories:
 tags:
   - videos
   - CC-BY
+banner : "img/newidea.png"   
 ---
 
 
@@ -16,7 +17,9 @@ Here we are, the first real output of this outreach eeFDM project is here, have 
  
 It will be used as a generic (front credit) for longer videos with more content, we will (probably) start with a video about how rdm can save you time when the data is analysed.
  
-Please tell us one thing you would like to be different (either in the comments, on github or per email, see [the contribrute page](../../../../../contribute/)).
+Please tell us one thing you would like to be different (either in the comments, on github or per email, see [the contribrute page](../../../../../contribute/)). How do you feel with the black and white look, whould we use colors at some point? is the text correct and moving?
+
+---
 
 Text of the generic:
 We did - waiste time during data formating for analysis
@@ -32,3 +35,8 @@ In less time - get digital skills, work smarter
 open data - foster collaboration, become a leader and spread the word.
 
 Data management
+
+---
+
+Delivered by Julien Colomb
+CC-BY 4.0
