@@ -10,7 +10,13 @@ tags:
   - CC-BY
 ---
 
-video at https://figshare.com/s/e2b14570b5991931c92c
+
+Here we are, the first real output of this outreach eeFDM project is here, have a look at our video available on figshare at
+ https://figshare.com/s/e2b14570b5991931c92c
+ 
+It will be used as a generic (front credit) for longer videos with more content, we will (probably) start with a video about how rdm can save you time when the data is analysed.
+ 
+Please tell us one thing you would like to be different (either in the comments, on github or per email, see [the contribrute page](../../../../../contribute/)).
 
 Text of the generic:
 We did - waiste time during data formating for analysis
