@@ -14,18 +14,28 @@ banner : "img/newidea.png"
 
 Here we are, the first real output of this outreach eeFDM project is here, have a look at our video available on figshare at
  https://figshare.com/s/e2b14570b5991931c92c
+
+![The video clip is 40 sec long](/blog/2018-09-06-generic-version-0-1_files/generic_tumb.jpg)
  
-It will be used as a generic (front credit) for longer videos with more content, we will (probably) start with a video about how rdm can save you time when the data is analysed.
+It will be used as a generic (front credit) for longer videos with more content, we will probably start with a video about how rdm can save you time when the data is analysed.
  
-Please tell us one thing you would like to be different (either in the comments, on github or per email, see [the contribrute page](../../../../../contribute/)). How do you feel with the black and white look, whould we use colors at some point? is the text correct and moving?
+Do you think you will use the video on your website and talks? Tell us why. In particular is there anything you would want different for you to use the video?
+(either in the comments, on github or per email, see [the contribrute page](../../../../../contribute/)). 
+
+For example, how do you feel with the black and white desighn, whould we use colors at some point? Do you like the script and text?
 
 ---
 
-Text of the generic:
+#### Text of the generic:
+
 We did - waiste time during data formating for analysis
+
 We did - loose data
+
 We had - a paper rejected because we could not locate the raw data
+
 We did - throw data because we could not make sense of it
+
 We failed - to regonize open data as the new standard
 
 Data managment will help you.
