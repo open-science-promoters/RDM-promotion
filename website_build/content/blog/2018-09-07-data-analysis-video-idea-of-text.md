@@ -19,17 +19,17 @@ Following the
  results of our analysis of researcher's relation to data, we do think that the argument can touch researchers and convince them to seek for help and information about RDM questions. However, we would need a stronger evidence that it is actually true, as well as an understanding of what part of RDM is particularly important for data analysis. So...
 
  
- > What are the advantages RDM brings to data analyis?
+ > What are the advantages RDM brings to data analysis?
  
-Please contact us if you can bring some answer this question or point to existing material that do. Do you have a personal story, do you know of a precific project where RDM was introduced successfully, do you know someone who might contribute to this question? See the [contribute page](../../../../../contribute/) or directly open a [github issue] (https://github.com/open-science-promoters/RDM-promotion/issues/new) to share your experience. 
+Please contact us if you can bring some answer this question or point to existing material that do. Do you have a personal story, do you know of a specific project where RDM was introduced successfully, do you know someone who might contribute to this question? See the [contribute page](../../../../../contribute/) or directly open a [github issue] (https://github.com/open-science-promoters/RDM-promotion/issues/new) to share your experience. 
 
 We want to use this website and other distribution means (a publication maybe) to reach as many researcher as possible with this topic. In addition
- we would like to answer shortly this quesion in a video (inside the rdmpromotion video series we are preparing). 
+ we would like to answer shortly this question in a video (inside the rdmpromotion video series we are preparing). 
 
 
 
 So far, Julien Colomb came up with these theoretical aspects:
-commment on github [here](https://github.com/open-science-promoters/RDM-promotion/issues/26) 
+comment on github [here](https://github.com/open-science-promoters/RDM-promotion/issues/26) 
 
 ## Four RDM actions to ease data analysis 
 
@@ -39,7 +39,7 @@ Digital data can be quite easily transformed and analysed using programming lang
 
 - Tabular data/metadata shall be tidy
 - Keep your primary data (raw data) untouched (i.e. no copy/paste  in raw data, NEVER)
-- If you have many datasets, make sure you are able to automate the file imports. An index of datasets may be a good practical solution. 
+- If you have many data-sets, make sure you are able to automate the file imports. An index of data-sets may be a good practical solution. 
 - Separate raw data, derived data, analysis and analysis results in different folders
 - Make sure to document each step of your analysis.
 
@@ -52,7 +52,7 @@ This is especially true for metadata and using an existing standard is easier th
 
 ### 3: Plan for the unexpected
 
-The data you collect today may be analysed in 2 years and published in 5. During that time, a lot can happen. People may prove that the analysis you planned is not fitted to your problem, or you may realise that a variable you did not plan to collect is crucial. Maybe a new dataset will appear that you will need to compare your own data to, or new people will help you with your project and need access to your data,...
+The data you collect today may be analysed in 2 years and published in 5. During that time, a lot can happen. People may prove that the analysis you planned is not fitted to your problem, or you may realize that a variable you did not plan to collect is crucial. Maybe a new data-set will appear that you will need to compare your own data to, or new people will help you with your project and need access to your data,...
 
 Plan for your data to be re-usable. At best, get some colleague to watch your data and see if they can understand it.
 The unexpected may also be good, maybe halfway in your tedious manual analysis, you will discover a way to automatize it. So keep track of links between raw and derived data.
@@ -63,7 +63,7 @@ When recording variables, be as specific as you can. It is very easy to pool two
 
 Similarly quantitative variables are easier to analyse than qualitative ones. You can always create categories from quantitative indications, not the way around. 
 
-As an example, if your question is "does obese mice make longer naps", record the mice weight not its category. Analysing a correlation between weight and length of naps is more powerful than having the two categories.
+As an example, if your question is "does obese mice make longer naps", record the mice weight not its category. Analyzing a correlation between weight and length of naps is more powerful than having the two categories.
 
 
 
