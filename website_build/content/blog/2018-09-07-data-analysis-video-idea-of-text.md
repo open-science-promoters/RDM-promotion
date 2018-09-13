@@ -13,17 +13,27 @@ tags:
 banner : "img/newidea.png"  
 ---
 
-# What are the advantages RDM brings to data analyis?
+# RDM makes data analysis more effective and efficient
 
-Please keep in touch if you think you can help or point to existing material that answer this question.
+Following the
+ results of our analysis of researcher's relation to data, we do think that the argument can touch researchers and convince them to seek for help and information about RDM questions. However, we would need a stronger evidence that it is actually true, as well as an understanding of what part of RDM is particularly important for data analysis. So...
 
-We would like to answer shortly this quesion in a video. After an introduction stating that RDM can help with the data analysis, and that the type of analysis you do will impact your RDM, we will show the generic of our video series. We will then have 2 minutes  to present 4 to 7 main points where data management is either facilitating the analysis or allowing a more complexe/interesting analysis.
+ 
+ > What are the advantages RDM brings to data analyis?
+ 
+Please contact us if you can bring some answer this question or point to existing material that do. Do you have a personal story, do you know of a precific project where RDM was introduced successfully, do you know someone who might contribute to this question? See the [contribute page](../../../../../contribute/) or directly open a [github issue] (https://github.com/open-science-promoters/RDM-promotion/issues/new) to share your experience. 
+
+We want to use this website and other distribution means (a publication maybe) to reach as many researcher as possible with this topic. In addition
+ we would like to answer shortly this quesion in a video (inside the rdmpromotion video series we are preparing). 
 
 
 
-So far, I came up with these:
+So far, Julien Colomb came up with these theoretical aspects:
+commment on github [here](https://github.com/open-science-promoters/RDM-promotion/issues/26) 
 
-### Rule 1: Make the data computer readable
+## Four RDM actions to ease data analysis 
+
+### 1: Make your data computer readable
 
 Digital data can be quite easily transformed and analysed using programming language like R and python. While you do not have to learn these languages (yet), knowing what they require in terms or readability might save you time and efforts. 
 
@@ -34,20 +44,20 @@ Digital data can be quite easily transformed and analysed using programming lang
 - Make sure to document each step of your analysis.
 
 
-### Rule 2: Know how you will analyse your data beforehand
+### 2: Fit your data format to its analyse (during data collection)
 
 The analysis you will do (the statistics you wanna use as well as the software you will use) might require your data to be in a certain format, it will probably affect how much data you need to come to a robust conclusion and may even affect the number of variables you indeed need to record. 
 
 This is especially true for metadata and using an existing standard is easier than transforming what you collecting into that standard afterwards.
 
-### Rule 3: Be ready for the unexpected
+### 3: Plan for the unexpected
 
 The data you collect today may be analysed in 2 years and published in 5. During that time, a lot can happen. People may prove that the analysis you planned is not fitted to your problem, or you may realise that a variable you did not plan to collect is crucial. Maybe a new dataset will appear that you will need to compare your own data to, or new people will help you with your project and need access to your data,...
 
 Plan for your data to be re-usable. At best, get some colleague to watch your data and see if they can understand it.
 The unexpected may also be good, maybe halfway in your tedious manual analysis, you will discover a way to automatize it. So keep track of links between raw and derived data.
 
-### Rule 4: Merging is easier than splitting
+### 4: Be specific: merging is easier than splitting
 
 When recording variables, be as specific as you can. It is very easy to pool two categories into one but very difficult (and sometimes impossible) to separate a group during the analysis. 
 
