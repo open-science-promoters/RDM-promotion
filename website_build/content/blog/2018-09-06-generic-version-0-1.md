@@ -26,21 +26,21 @@ For example, how do you feel with the black and white desighn, whould we use col
 
 ---
 
-#### Text of the generic:
+#### Text of the generic (typos corrected):
 
-We did - waiste time during data formating for analysis
+We did - waste time during data formating for analysis
 
-We did - loose data
+We did - lose data
 
 We had - a paper rejected because we could not locate the raw data
 
-We did - throw data because we could not make sense of it
+We did - throw data away because we could not make sense of it
 
-We failed - to regonize open data as the new standard
+We failed - to recognize open data as the new standard
 
-Data managment will help you.
+Data management will help you.
 
-Better Research - organise your digital data and perform easier, reproducible analysis 
+Better Research - organize your digital data and perform easier, reproducible analysis 
 In less time - get digital skills, work smarter
 open data - foster collaboration, become a leader and spread the word.
 
