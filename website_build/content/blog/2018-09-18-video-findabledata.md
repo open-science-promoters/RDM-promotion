@@ -16,11 +16,25 @@ banner : "img/newidea.png"
 
 # Introduction
 
-(video with lion)
-You may think your data will stand out and will be easy to find, but the reality is that your digitalised data will blend in and no one will scream at its view.
-In order to make sure your data is not loss, and that you will always find it easily when you need it, it takes some organisation and planning.
+(dancing popeye)
+Researchers do love their data, and if the data is lost, the dance stops.
 
-So put data on a leash with your data management.
+Avoiding data loss is therefore primordial. If it cannot be retrieved after an hardware crash, it is lost, forever lost. However, making the data easily findable goes beyond making sure the data can be retrieved in case the hadrware is lost.
+
+(order-olive)
+
+Indeed, data is accumulating fast. 
+Packing the data for future analysis or sharing, researchers often lack a system. The strategy may work short term, with little data, but on the long term, the researcher put himself in danger, and even if the data is not lost, it might takes ages to reorganise it later.
+
+(lion)
+Indeed researchers too often think their data will stand out and will be easy to find, but the reality is that your digitalised data will blend in and no one will scream at its view. The most important your piece of data is, the most important it is to put it on a leash, and that leash is called metadata. 
+
+(popeye order made)
+
+But if you master data safety, naming, organisation and computer readability, the whole process happens smoothly and efficiently. 
+
+
+Put your data on a leash with data management.
 
 
 # main text
