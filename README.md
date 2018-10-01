@@ -2,6 +2,10 @@
 
 [![DOI](https://zenodo.org/badge/135207858.svg)](https://zenodo.org/badge/latestdoi/135207858)
 
+[![goodtables.io](https://goodtables.io/badge/github/open-science-promoters/RDM-promotion.svg)](https://goodtables.io/github/open-science-promoters/RDM-promotion)
+(imported datasets
+
+
 Everyone is warmly welcome and expected to warmly welcome others. Please have a look at our [code of conduct](conduct.md ) for details, and report any misconduct. For an better description of the project and our aims, please browse our website at https://rdmpromotion.rbind.io. 
 
 We thrive on open science principles in this project and therefore:
