@@ -14,8 +14,8 @@ banner : "img/newidea.png"
 
 Here we are, the first real output of this outreach eeFDM project is here, have a look at our video available on figshare at
  https://figshare.com/s/e2b14570b5991931c92c
-
-![The video clip is 40 sec long](/blog/2018-09-06-generic-version-0-1_files/generic_tumb.jpg)
+ 
+ <iframe src="https://widgets.figshare.com/articles/7053797/embed?show_title=1" width="568" height="426" frameborder="0"></iframe>
  
 It will be used as a generic (front credit) for longer videos with more content, we will probably start with a video about how rdm can save you time when the data is analysed.
  
@@ -38,7 +38,24 @@ We did - throw data away because we could not make sense of it
 
 We failed - to recognize open data as the new standard
 
-Data management will help you.
+Never again !
+
+Better Research - organize your digital data and perform easier, reproducible analysis 
+In less time - get digital skills, work smarter
+open data - foster collaboration, become a leader and spread the word.
+
+Data management
+
+# other ideas
+
+# generic:
+Efficient during data analyis,
+Safe and findable data,
+Reproducible from the raw data,
+Understandable data years after its creation,
+Open data is the new standard
+
+With data management, you can do it !
 
 Better Research - organize your digital data and perform easier, reproducible analysis 
 In less time - get digital skills, work smarter
