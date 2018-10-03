@@ -14,8 +14,6 @@ banner : "img/newidea.png"
 
 Here we are, the first real output of this outreach eeFDM project is here, have a look at our video available on figshare at
  https://figshare.com/s/e2b14570b5991931c92c
-
-![The video clip is 40 sec long](/blog/2018-09-06-generic-version-0-1_files/generic_tumb.jpg)
  
  <iframe src="https://widgets.figshare.com/articles/7053797/embed?show_title=1" width="568" height="426" frameborder="0"></iframe>
  
