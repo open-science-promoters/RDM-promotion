@@ -13,21 +13,46 @@ tags:
   - script
 banner : "img/newidea.png"  
 ---
+talk:
+I am ... working here. under roman supervision
+project: aim = videos, ways = open 
+you might have seen the discrepency between what OS advocates say and what they do, I was no exception,
+but I try to be better and therefore, I did... (4 steps)
+results = 1 website, video, images listed
+
+We did - waste time during data analysis
+
+We did - lose data
+
+We had - a paper rejected because we could not locate the raw data
+
+We did - throw data away because we could not make sense of it
+
+We failed - to recognize open data as the new standard
+
+But Never again !
+
+we want Better Research 
+In less time 
+while producing open fair data 
+
+and that is indeed the promise of 
+Data management
 
 # Introduction
 
 (dancing popeye)
 Researchers do love their data, and if the data is lost, the dance stops.
 
-Avoiding data loss is therefore primordial. If it cannot be retrieved after an hardware crash, it is lost, forever lost. However, making the data easily findable goes beyond making sure the data can be retrieved in case the hadrware is lost.
+An hardware crash is a feared sceniario, Researchers will panick if their data cannot be retrieved. But data management goes beyond having data copies and backups.
 
 (order-olive)
 
 Indeed, data is accumulating fast. 
-Packing the data for future analysis or sharing, researchers often lack a system. The strategy may work short term, with little data, but on the long term, the researcher put himself in danger, and even if the data is not lost, it might takes ages to reorganise it later.
+Packing the data for future analysis or sharing, researchers often lack a system. The strategy may work short term, with little data, but on the long term, the researcher put himself in danger, and even if the data is not completely lost, it might takes ages to locate it later.
 
 (lion)
-Indeed researchers too often think their data will stand out and will be easy to find, but the reality is that your digitalised data will blend in and no one will scream at its view. The most important your piece of data is, the most important it is to put it on a leash, and that leash is called metadata. 
+You may think your data will stand out and will be easy to find, but the reality is that your digitalised data will blend in and no one will scream at its view. The most important your piece of data is, the most important it is to put it on a leash, and that leash is called metadata. 
 
 (popeye order made)
 
