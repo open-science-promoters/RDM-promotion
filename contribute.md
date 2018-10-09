@@ -28,6 +28,7 @@ You will be listed in the contributor list and your institution may be listed in
 
 ## How to contribute
 
+Technology should not hinder anyone's participation, if you would like to send regular mail or phone us, you can, have a look at our contact details on the website. Of course, our workflow will be facilitated if you send us digitalised contributions and here are the different paths you may go.
 
 1. On Github: Open a new issue [here](https://github.com/open-science-promoters/RDM-promotion/issues/new). Follow the template and give your input.
 
