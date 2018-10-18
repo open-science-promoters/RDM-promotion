@@ -13,12 +13,13 @@ tags:
   - script
 banner : "img/newidea.png"  
 ---
-talk:
-I am ... working here. under roman supervision
-project: aim = videos, ways = open 
-you might have seen the discrepency between what OS advocates say and what they do, I was no exception,
-but I try to be better and therefore, I did... (4 steps)
-results = 1 website, video, images listed
+
+The video is available on Figshare, the tone is not the definitive one, we would love to get your feedback. Would you use it on your webpage and in your talks, if not, why ? Please comment below  via github issues, or email.
+
+<iframe src="https://widgets.figshare.com/articles/7163396/embed?show_title=1" width="568" height="426" frameborder="0"></iframe>
+
+
+##Text:
 
 We did - waste time during data analysis
 
@@ -32,37 +33,36 @@ We failed - to recognize open data as the new standard
 
 But Never again !
 
-we want Better Research 
+Because we want Better Research 
 In less time 
-while producing open fair data 
+while producing open fair data and foster collaboration
 
-and that is indeed the promise of 
-Data management
+We do research Data management
 
 # Introduction
 
 (dancing popeye)
-Researchers do love their data, and if the data is lost, the dance stops.
+The researcher does love his data, and if the data is lost, his dance will stop.
 
-An hardware crash is a feared sceniario, Researchers will panick if their data cannot be retrieved. But data management goes beyond having data copies and backups.
+While researcher can avoid the crash of complete data loss using a backup strategy,
+proper data
+data management goes beyond just preventing a crash.
 
 (order-olive)
 
-Indeed, data is accumulating fast. 
-Packing the data for future analysis or sharing, researchers often lack a system. The strategy may work short term, with little data, but on the long term, the researcher put himself in danger, and even if the data is not completely lost, it might takes ages to locate it later.
+Data is accumulating fast. 
+While packing his data for future analysis or sharing, the researcher often lack a system. That strategy may work short term, with little data, but on the long term, the researcher puts himself in danger
 
-(lion)
-You may think your data will stand out and will be easy to find, but the reality is that your digitalised data will blend in and no one will scream at its view. The most important your piece of data is, the most important it is to put it on a leash, and that leash is called metadata. 
 
 (popeye order made)
 
-But if you master data safety, naming, organisation and computer readability, the whole process happens smoothly and efficiently. 
+Because you do not want to spend days sorting your data out,
+you shall master data safety, naming, organisation and computer readability. Then the whole process will happen smoothly and efficiently. 
 
 
-Put your data on a leash with data management.
+[...]
 
-
-# main text
+# ideas not used
 
 
 
