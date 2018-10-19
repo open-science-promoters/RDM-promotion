@@ -14,12 +14,17 @@ tags:
 banner : "img/newidea.png"  
 ---
 
-The video is available on Figshare, the tone is not the definitive one, we would love to get your feedback. Would you use it on your webpage and in your talks, if not, why ? Please comment below  via github issues, or email.
+Inside the eeFDM project, we are to produce videos for the promotion of RDM and open data toward researchers. Here is our first output, we are hoping for your feedback before producing the final tone. (So far, I have been doing the voiceover and we did not put any work in finding good music.)
+
+The video is available on Figshare (https://doi.org/10.6084/m9.figshare.7163396.v2), the tone is not the definitive one.
+
+*For RDM enthusiasts: Would you use it on your webpage and in your talks, if not, why ? Please comment below  via github issues, or email.*
 
 <iframe src="https://widgets.figshare.com/articles/7163396/embed?show_title=1" width="568" height="426" frameborder="0"></iframe>
 
+# Text
 
-##Text:
+### Generic:
 
 We did - waste time during data analysis
 
@@ -29,40 +34,52 @@ We had - a paper rejected because we could not locate the raw data
 
 We did - throw data away because we could not make sense of it
 
-We failed - to recognize open data as the new standard
+And We failed - to recognize open data as the new standard
 
 But Never again !
 
-Because we want Better Research 
+We want Better Research 
 In less time 
-while producing open fair data and foster collaboration
+and this, while producing open, fair data and foster collaboration
 
-We do research Data management
+That is the promise of... Data management
 
-# Introduction
+### episode 1 (corrected for gender problems)
 
 (dancing popeye)
-The researcher does love his data, and if the data is lost, his dance will stop.
+The researchers do love their data, and if the data is lost, their dance will stop.
 
-While researcher can avoid the crash of complete data loss using a backup strategy,
-proper data
-data management goes beyond just preventing a crash.
+While researchers can avoid the crash of complete data loss by doing backups,
+proper data data management goes beyond just preventing a crash.
 
 (order-olive)
 
 Data is accumulating fast. 
-While packing his data for future analysis or sharing, the researcher often lack a system. That strategy may work short term, with little data, but on the long term, the researcher puts himself in danger
+While packing their data for future analysis, reuse, and sharing, the researchers often lack a system. This strategy may work on the short term, but when the amount and complexity of datasets increase, the researchers put themselves in danger!
 
 
 (popeye order made)
 
-Because you do not want to spend days sorting your data out,
-you shall master data safety, naming, organisation and computer readability. Then the whole process will happen smoothly and efficiently. 
+Because you do not want to spend days sorting out your data,
+you shall master data safety, organisation, naming, and computer readability. Then, the process will happen smoothly and efficiently. 
 
 
-[...]
+### solutions
 
-# ideas not used
+To make your data findable, you need a backup system,
+3 copies, 2 storage media and 1 offsite storage is a good start.
+
+You also need a folder organisation and explain this organisation in a readme file.
+You need to name your files correctly, adopting conventions and not using special characters like spaces and points, do not be afraid of long names.
+
+Use a master metadata spreadsheet indicating the path to all other important files.
+
+This went too fast? Then get training and advice online or at your institution's Research data management helpdesk.
+
+In our next episode, we will see how research data management can fuel your data analysis. So stay tuned!
+
+
+# Paper bin (ideas and text not used)
 
 
 
