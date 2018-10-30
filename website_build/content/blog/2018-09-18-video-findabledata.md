@@ -16,9 +16,12 @@ banner : "img/newidea.png"
 
 Inside the eeFDM project, we are to produce videos for the promotion of RDM and open data toward researchers. Here is our first output, we are hoping for your feedback before producing the final tone. (So far, I have been doing the voiceover and we did not put any work in finding good music.)
 
-The video is available on Figshare (https://doi.org/10.6084/m9.figshare.7163396.v2), the tone is not the definitive one.
+The video is available on Figshare (https://doi.org/10.6084/m9.figshare.7163396), the tone is not the definitive one.
 
-*For RDM enthusiasts: Would you use it on your webpage and in your talks, if not, why ? Please comment below  via github issues, or email.*
+#give feedback:
+For RDM enthusiasts: Would you use it on your webpage and in your talks, if not, why ?
+
+Please **comment below  via github issues, or email.**
 
 <iframe src="https://widgets.figshare.com/articles/7163396/embed?show_title=1" width="568" height="426" frameborder="0"></iframe>
 
