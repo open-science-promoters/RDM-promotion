@@ -2,15 +2,14 @@
 {{ if .Site.Params.news.enable }}
 <section class="bar background-white">
     <div class="dark-mask"></div>
-    <div class="row">
-            <div class="col-sm-5 right">
-                <iframe src="{{ .Site.Params.see_more.title }}" width="568" height="426" frameborder="0"></iframe>"
+    <div class="container">
+      <div class="row">
+            <div class="col-md 12">
+              <p class="lead">{{ .Site.Params.see_more.subtitle }}</p>
+                <iframe src="{{ .Site.Params.see_more.title }}" width="720" height="540"  frameborder="0"></iframe>
              </div>
-             <div class="col-sm-7">
-                <p class="lead">{{ .Site.Params.see_more.subtitle }}</p>
-            </div>
 
-
+      </div>
     </div>
 </section>
 {{ end }}
