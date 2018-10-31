@@ -142,15 +142,15 @@ paginate = 6
     subtitle = ""
     
 
-[params.see_more]
+[params.news]
     enable = true
     icon = ""
-    url  = "/" 
+    url  = "blog/2018/09/18/video-findabledata/" 
     title = "https://widgets.figshare.com/articles/7163396/embed?show_title=1"
-    subtitle = "Our first output: RDM for finding data"
+    subtitle = "Our first output: RDM for finding data (click for details)"
 
     
-    [params.news]
+[params.see_more]
     enable = true
     icon = "fa fa-2x fa-github"
     url  = "/" 
