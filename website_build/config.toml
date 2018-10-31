@@ -144,6 +144,15 @@ paginate = 6
 
 [params.see_more]
     enable = true
+    icon = ""
+    url  = "/" 
+    title = "https://widgets.figshare.com/articles/7163396/embed?show_title=1"
+    subtitle = "Our first output: RDM for finding data"
+    link_url = "https://doi.org/10.6084/m9.figshare.7163396."
+    link_text = "figshare source for download"
+    
+    [params.news]
+    enable = true
     icon = "fa fa-2x fa-github"
     url  = "/" 
     title = "Project hosted on github,i.e. archived on zenodo."

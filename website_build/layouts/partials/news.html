@@ -1,0 +1,20 @@
+{{ if isset .Site.Params "news" }}
+{{ if .Site.Params.news.enable }}
+<section class="bar background-white">
+    <div class="dark-mask"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <iframe src="{{ .Site.Params.see_more.title }}" width="568" height="426" frameborder="0"></iframe>"
+                
+                <p class="lead">{{ .Site.Params.see_more.subtitle }}</p>
+                <p class="text-center">
+                    <a href="{{ .Site.Params.see_more.link_url }}" class="btn btn-template-transparent-black btn-lg">{{ .Site.Params.see_more.link_text }}</a>
+                </p>
+            </div>
+
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}
