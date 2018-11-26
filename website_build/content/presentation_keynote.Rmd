@@ -1,0 +1,33 @@
+---
+title: "Open FAIR data"
+author: "Dr. Julien Colomb"
+date: "11/26/2018"
+output: ioslides_presentation
+---
+
+## About me
+
+- ex-neurogeneticist (behavior of Drosophila)
+- self-taught R developer
+- Open  science advocate since 2014
+- RDM helpdesk university of Jena
+- teacher at access2perspectives
+
+## Why Open data
+
+<iframe src="https://widgets.figshare.com/articles/7379942/embed?show_title=1" width="568" height="426" frameborder="0"></iframe>
+
+## Why Open data
+
+- Good for science
+- Good for you
+- You actually have no choice
+
+## How open data
+
+- Human readable
+- Computer readable
+- documentation (metadata)
+- repositories
+
+# data management plan
