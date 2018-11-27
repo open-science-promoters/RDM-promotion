@@ -1,0 +1,26 @@
+---
+title: "Name checklist for file, folder and spreadsheet headers"
+author: "colomb_julien"
+date: "11/27/2018"
+output: pdf_document
+---
+
+
+
+```{r, echo=FALSE}
+library (readr)
+Checklist <- read_delim("Checklist_filenames.csv",";", escape_double = FALSE, trim_ws = TRUE,
+                        col_types =cols(
+  `If the name of the file/folder/spreadsheet header:` = col_character(),
+  `then modify it this way` = col_character()
+)
+)
+
+B= ""
+for ( i in c(1:nrow(Checklist))){
+  B<- paste0 (B,"- ", Checklist[i,1] ," \n    - ", Checklist[i,2], " \n")
+}
+
+```
+
+`r B`

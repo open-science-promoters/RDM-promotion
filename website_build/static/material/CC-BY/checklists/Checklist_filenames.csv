@@ -1,0 +1,10 @@
+If the name of the file/folder/spreadsheet header:;then modify it this way
+includes special character;Use – or _ instead
+includes spaces;Use – or _ instead
+is longer than 32 characters;Make it shorter
+has Abbreviation;explain abbreviations in a metadata/readme file
+includes a version control denomination;use at least 2 digit numbers (v01 instead of v1)
+includes a date ;use YYYMMDD or YYYY-MM-DD
+is not self-explanatory;make it longer or explain it in a metadata/readme file
+includes a unit;use SI units if possible, if not SI make a note it in the metadata/readme file, at best create a column with SI unit during analysis before archiving.
+is not unique;make it unique. (not applicable to folder)
