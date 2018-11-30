@@ -4,7 +4,7 @@ author: Julien Colomb
 date: '2018-11-02'
 slug: a-video-about-open-data-as-a-new-standard
 categories:
-  - idea_new_mat
+  - created_material
 tags:
   - CC0
   - videos
@@ -61,8 +61,9 @@ such that their data may fly away and save the day.
 
 
 ---
+## archives
 
-## not used for the video and old script versions:
+### not used for the video and old script versions:
 
 Research data is highly valuable, but only data that is shared, free, and re-usable can achieve its true potential:  
 Even years after its production, open data is indeed used in preliminary and meta-analyses, it fosters collaboration and accelerate research findings. Open data is saving lives. 
@@ -74,7 +75,7 @@ Governments, Funding agencies, universities, and publishers have recognized the 
 The most efficient and effective way to assures not only openeness, but also findability, accessibility, interoperability and re-usability of the data is to get an accurate data management. As often, this new paradigm will be faster and cheaper on the long term, and open FAIR data is an evolving standard. 
 
 
-## 35sec crash course on open FAIR data
+### 35sec crash course on open FAIR data
 
 - open
 - findable
