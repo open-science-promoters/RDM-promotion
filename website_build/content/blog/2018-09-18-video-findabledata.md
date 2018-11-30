@@ -4,7 +4,7 @@ author: Julien Colomb
 date: '2018-09-18'
 slug: video-findabledata
 categories:
-  - idea_new_mat
+  - created_material
 tags:
   - CC0
   - content_notform
