@@ -5,7 +5,8 @@ tags: []
 
 
 ```{r setup, echo=FALSE, results='asis', warning=FALSE}
-contribute <- suppressWarnings(readLines(con <- file("~/github_repo/rdm_promotion/contribute.md")))
+#message (getwd())
+contribute <- suppressWarnings(readLines(con <- file("../../contribute.md")))
 
 cat(paste0 (contribute, collapse = "\n"))
 ```
