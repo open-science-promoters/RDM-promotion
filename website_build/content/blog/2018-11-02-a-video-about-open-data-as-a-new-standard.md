@@ -13,13 +13,15 @@ tags:
 banner : "img/newidea.png"   
 ---
 
-Please send your feedback about the current video (now: v.2)!
+Please send your feedback about the current video (now: v.3)!
 
 <iframe src="https://widgets.figshare.com/articles/7379942/embed?show_title=1" width="568" height="426" frameborder="0"></iframe>
 
 # script
 
 ## Open FAIR data is the new standard
+
+(actual srt file available on github)
 
 Research data shall be free, digital, shared and re-usable.
 Only while open it will reach its true potential.
