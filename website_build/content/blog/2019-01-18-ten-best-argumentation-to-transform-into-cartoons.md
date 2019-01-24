@@ -13,7 +13,7 @@ banner : "img/newidea.png"
 
 Here are notes about what stories we will use to design cartoons.
 
-#1 Your first collaborator is yourself, and your past self does not answer emails
+# 1 Your first collaborator is yourself, and your past self does not answer emails
 
 Documentation is key if you want others (i.e. you in two years) to understand what you did.
 
@@ -25,7 +25,7 @@ S2: Like he is in a spaceshift and it would take 30 years to get any answer to o
 S1: not quite,
 S1: it's me in 3 years.
 
-#2 Backup
+# 2 Backup
 
 Loosing data is the worst that can happen, and it happens. Murpheys law could be use to say that at least 3 backups, 1 offsite are necessary. (mme la marquise song ?)
 
@@ -51,7 +51,7 @@ S1: Calm down, the lab manager installed an automatic backup las month, your dat
 S2: sure?
 S1: Yep we follow the 3-2-1 rule, 
 
-#3 open data is a requirement
+# 3 open data is a requirement
 
 Funders, universities, journals and governments want open data, get ready with RDM.
 
@@ -69,7 +69,7 @@ S2: R. D. M.
 S2: Research Data ...
 S2: ... Management.
 
-#4 data for trust
+# 4 data for trust
 
 In case someone does not believe you, you need to be able to show the raw data. 
 
@@ -89,32 +89,32 @@ S1: euh... I do not.
 S1: thank you !?
 
 
-#5 ethical value of open data
+# 5 ethical value of open data
 
 1. patient sick
 2. researcher want to access data to build new medecine
 3. researcher ask: data is mine, for my career
 3. patient ask: answer "?!!"
 
-#6 data analysis 1
+# 6 data analysis 1
 
 1 by data analyst desk: here is my data, is just a couple of excel sheets
 2. DA1 look at it, "one moment please"
 3. Fake suicide, the second one takes the paper, usb sticks
 4. one week later: DA2 on the phone: "still trying to clean the data, indeed. About my question 364, ....". thinking bubble "Next time, I also fake my suicide."  
 
-#7 science more effective
+# 7 science more effective
 
 working collaborative, and sharing data, makes it easier to answer scient. questions. you want to know, or you want to be the only one to know ?
 
-#8 carreer
+# 8 carreer
 
 job interview, talking about science blabla (or images). How this can help you with our data analysis problem. oh sorry, here is my last project data management plan and data analysis software, you will see the workflow is very similar. welcome in the team.
 
-#9 thesis writing
+# 9 thesis writing
 
 documentation is important to save time during report writing.
 
-#10 data analysis 2
+# 10 data analysis 2
 
 data analysis can sometimes only be made if the data is in the right format, thinking about how it will be analysed is important to decide how the data will be saved.
