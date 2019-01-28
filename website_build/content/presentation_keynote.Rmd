@@ -5,13 +5,14 @@ date: "11/26/2018"
 output: ioslides_presentation
 ---
 
-## About me
+## @j_colomb, julien.colomb@fu-berlin.de
 
 - ex-neurogeneticist (behavior of Drosophila)
 - self-taught R developer
 - Open  science advocate since 2014
-- RDM helpdesk university of Jena
-- teacher at access2perspectives
+- presently: 
+    - RDM helpdesk university of Jena
+    - teacher at access2perspectives
 
 ## Why Open data
 
