@@ -2,7 +2,7 @@
 
 setwd("website_build")
 blogdown::hugo_cmd("--config config.toml,config-dat.toml") #bulid dat version
-#blogdown::build_site()
+blogdown::build_site()
 
 blogdown::stop_server()
 blogdown::serve_site() # preview http version
