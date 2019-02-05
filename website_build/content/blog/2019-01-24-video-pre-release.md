@@ -34,5 +34,6 @@ Everything is licensed CC-BY to maximise reuse.
 "proper data management goes beyond just preventing [the] crash [of complete data loss]"
 <iframe src="https://widgets.figshare.com/articles/7163396/embed?show_title=0" width="568" height="426" frameborder="0"></iframe>
 
-"<later> might be <too late>"
+"-later- might be -too late-"
+
 <iframe src="https://widgets.figshare.com/articles/7673543/embed?show_title=0" width="568" height="426" frameborder="0"></iframe>
