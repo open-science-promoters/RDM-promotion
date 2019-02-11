@@ -1,0 +1,249 @@
+﻿1
+00:00:05,080 --> 00:00:09,290
+Research is a long process that relies on research data.
+
+2
+00:00:09,290 --> 00:00:12,900
+Data is created or collected, processed,
+
+3
+00:00:12,900 --> 00:00:16,960
+documented,  analyzed, preserved, stored,
+
+4
+00:00:16,960 --> 00:00:21,000
+shared, used, re-analyzed and re-used.
+
+5
+00:00:21,300 --> 00:00:25,000
+It is a fastidious, sometimes repetitive work.
+
+6
+00:00:25,000 --> 00:00:29,000
+But all of it is necessary for climbing the research ladder.
+
+7
+00:00:30,000 --> 00:00:35,680
+Up the stairs, one door leads to the research results,
+
+8
+00:00:35,680 --> 00:00:39,750
+data analysis can open that door,
+
+9
+00:00:39,750 --> 00:00:43,720
+but only if the research data CAN be analyzed.
+
+10
+00:00:44,390 --> 00:00:48,500
+The research may tumble. The problems causing failure
+
+11
+00:00:48,500 --> 00:00:52,000
+are often born during the project youth,
+
+12
+00:00:52,000 --> 00:00:54,870
+and they are difficult to fix a posteriori.
+
+13
+00:00:55,705 --> 00:01:00,000
+Research is providing a large amount of valuable data, but,
+
+14
+00:01:00,000 --> 00:01:03,240
+even when the data is easy to retrieve,
+
+15
+00:01:03,240 --> 00:01:07,300
+small problems in its processing
+
+16
+00:01:08,000 --> 00:01:12,000
+can impact tremendously the operability of the data.
+
+17
+00:01:12,000 --> 00:01:16,000
+Problem which are marginal issues at the start
+
+18
+00:01:16,000 --> 00:01:20,000
+steadily assumes more importance
+
+19
+00:01:20,000 --> 00:01:24,000
+to become huge problems years later:
+
+20
+00:01:24,000 --> 00:01:28,000
+The data is there, but it cannot be used or analyzed.
+
+21
+00:01:28,000 --> 00:01:31,200
+The data become worthless.
+
+22
+00:01:31,200 --> 00:01:35,070
+In the end, in order to save the project,
+
+23
+00:01:35,070 --> 00:01:38,110
+the data needs to be decomposed or cleaned,
+
+24
+00:01:38,110 --> 00:01:41,350
+a process which is difficult, sometimes dangerous,
+
+25
+00:01:41,350 --> 00:01:43,480
+and always time consuming.
+
+26
+00:01:44,180 --> 00:01:48,590
+To plan the use and re-use of the data,
+
+27
+00:01:48,590 --> 00:01:51,930
+its format must be adapted.
+
+28
+00:01:51,930 --> 00:01:56,830
+In particular, computer readable digital datasets do
+
+29
+00:01:56,830 --> 00:02:01,930
+open windows of opportunities, when the unexpected happens.
+
+30
+00:02:03,140 --> 00:02:07,170
+By planning well ahead how the data will be analyzed,
+
+31
+00:02:07,170 --> 00:02:11,170
+one can best choose how the data should be collected
+
+32
+00:02:11,170 --> 00:02:15,310
+such that the data ends in its most well fitted position.
+
+33
+00:02:15,310 --> 00:02:18,970
+While surprises are always expected,
+
+34
+00:02:18,970 --> 00:02:21,970
+the dangers are limited when
+
+35
+00:02:21,970 --> 00:02:24,090
+an adequate file format is chosen.
+
+36
+00:02:24,090 --> 00:02:27,090
+But even more important than the data,
+
+37
+00:02:27,090 --> 00:02:30,400
+its documentation must be designed and filled cautiously
+
+38
+00:02:30,400 --> 00:02:33,980
+or the data might become pointless.
+
+39
+00:02:39,270 --> 00:02:43,500
+Research Data Management not only
+
+40
+00:02:43,500 --> 00:02:47,500
+makes it more convenient to analyze the data,
+
+41
+00:02:47,500 --> 00:02:51,950
+but, by introducing standards, it allows the data
+
+42
+00:02:51,950 --> 00:02:55,990
+to find its place in the research community.
+
+43
+00:02:58,160 --> 00:03:03,660
+Moving data from one format to another is a considerable challenge.
+
+44
+00:03:03,660 --> 00:03:07,990
+Even interoperable and machine readable data
+
+45
+00:03:07,990 --> 00:03:10,200
+is tricky to migrate.
+
+46
+00:03:11,040 --> 00:03:15,960
+It does not come without danger either.
+
+47
+00:03:17,140 --> 00:03:21,480
+It is easy to underestimate the problem,
+
+48
+00:03:21,480 --> 00:03:26,520
+it is tempting to think one will craft something later.
+
+49
+00:03:26,520 --> 00:03:30,550
+But "later" might become "too late".
+
+50
+00:03:30,550 --> 00:03:34,370
+Sometimes the data must be re-evaluated completely.
+
+51
+00:03:34,370 --> 00:03:38,370
+Sometimes, with a lot of luck and efforts,
+
+52
+00:03:38,370 --> 00:03:42,270
+the data can be saved.
+
+53
+00:03:43,270 --> 00:03:46,670
+But counting on luck is not very sound, is it?
+
+54
+00:03:49,570 --> 00:03:53,380
+Instead, start early with your research data management
+
+55
+00:03:55,010 --> 00:03:58,420
+Make a data management plan, it is a witty move!
+
+56
+00:03:58,420 --> 00:04:02,420
+Get training, master the data life cycle,
+
+57
+00:04:02,420 --> 00:04:06,420
+make your spreadsheets tidy, document your data flow.
+
+58
+00:04:06,420 --> 00:04:10,420
+Be a researcher and a research data manager.
+
+59
+00:04:10,930 --> 00:04:14,960
+And in five years, your data will be easy to analyze
+
+60
+00:04:14,960 --> 00:04:17,270
+and share.
+
+61
+00:04:19,740 --> 00:04:27,310
+Learn more about data formats, structures, and documentation, 
+ seek for help at a Research Data management helpdesk or online !
+
+62
+00:04:34,390 --> 00:04:41,560
+In our next episode, we will learn more about research data managers, stay tuned !
+
