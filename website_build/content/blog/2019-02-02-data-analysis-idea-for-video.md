@@ -8,12 +8,15 @@ categories:
 tags:
   - videos
   - CC-BY
+  - archived
 banner : "img/newidea.png"    
 ---
 
+Note: This has been used, the video is produced.
+
 # Data analysis
 
-We will prbably use Buster Keaton public domain videos (one week, ...)
+We will use Buster Keaton public domain videos (one week, ...)
 
 ## Flow
 
