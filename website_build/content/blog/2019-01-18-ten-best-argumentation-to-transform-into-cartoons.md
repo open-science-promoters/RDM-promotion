@@ -118,3 +118,21 @@ documentation is important to save time during report writing.
 # 10 data analysis 2
 
 data analysis can sometimes only be made if the data is in the right format, thinking about how it will be analysed is important to decide how the data will be saved.
+
+
+---
+
+---
+
+Discussion with Herr Petri 2019-02-19
+=======================
+
+4 extra topic:
+
+- Formate in 10 Jahren: Datat format, software, hardware, how will I read the data in 20 years.
+
+- Archive: what is worth keepiing, who can trash what
+
+- Plan and implementation: a nice plan is good, to control that it is followed is better
+
+- Make the data available, but not to all (Security vs accessibility)
