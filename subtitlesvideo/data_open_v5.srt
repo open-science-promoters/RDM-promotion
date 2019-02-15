@@ -1,10 +1,10 @@
 ﻿1
 00:00:04,420 --> 00:00:11,600
-Research data shall be free, digital, shared and re-usable.
+Research data should be free, shareable, and re-usable.
 
 2
 00:00:11,600 --> 00:00:14,470
-Only while open it will reach its true potential.
+Only when open will it reach its true potential.
 
 3
 00:00:15,800 --> 00:00:20,510
@@ -12,11 +12,11 @@ Fostering collaboration, open data accelerates research,
 
 4
 00:00:21,570 --> 00:00:27,610
-and even years after its production, by allowing easy preliminary and meta-analyses,
+even years after its production, by allowing easy preliminary and meta-analyses,
 
 5
 00:00:28,550 --> 00:00:32,180
-open data can bring research on the right track.
+and can put research on the right track.
 
 6
 00:00:33,550 --> 00:00:37,490
@@ -24,15 +24,15 @@ Open data provides a bulletproof defense
 
 7
 00:00:37,490 --> 00:00:41,290
-against accusation of misconduct or bad scientific practices.
+against accusations of misconduct or bad scientific practices.
 
 8
 00:00:41,290 --> 00:00:45,560
-Open data increases research visibility and paper citations,
+Open data increases your research visibility and citations,
 
 9
 00:00:45,560 --> 00:00:50,640
-and well organised,  open data does also fasten the research process.
+and when well organised, open data can also speed up the research process.
 
 10
 00:00:50,640 --> 00:00:55,710
@@ -40,7 +40,7 @@ Trustworthy results are efficiently and safely delivered,
 
 11
 00:00:55,710 --> 00:00:59,680
-and the research gets more chances to be published and funded.
+and the research gets more chance to be published and funded.
 
 12
 00:00:59,680 --> 00:01:06,480
@@ -48,11 +48,11 @@ Governments, funding agencies, universities, and publishers
 
 13
 00:01:06,480 --> 00:01:10,590
-have recognised the importance of opening research data.
+have recognised the importance of opening up research data.
 
 14
 00:01:10,590 --> 00:01:12,420
-and now, they REQUEST it, rightfully
+and now, they often REQUEST it, and rightfully so.
 
 15
 00:01:13,060 --> 00:01:17,700
@@ -60,35 +60,35 @@ But producing open data does not come without difficulties,
 
 16
 00:01:17,700 --> 00:01:22,600
-it indeed requires to modify the research workflow,
+it can require you to modify your research workflow,
 
 17
 00:01:22,600 --> 00:01:27,370
-a process that does not go without pain and efforts.
+a process that does not come without pain and effort.
 
 18
 00:01:27,370 --> 00:01:34,250
-But once data management has been implemented, data opening happens in a swing.
+But once data management has been implemented, opening your data up is simple.
 
 19
 00:01:34,250 --> 00:01:36,210
-Indeed the data is then already FAIR,
+Indeed the data are then already FAIR,
 
 20
 00:01:36,210 --> 00:01:43,590
-difficulties got blocked by open, Findable, Accessible, Interoperable and Re-usable data.
+Findable, Accessible, Interoperable and Re-usable.
 
 21
 00:01:43,590 --> 00:01:46,660
-In the end, good research always wins !
+In the end, good research always wins!
 
 22
 00:01:46,660 --> 00:01:51,060
-When the times comes, it is a job for researchers
+When the times comes, it is a job for researchers.
 
 23
 00:01:51,061 --> 00:01:56,700
-For their career and for society, they have to gear their data:
+For their careers and for society, they have to open up their data:
 
 24
 00:01:56,700 --> 00:02:00,103
@@ -100,7 +100,7 @@ And their open FAIR data will fly away and save the day.
 
 26
 00:02:05,575 --> 00:02:14,651
-You want to master data management to produce open data, seek for help at a Research Data management helpdesk or online !
+If you want to master data management and produce open data, look for help at a Research Data management helpdesk or online!
 
 27
 00:02:19,789 --> 00:02:28,765
