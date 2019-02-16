@@ -1,10 +1,10 @@
 ﻿1
 00:00:05,860 --> 00:00:08,060
-The researchers do love their data
+Researchers do love their data
 
 2
 00:00:09,290 --> 00:00:13,900
-And if the data is lost, the dance stops
+And if their data are lost, the dance stops.
 
 3
 00:00:15,000 --> 00:00:16,500
@@ -12,7 +12,7 @@ While researchers can avoid
 
 4
 00:00:16,700 --> 00:00:20,540
-the crash of a complete data loss by doing backups.
+the crash of a complete data loss by creating backups,
 
 5
 00:00:20,540 --> 00:00:22,960
@@ -20,15 +20,15 @@ proper data management goes
 
 6
 00:00:22,960 --> 00:00:25,080
-beyond just preventing a crash
+beyond just preventing a crash.
 
 7
 00:00:26,480 --> 00:00:29,060
-Data is accumulating fast
+Today, data are accumulating faster and faster
 
 8
 00:00:29,060 --> 00:00:31,360
-While packing their data for
+While packaging their data for
 
 9
 00:00:31,360 --> 00:00:33,700
@@ -36,23 +36,23 @@ future analysis, reuse, and sharing,
 
 10
 00:00:33,700 --> 00:00:36,220
-the researchers often lack a system.
+researchers often lack a proper system.
 
 11
 00:00:38,300 --> 00:00:41,000
-This strategy may work on the short term
+This backup strategy may work on the short-term
 
 12
 00:00:41,000 --> 00:00:44,820
-but when the amound and complexity of datasets increase,
+but when the amount and complexity of datasets increases,
 
 13
 00:00:44,820 --> 00:00:47,530
-the researchers put themselves in danger !
+researchers can put themselves in real danger!
 
 14
 00:00:49,900 --> 00:00:53,520
-Because you do not want to spend days sorting out your data,
+Because you do not want to waste days sorting out your data,
 
 15
 00:00:53,560 --> 00:00:59,980
@@ -60,13 +60,13 @@ you shall master data safety, organization, naming and computer readability.
 
 16
 00:00:59,980 --> 00:01:05,920
-Then, the process happens smoothly and efficiently.
+Then, the research process happens smoothly and efficiently.
 
 17
 00:01:05,920 --> 00:01:11,780
-You want to master data management and increase your efficiency, seek for help at a research data management helpdesk or online.
+If you want to master data management and increase your efficiency, look for help at a research data management helpdesk or online.
 
 18
 00:01:21,130 --> 00:01:29,730
-In the next episode, we will see how research data management can help you to produce easier and powerful data analysis, so stay tuned !
+In the next episode, we will see how research data management can help you to produce easier and powerful data analysis, so stay tuned!
 
