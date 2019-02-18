@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:05,080 --> 00:00:09,290
 Research is a long process that often relies on data.
 
@@ -44,7 +44,7 @@ Research provides a large amount of valuable data, but,
 
 12
 00:00:53,090 --> 00:00:56,330
-even when the data are easy for us to retrieve,
+even when the data are easy to retrieve,
 
 13
 00:00:56,330 --> 00:01:00,400
@@ -111,11 +111,11 @@ the dangers are limited when
 an adequate file format is chosen.
 
 29
-00:01:56,870 --> 00:01:59,880
+00:01:56,870 --> 00:01:59,480
 But even more important than the data,
 
 30
-00:01:59,880 --> 00:02:03,180
+00:01:59,480 --> 00:02:03,180
 is its documentation, which must be cautiously designed and entered
 
 31
@@ -159,23 +159,23 @@ Sometimes, with a lot of luck and efforts,
 the data can be saved.
 
 41
-00:02:51,540 --> 00:02:54,940
-But sometimes, the data must be evaluated or collected again.
+00:02:56,840 --> 00:02:57,840
+And sometimes not.
 
 42
 00:02:57,840 --> 00:03:01,650
-Because you do not want to build from scratch: 
+Because you do not want to evaluated or collected your data again: 
 
 43
 00:03:02,866 --> 00:03:07,990
 Write a plan, document every step, produce tidy datasets,
 
 44
-00:03:07,990 --> 00:03:12,230
-Be clever and your data will be easy to analyze,
+00:03:07,990 --> 00:03:12,000
+Data management will make your data easy to analyze,
 
 45
-00:03:12,230 --> 00:03:14,540
+00:03:12,000 --> 00:03:14,540
 share, and re-use.
 
 46

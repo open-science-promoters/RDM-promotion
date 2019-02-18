@@ -1,8 +1,9 @@
-We lost our data
+
 We wasted our time during data analysis
 We had a paper rejected because the raw data were lost
+We did lose our data
 We trashed data we could not make sense of
-and We failed - to recognize open data as the new standard
+and We failed to recognize open data as the new standard
 
 but never again.
 
