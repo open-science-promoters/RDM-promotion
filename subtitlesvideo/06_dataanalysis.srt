@@ -1,18 +1,18 @@
 ﻿1
 00:00:05,080 --> 00:00:09,290
-Research is a long process that relies on research data.
+Research is a long process that often relies on data.
 
 2
 00:00:09,826 --> 00:00:13,860
-Data is collected, documented, processed,
+Data are collected, documented, processed,
 
 3
 00:00:13,860 --> 00:00:18,035
-preserved, shared, and archived,
+preserved, shared, and archived.
 
 4
 00:00:18,035 --> 00:00:22,640
-It is a long, fastidious, sometimes repetitive work.
+It is a long, intricate, and sometimes repetitive work process.
 
 5
 00:00:22,640 --> 00:00:27,860
@@ -20,31 +20,31 @@ But all of it is necessary for climbing the research ladder,
 
 6
 00:00:27,860 --> 00:00:32,280
-getting to the final door before the results:
+and getting to the last step to the results:
 
 7
 00:00:32,280 --> 00:00:35,185
-The data analysis.
+the data analysis.
 
 8
 00:00:35,185 --> 00:00:39,320
-But analysis fails with data lacking quality.
+But analyses will fail with data that lacks high quality.
 
 9
 00:00:39,320 --> 00:00:44,100
-The research may tumble. The problems causing failure
+The research may tumble. The errors that produce problems 
 
 10
 00:00:44,100 --> 00:00:48,600
-are often born during the project youth.
+are often born during the early stage of a project.
 
 11
 00:00:48,790 --> 00:00:53,090
-Research is providing a large amount of valuable data, but,
+Research provides a large amount of valuable data, but,
 
 12
 00:00:53,090 --> 00:00:56,330
-even when the data is easy to retrieve,
+even when the data are easy for us to retrieve,
 
 13
 00:00:56,330 --> 00:01:00,400
@@ -52,7 +52,7 @@ small problems in its processing
 
 14
 00:01:00,400 --> 00:01:05,100
-can impact tremendously the operability of the data.
+can have a tremendous impact on the operability of the data.
 
 15
 00:01:05,100 --> 00:01:09,110
@@ -60,11 +60,11 @@ Problems which are marginal issues at the start
 
 16
 00:01:09,110 --> 00:01:13,110
-steadily assumes more importance
+steadily gain more importance.
 
 17
 00:01:14,080 --> 00:01:18,080
-The data is there, but it cannot be used or analyzed.
+The data are there, but they cannot be used or analyzed properly.
 
 18
 00:01:18,080 --> 00:01:21,050
@@ -76,11 +76,11 @@ In the end, in order to save the project,
 
 20
 00:01:24,720 --> 00:01:28,190
-the data needs to be decomposed or cleaned,
+the data need to be decomposed or cleaned,
 
 21
 00:01:28,190 --> 00:01:31,200
-a process which is difficult, sometimes dangerous,
+a process which is often difficult, sometimes dangerous,
 
 22
 00:01:31,200 --> 00:01:34,711
@@ -96,11 +96,11 @@ one can best choose how the data should be collected
 
 25
 00:01:42,760 --> 00:01:46,900
-such that the data ends in its most well fitted position.
+such that the data ends in its optimal position.
 
 26
 00:01:46,900 --> 00:01:50,570
-While surprises are always expected,
+While surprises can always be expected,
 
 27
 00:01:50,570 --> 00:01:53,570
@@ -116,7 +116,7 @@ But even more important than the data,
 
 30
 00:01:59,880 --> 00:02:03,180
-its documentation must be designed and filled cautiously
+is its documentation, which must be cautiously designed and entered
 
 31
 00:02:03,180 --> 00:02:07,790
@@ -140,7 +140,7 @@ It is easy to underestimate the problem,
 
 36
 00:02:28,260 --> 00:02:33,300
-it is tempting to think one will craft something later.
+and it is tempting to think you will craft something later.
 
 37
 00:02:33,300 --> 00:02:37,340
@@ -148,7 +148,7 @@ But "later" might become "too late".
 
 38
 00:02:37,340 --> 00:02:41,180
-Sometimes the data must be re-evaluated completely.
+There is a risk of total data loss.
 
 39
 00:02:41,180 --> 00:02:45,180
@@ -160,30 +160,29 @@ the data can be saved.
 
 41
 00:02:51,540 --> 00:02:54,940
-But counting on luck is not very sound, is it?
+But sometimes, the data must be evaluated or collected again.
 
 42
 00:02:57,840 --> 00:03:01,650
-Instead, start early with your research data management:
+Because you do not want to build from scratch: 
 
 43
 00:03:02,866 --> 00:03:07,990
-Write a plan, document every step, produce tidy datasets:
+Write a plan, document every step, produce tidy datasets,
 
 44
 00:03:07,990 --> 00:03:12,230
-Be clever and your data will be easy to analyze
+Be clever and your data will be easy to analyze,
 
 45
 00:03:12,230 --> 00:03:14,540
-and share.
+share, and re-use.
 
 46
 00:03:14,940 --> 00:03:21,930
-Learn more about data formats, structures, and documentation, 
- seek for help at a Research Data Management Helpdesk or online !
+To learn more about data formats, structures, and documentation, look for help at a Research Data Management Helpdesk or online!
 
 47
 00:03:28,191 --> 00:03:39,350
-In our next episode, we will learn more about research data managers, stay tuned !
+In our next episode, we will learn more about research data managers, stay tuned!
 
