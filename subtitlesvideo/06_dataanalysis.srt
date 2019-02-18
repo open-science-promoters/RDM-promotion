@@ -112,11 +112,11 @@ an adequate file format is chosen.
 
 29
 00:01:56,870 --> 00:01:59,880
-But perhaps even more important than the data,
+But even more important than the data,
 
 30
 00:01:59,880 --> 00:02:03,180
-is its documentation, which must be designed and applied cautiously
+is its documentation, which must be cautiously designed and entered
 
 31
 00:02:03,180 --> 00:02:07,790
