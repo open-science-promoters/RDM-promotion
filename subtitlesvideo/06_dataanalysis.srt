@@ -20,11 +20,11 @@ But all of it is necessary for climbing the research ladder,
 
 6
 00:00:27,860 --> 00:00:32,280
-and getting to the final stage before getting results:
+and getting to the last step to the results:
 
 7
 00:00:32,280 --> 00:00:35,185
-From the data analysis.
+the data analysis.
 
 8
 00:00:35,185 --> 00:00:39,320
@@ -32,11 +32,11 @@ But analyses will fail with data that lacks high quality.
 
 9
 00:00:39,320 --> 00:00:44,100
-The research may tumble. The problems causing failure
+The research may tumble. The errors that produce problems 
 
 10
 00:00:44,100 --> 00:00:48,600
-are often born during the early steps of a project.
+are often born during the early stage of a project.
 
 11
 00:00:48,790 --> 00:00:53,090
@@ -96,7 +96,7 @@ one can best choose how the data should be collected
 
 25
 00:01:42,760 --> 00:01:46,900
-such that the data ends in its best position for re-use.
+such that the data ends in its optimal position.
 
 26
 00:01:46,900 --> 00:01:50,570
@@ -140,7 +140,7 @@ It is easy to underestimate the problem,
 
 36
 00:02:28,260 --> 00:02:33,300
-and it is tempting to think you will be able to fix it later.
+and it is tempting to think you will craft something later.
 
 37
 00:02:33,300 --> 00:02:37,340
@@ -148,7 +148,7 @@ But "later" might become "too late".
 
 38
 00:02:37,340 --> 00:02:41,180
-Sometimes the data must be re-evaluated or collected completely.
+There is a risk of total data loss.
 
 39
 00:02:41,180 --> 00:02:45,180
@@ -160,15 +160,15 @@ the data can be saved.
 
 41
 00:02:51,540 --> 00:02:54,940
-But counting on luck is not very scientific, is it?
+But sometimes, the data must be evaluated or collected again.
 
 42
 00:02:57,840 --> 00:03:01,650
-Instead, start early with your research data management:
+Because you do not want to build from scratch: 
 
 43
 00:03:02,866 --> 00:03:07,990
-Write a plan, document every step, produce tidy datasets:
+Write a plan, document every step, produce tidy datasets,
 
 44
 00:03:07,990 --> 00:03:12,230
