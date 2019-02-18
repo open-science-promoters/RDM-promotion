@@ -16,7 +16,7 @@ even years after its production, by allowing easy preliminary and meta-analyses,
 
 5
 00:00:28,550 --> 00:00:32,180
-and can put research on the right track.
+it can put research on the right track.
 
 6
 00:00:33,550 --> 00:00:37,490
@@ -68,15 +68,15 @@ a process that does not come without pain and effort.
 
 18
 00:01:27,370 --> 00:01:34,250
-But once data management has been implemented, opening your data up is simple.
+But once data management has been implemented, opening data is effortless.
 
 19
 00:01:34,250 --> 00:01:36,210
-Indeed the data are then already FAIR,
+By default, the data are Findable, Accessible, Interoperable and Re-usable,
 
 20
 00:01:36,210 --> 00:01:43,590
-Findable, Accessible, Interoperable and Re-usable.
+and can be made open by the press of a button.
 
 21
 00:01:43,590 --> 00:01:46,660
@@ -88,7 +88,7 @@ When the times comes, it is a job for researchers.
 
 23
 00:01:51,061 --> 00:01:56,700
-For their careers and for society, they have to open up their data:
+For their careers and for society, they have to unleash their data:
 
 24
 00:01:56,700 --> 00:02:00,103
