@@ -1,0 +1,179 @@
+1
+00:00:05,080 --> 00:00:09,290
+La investigación es un proceso largo que a menudo se basa en datos.
+
+2
+00:00:10,960 --> 00:00:14,060
+Los datos se recogen, documentan y procesan,
+
+3
+00:00:14,160 --> 00:00:17,120
+se preservan, comparten y archivan.
+
+4
+00:00:18,035 --> 00:00:22,640
+Es un proceso de trabajo largo, laborioso y a veces repetitivo.
+
+5
+00:00:24,020 --> 00:00:28,540
+Pero todo esto es necesario para ascender la escalera de la investigación,
+
+6
+00:00:28,860 --> 00:00:31,760
+y llegar al último paso de los resultados:
+
+7
+00:00:32,000 --> 00:00:34,420
+el análisis de los datos.
+
+8
+00:00:36,960 --> 00:00:41,180
+Pero los análisis fallarán si los datos carecen de alta calidad.
+
+9
+00:00:41,380 --> 00:00:44,880
+La investigación puede fallar. Los errores que producen problemas
+
+10
+00:00:45,040 --> 00:00:48,600
+a menudo nacen durante la fase inicial de un proyecto.
+
+11
+00:00:50,140 --> 00:00:53,540
+La investigación proporciona una gran cantidad de datos valiosos, pero,
+
+12
+00:00:53,660 --> 00:00:56,440
+incluso cuando los datos son fáciles de recuperar,
+
+13
+00:00:56,520 --> 00:00:59,080
+pequeños problemas en su procesamiento
+
+14
+00:00:59,120 --> 00:01:04,220
+pueden tener un impacto tremendo en la funcionalidad de los datos.
+
+15
+00:01:05,100 --> 00:01:08,480
+Problemas que son cuestiones marginales al principio
+
+16
+00:01:08,620 --> 00:01:11,580
+ganan cada vez más importancia.
+
+17
+00:01:14,700 --> 00:01:19,260
+Los datos están ahí, pero no pueden ser usados o analizados apropiadamente.
+
+18
+00:01:19,480 --> 00:01:21,900
+Los datos se vuelven inútiles.
+
+19
+00:01:22,380 --> 00:01:25,180
+Al final, para salvar el proyecto,
+
+20
+00:01:25,280 --> 00:01:27,860
+los datos necesitan ser descompuestos o limpiados,
+
+21
+00:01:27,960 --> 00:01:32,180
+un proceso que a menudo es difícil, a veces peligroso,
+
+22
+00:01:32,240 --> 00:01:35,120
+y siempre consume mucho tiempo.
+
+23
+00:01:35,600 --> 00:01:39,200
+Planeando con suficiente antelación cómo se analizarán los datos,
+
+24
+00:01:39,340 --> 00:01:42,260
+uno puede elegir la mejor manera de recopilar los datos
+
+25
+00:01:42,340 --> 00:01:46,280
+de manera que los datos terminen en su forma óptima.
+
+26
+00:01:47,560 --> 00:01:49,980
+Aunque siempre se pueden esperar sorpresas,
+
+27
+00:01:50,060 --> 00:01:54,820
+los peligros se limitan cuando se elige un formato de archivo adecuado.
+
+28
+00:01:55,280 --> 00:01:57,740
+Pero aún más importante que los datos,
+
+29
+00:01:57,860 --> 00:02:02,420
+es su documentación, que debe ser cuidadosamente diseñada e introducida
+
+30
+00:02:02,460 --> 00:02:06,620
+o los datos podrían no tener sentido.
+
+31
+00:02:13,560 --> 00:02:19,740
+Migrar los datos de un formato a otro para su análisis es un reto considerable.
+
+32
+00:02:19,780 --> 00:02:23,940
+Incluso los datos legibles por ordenador son difíciles de migrar.
+
+33
+00:02:24,320 --> 00:02:27,860
+Es fácil subestimar el problema,
+
+34
+00:02:27,960 --> 00:02:32,260
+y es tentador pensar que vas a hacer algo más tarde.
+
+35
+00:02:32,600 --> 00:02:35,720
+Pero "más tarde" puede llegar a ser "demasiado tarde".
+
+36
+00:02:38,080 --> 00:02:41,640
+Existe el riesgo de pérdida total de datos.
+
+37
+00:02:43,520 --> 00:02:47,460
+A veces, con mucha suerte y esfuerzo,
+
+38
+00:02:54,060 --> 00:02:56,080
+los datos pueden ser guardados.
+
+39
+00:02:56,180 --> 00:02:57,840
+Y a veces no.
+
+40
+00:02:59,760 --> 00:03:03,460
+Porque nadie desea volver a evaluar o recopilar sus datos:
+
+41
+00:03:03,820 --> 00:03:07,990
+Escribe un plan, documenta cada paso, produce conjuntos de datos bien ordenados,
+
+42
+00:03:08,980 --> 00:03:12,240
+La gestión de datos hará que sus datos sean fáciles de analizar,
+
+43
+00:03:12,280 --> 00:03:14,280
+compartir y reutilizar.
+
+44
+00:03:15,200 --> 00:03:23,000
+Para obtener más información sobre los formatos, estructuras y documentación de los datos, busque ayuda en el Research Data Management Helpdesk o en línea.
+
+45
+00:03:30,260 --> 00:03:39,350
+En el próximo episodio, aprenderemos más sobre los gestores de datos de investigación, ¡no se lo pierdan!
