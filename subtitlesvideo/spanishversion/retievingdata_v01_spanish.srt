@@ -1,0 +1,72 @@
+1
+00:00:05,860 --> 00:00:08,060
+A los investigadores les encantan sus datos
+
+2
+00:00:09,080 --> 00:00:13,040
+Y si sus datos se pierden, el baile se detiene.
+
+3
+00:00:13,800 --> 00:00:16,700
+Mientras que los investigadores pueden evitar
+
+4
+00:00:16,700 --> 00:00:16,760
+el desastre por una pérdida completa de datos creando copias de seguridad,
+Mientras que los investigadores pueden evitar
+
+5
+00:00:16,760 --> 00:00:19,940
+el desastre de una pérdida completa de datos creando copias de seguridad,
+
+6
+00:00:20,080 --> 00:00:22,140
+la gestión adecuada de los datos
+
+7
+00:00:22,260 --> 00:00:25,080
+más allá de prevenir un desastre.
+
+8
+00:00:26,420 --> 00:00:29,800
+Hoy en día, los datos se acumulan cada vez más rápido
+
+9
+00:00:30,140 --> 00:00:34,440
+Mientras empaquetan sus datos para su análisis, reutilización y compartición en el futuro,
+
+10
+00:00:34,660 --> 00:00:37,820
+los investigadores carecen a menudo de un sistema adecuado.
+
+11
+00:00:38,420 --> 00:00:41,000
+Esta estrategia puede funcionar por un tiempo
+
+12
+00:00:41,300 --> 00:00:45,160
+pero cuando la cantidad y complejidad de los conjuntos de datos aumenta,
+
+13
+00:00:45,180 --> 00:00:49,020
+los investigadores pueden ponerse en peligro real!
+
+14
+00:00:49,540 --> 00:00:53,000
+Porque no quieren perder sus días clasificando sus datos,
+
+15
+00:00:53,100 --> 00:00:59,980
+usted debería dominar la seguridad, organización, denominación y legibilidad de los datos.
+
+16
+00:00:59,980 --> 00:01:04,580
+Entonces, el proceso de investigación se llevaría a cabo sin problemas y de manera eficiente.
+
+17
+00:01:05,920 --> 00:01:14,057
+Si desea dominar la gestión de datos y aumentar su eficiencia, busque ayuda en un Helpdesk de gestión de datos de investigación o en línea.
+
+18
+00:01:21,130 --> 00:01:29,730
+En el próximo episodio, veremos cómo la gestión de datos de investigación puede ayudarle con su análisis de datos, ¡así que manténgase atento!
