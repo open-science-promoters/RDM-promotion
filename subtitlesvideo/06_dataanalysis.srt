@@ -1,13 +1,13 @@
-1
+﻿1
 00:00:05,080 --> 00:00:09,290
 Research is a long process that often relies on data.
 
 2
-00:00:09,826 --> 00:00:13,860
+00:00:10,960 --> 00:00:14,060
 Data are collected, documented, processed,
 
 3
-00:00:13,860 --> 00:00:18,035
+00:00:14,160 --> 00:00:17,120
 preserved, shared, and archived.
 
 4
@@ -15,174 +15,166 @@ preserved, shared, and archived.
 It is a long, intricate, and sometimes repetitive work process.
 
 5
-00:00:22,640 --> 00:00:27,860
+00:00:24,020 --> 00:00:28,540
 But all of it is necessary for climbing the research ladder,
 
 6
-00:00:27,860 --> 00:00:32,280
+00:00:28,860 --> 00:00:31,760
 and getting to the last step to the results:
 
 7
-00:00:32,280 --> 00:00:35,185
+00:00:32,000 --> 00:00:34,420
 the data analysis.
 
 8
-00:00:35,185 --> 00:00:39,320
+00:00:36,960 --> 00:00:41,180
 But analyses will fail with data that lacks high quality.
 
 9
-00:00:39,320 --> 00:00:44,100
-The research may tumble. The errors that produce problems 
+00:00:41,380 --> 00:00:44,880
+The research may tumble. The errors that produce problems
 
 10
-00:00:44,100 --> 00:00:48,600
+00:00:45,040 --> 00:00:48,600
 are often born during the early stage of a project.
 
 11
-00:00:48,790 --> 00:00:53,090
+00:00:50,140 --> 00:00:53,540
 Research provides a large amount of valuable data, but,
 
 12
-00:00:53,090 --> 00:00:56,330
+00:00:53,660 --> 00:00:56,440
 even when the data are easy to retrieve,
 
 13
-00:00:56,330 --> 00:01:00,400
+00:00:56,520 --> 00:00:59,080
 small problems in its processing
 
 14
-00:01:00,400 --> 00:01:05,100
+00:00:59,120 --> 00:01:04,220
 can have a tremendous impact on the operability of the data.
 
 15
-00:01:05,100 --> 00:01:09,110
+00:01:05,100 --> 00:01:08,480
 Problems which are marginal issues at the start
 
 16
-00:01:09,110 --> 00:01:13,110
+00:01:08,620 --> 00:01:11,580
 steadily gain more importance.
 
 17
-00:01:14,080 --> 00:01:18,080
+00:01:14,700 --> 00:01:19,260
 The data are there, but they cannot be used or analyzed properly.
 
 18
-00:01:18,080 --> 00:01:21,050
+00:01:19,480 --> 00:01:21,900
 The data become worthless.
 
 19
-00:01:21,050 --> 00:01:24,720
+00:01:22,380 --> 00:01:25,180
 In the end, in order to save the project,
 
 20
-00:01:24,720 --> 00:01:28,190
+00:01:25,280 --> 00:01:27,860
 the data need to be decomposed or cleaned,
 
 21
-00:01:28,190 --> 00:01:31,200
+00:01:27,960 --> 00:01:32,180
 a process which is often difficult, sometimes dangerous,
 
 22
-00:01:31,200 --> 00:01:34,711
+00:01:32,240 --> 00:01:35,120
 and always time consuming.
 
 23
-00:01:34,720 --> 00:01:38,760
+00:01:35,600 --> 00:01:39,200
 By planning well ahead how the data will be analyzed,
 
 24
-00:01:38,760 --> 00:01:42,760
+00:01:39,340 --> 00:01:42,260
 one can best choose how the data should be collected
 
 25
-00:01:42,760 --> 00:01:46,900
+00:01:42,340 --> 00:01:46,280
 such that the data ends in its optimal position.
 
 26
-00:01:46,900 --> 00:01:50,570
+00:01:47,560 --> 00:01:49,980
 While surprises can always be expected,
 
 27
-00:01:50,570 --> 00:01:53,570
-the dangers are limited when
+00:01:50,060 --> 00:01:54,820
+the dangers are limited when an adequate file format is chosen.
 
 28
-00:01:53,570 --> 00:01:56,870
-an adequate file format is chosen.
-
-29
-00:01:56,870 --> 00:01:59,480
+00:01:55,280 --> 00:01:57,740
 But even more important than the data,
 
-30
-00:01:59,480 --> 00:02:03,180
+29
+00:01:57,860 --> 00:02:02,420
 is its documentation, which must be cautiously designed and entered
 
-31
-00:02:03,180 --> 00:02:07,790
+30
+00:02:02,460 --> 00:02:06,620
 or the data might become pointless.
 
+31
+00:02:13,560 --> 00:02:19,740
+Moving data from one format to another for its analysis is a considerable challenge.
+
 32
-00:02:11,940 --> 00:02:17,450
-Moving data from one format to another for its analysis
+00:02:19,780 --> 00:02:23,940
+Even computer readable data is tricky to migrate.
 
 33
-00:02:17,450 --> 00:02:21,780
-is a considerable challenge. Even computer readable data
-
-34
-00:02:21,780 --> 00:02:23,990
-is tricky to migrate.
-
-35
-00:02:23,990 --> 00:02:28,260
+00:02:24,320 --> 00:02:27,860
 It is easy to underestimate the problem,
 
-36
-00:02:28,260 --> 00:02:33,300
+34
+00:02:27,960 --> 00:02:32,260
 and it is tempting to think you will craft something later.
 
-37
-00:02:33,300 --> 00:02:37,340
+35
+00:02:32,600 --> 00:02:35,720
 But "later" might become "too late".
 
-38
-00:02:37,340 --> 00:02:41,180
+36
+00:02:38,080 --> 00:02:41,640
 There is a risk of total data loss.
 
-39
-00:02:41,180 --> 00:02:45,180
+37
+00:02:43,520 --> 00:02:47,460
 Sometimes, with a lot of luck and efforts,
 
-40
-00:02:47,180 --> 00:02:51,050
+38
+00:02:54,060 --> 00:02:56,080
 the data can be saved.
 
-41
-00:02:56,840 --> 00:02:57,840
+39
+00:02:56,180 --> 00:02:57,840
 And sometimes not.
 
-42
-00:02:57,840 --> 00:03:01,650
-Because you do not want to evaluated or collected your data again: 
+40
+00:02:59,760 --> 00:03:03,460
+Because you do not want to evaluated or collected your data again:
 
-43
-00:03:02,866 --> 00:03:07,990
+41
+00:03:03,820 --> 00:03:07,990
 Write a plan, document every step, produce tidy datasets,
 
-44
-00:03:07,990 --> 00:03:12,000
+42
+00:03:08,980 --> 00:03:12,240
 Data management will make your data easy to analyze,
 
-45
-00:03:12,000 --> 00:03:14,540
+43
+00:03:12,280 --> 00:03:14,280
 share, and re-use.
 
-46
-00:03:14,940 --> 00:03:21,930
+44
+00:03:15,200 --> 00:03:23,000
 To learn more about data formats, structures, and documentation, look for help at a Research Data Management Helpdesk or online!
 
-47
-00:03:28,191 --> 00:03:39,350
-In our next episode, we will learn more about research data managers, stay tuned!
+45
+00:03:30,260 --> 00:03:39,350
+In the next episode, we will learn more about research data managers, stay tuned!
 
