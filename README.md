@@ -4,6 +4,7 @@
 
 [![goodtables.io](https://goodtables.io/badge/github/open-science-promoters/RDM-promotion.svg)](https://goodtables.io/github/open-science-promoters/RDM-promotion)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a4fb52e0-f4c4-4caa-9c28-cea81141b94f/deploy-status)](https://app.netlify.com/sites/zealous-johnson-d4652e/deploys)
 
 
 Everyone is warmly welcome and expected to warmly welcome others. Please have a look at our [code of conduct](conduct.md ) for details, and report any misconduct. For an better description of the project and our aims, please browse our website at https://rdmpromotion.rbind.io. 
