@@ -1,73 +1,77 @@
 1
+00:00:03,860 --> 00:00:05,860
+Why research data management 2/4:
+Retrieving Data
+
+2
 00:00:05,860 --> 00:00:08,060
 Researchers do love their data
 
-2
+3
 00:00:09,080 --> 00:00:13,040
 And if their data are lost, the dance stops.
 
-3
+4
 00:00:13,800 --> 00:00:16,700
 While researchers can avoid
 
-4
+5
 00:00:16,760 --> 00:00:19,940
 the crash of a complete data loss by creating backups,
 
-5
+6
 00:00:20,080 --> 00:00:22,140
 proper data management goes
 
-6
+7
 00:00:22,260 --> 00:00:25,080
 beyond just preventing a crash.
 
-7
+8
 00:00:26,420 --> 00:00:29,800
 Today, data are accumulating faster and faster
 
-8
+9
 00:00:30,140 --> 00:00:34,440
 While packaging their data for future analysis, reuse, and sharing,
 
-9
+10
 00:00:34,660 --> 00:00:37,820
 researchers often lack a proper system.
 
-10
+11
 00:00:38,420 --> 00:00:41,000
 This strategy may work for a time
 
-11
+12
 00:00:41,300 --> 00:00:45,160
 but when the amount and complexity of datasets increases,
 
-12
+13
 00:00:45,180 --> 00:00:49,020
 researchers can put themselves in real danger!
 
-13
+14
 00:00:49,540 --> 00:00:53,000
 Because you do not want to waste days sorting out your data,
 
-14
+15
 00:00:53,100 --> 00:00:59,980
 you shall master data safety, organization, naming and computer readability.
 
-15
+16
 00:00:59,980 --> 00:01:04,580
 Then, the research process happens smoothly and efficiently.
 
-16
+17
 00:01:05,920 --> 00:01:14,057
 If you want to master data management and increase your efficiency, look for help at a Research Data Management Helpdesk or online.
 
-
-17
+18
 00:01:14,057 --> 00:01:21,130
 Translation: XXX
 
-18
+19
 00:01:21,130 --> 00:01:29,730
 In the next episode, we will see how research data management can help you with your data analysis, so stay tuned!
 

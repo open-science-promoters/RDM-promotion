@@ -1,106 +1,117 @@
 1
+00:00:00,000 --> 00:00:04,888
+Pourquoi gérer ses données de recherche 1/4: 
+open data est le nouveau standard
+
+2
 00:00:05,120 --> 00:00:09,880
 Les données de recherche devraient être disponibles gratuitement, partageables et réutilisables.
 
-2
+3
 00:00:10,200 --> 00:00:14,700
 Seules les données ouvertes atteindront leur véritable potentiel.
 
-3
+4
 00:00:15,640 --> 00:00:20,320
 En favorisant la collaboration, l'ouverture des données accélère la recherche,
 
-4
+5
 00:00:21,570 --> 00:00:27,610
 même des années après sa production, en permettant des analyses préliminaires et des méta-analyses faciles,
 
-5
+6
 00:00:28,340 --> 00:00:31,800
 elle peut remettre la recherche sur la bonne voie.
 
-6
-00:00:32,580 --> 00:00:35,780
-Les données ouvertes offrent une défense à l'épreuve des balles
 7
+00:00:32,580 --> 00:00:35,780
+Les données ouvertes offrent une protection blindée
+
+8
 00:00:36,140 --> 00:00:40,120
 contre les accusations de malversations ou de mauvaises pratiques scientifiques.
-8
+
+9
 00:00:40,540 --> 00:00:44,740
 L'ouverture des données augmente la visibilité de la recherche et les citations,
 
-9
+10
 00:00:45,000 --> 00:00:49,980
 et, bien organisées, les données ouvertes peuvent également accélérer le processus de recherche.
 
-10
+11
 00:00:50,820 --> 00:00:55,060
 Des résultats dignes de confiance sont obtenus efficacement et en toute sûreté,
 
-11
+12
 00:00:55,540 --> 00:00:59,320
 et la recherche a plus de chance d'être publiée et financée.
 
-12
+13
 00:01:00,100 --> 00:01:04,820
 Les gouvernements, les organismes de financement, les universités et les maisons d'édition
 
-13
+14
 00:01:04,960 --> 00:01:08,540
 ont reconnu l'importance de la publication des données de recherche.
-14
+
+15
 00:01:08,900 --> 00:01:12,420
 et maintenant, ils l' EXIGENT souvent, et à juste titre.
 
-15
+16
 00:01:13,940 --> 00:01:17,700
 Mais la production de données ouvertes ne se fait pas sans difficultés,
 
-16
+17
 00:01:18,120 --> 00:01:21,960
 elle peut nécessiter une modification du workflow de recherche,
-17
-00:01:22,100 --> 00:01:26,340
-un processus qui ne se réalise pas sans peine et sans effort.
 
 18
+00:01:22,100 --> 00:01:26,340
+un processus qui ne se réalise pas sans peine, ni sans effort.
+
+19
 00:01:27,370 --> 00:01:32,480
 Mais une fois la gestion des données implémentée, l'ouverture des données se fait en toute simplicité.
 
-19
+20
 00:01:33,250 --> 00:01:38,760
 Par défaut, les données sont Recherchables, Accessibles, Interopérables et Réutilisables,
 
-20
+21
 00:01:38,760 --> 00:01:42,340
 et peuvent être ouvertes par la simple pression d'un bouton.
-21
-00:01:42,500 --> 00:01:46,380
-En fin de compte, c'est la bonne recherche qui gagne !
 
 22
+00:01:42,500 --> 00:01:46,380
+C'est la bonne recherche qui gagne toujours à la fin !
+
+23
 00:01:49,120 --> 00:01:52,240
 Le moment venu, c'est un job pour les chercheurs.
 
-23
-00:01:52,440 --> 00:01:56,700
-Pour leur carrière et pour la société, ils doivent déchaîner leurs données :
-
 24
-00:01:56,800 --> 00:01:59,580
-les ouvrir et les rendre FAIR,
+00:01:52,440 --> 00:01:56,700
+Pour leur carrière et pour la société, ils doivent débrider leurs données :
 
 25
-00:01:59,980 --> 00:02:05,220
-Et leurs données FAIR et ouvertes prendront leur envol pour sauver le monde.
+00:01:56,800 --> 00:01:59,580
+ils doivent les ouvrir et les rendre FAIR,
 
 26
+00:01:59,980 --> 00:02:05,220
+Et les données FAIR et ouvertes prendront leur envol pour sauver le monde.
+
+27
 00:02:05,575 --> 00:02:13,984
 Si vous voulez maîtriser la gestion des données et produire des données ouvertes, cherchez de l'aide auprès d'un service d'assistance en gestion des données de recherche ou en ligne !
 
-27
+28
 00:02:14,651 --> 00:02:19,789
 Traduction: Julien Colomb
 
-28
+29
 00:02:19,789 --> 00:02:28,498
 Dans le prochain épisode, nous verrons comment la gestion des données de recherche peut vous aider à retrouver vos données, alors ne manquez pas la suite !
+

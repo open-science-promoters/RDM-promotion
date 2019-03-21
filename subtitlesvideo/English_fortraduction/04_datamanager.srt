@@ -40,4 +40,6 @@ Those are the promises of Data Management.
 
 11
 00:00:40,891 --> 00:00:46,890
-Translation: XXX
+title: Data champions,
+translation: XXX
+
