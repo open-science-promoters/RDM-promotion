@@ -1,0 +1,40 @@
+﻿1
+00:00:00,000 --> 00:00:04,350
+We wasted our time during data analysis
+
+2
+00:00:04,350 --> 00:00:08,350
+We had a paper rejected because the raw data were lost
+
+3
+00:00:08,350 --> 00:00:11,220
+We did lose our data
+
+4
+00:00:11,220 --> 00:00:14,660
+We trashed data we could not make sense of
+
+5
+00:00:14,660 --> 00:00:19,160
+We failed to recognize open data as the new standard
+
+6
+00:00:19,430 --> 00:00:22,900
+Never again!
+
+7
+00:00:22,900 --> 00:00:27,070
+We want Better Research
+
+8
+00:00:27,070 --> 00:00:31,310
+In less time
+
+9
+00:00:31,310 --> 00:00:35,410
+in order to produce open FAIR data and foster collaboration.
+
+10
+00:00:35,410 --> 00:00:39,890
+Those are the promises of Data Management.
+

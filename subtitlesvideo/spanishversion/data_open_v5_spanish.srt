@@ -103,5 +103,10 @@ Y sus datos abiertos FAIR se irán volando y salvarán el día.
 Si desea dominar la gestión de datos y producir datos abiertos, busque ayuda en un servicio de apoyo de gestión de datos de investigación o en línea.
 
 27
+00:02:14,651 --> 00:02:19,789
+traducción : Fernanda Peset
+
+28
 00:02:19,789 --> 00:02:28,765
 En nuestro próximo episodio, veremos cómo la gestión de datos de investigación puede ayudarle a recuperar sus datos, así que manténgase atento.
+

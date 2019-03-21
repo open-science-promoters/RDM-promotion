@@ -1,0 +1,71 @@
+1
+00:00:05,860 --> 00:00:08,060
+Les chercheurs adorent leurs données
+
+2
+00:00:09,080 --> 00:00:13,040
+Et si leurs données sont perdues, leur danse s'arrête.
+
+3
+00:00:13,800 --> 00:00:16,700
+Bien que les chercheurs puissent éviter
+
+4
+00:00:16,760 --> 00:00:19,940
+le crash d'une perte complète de données en créant des sauvegardes,
+
+5
+00:00:20,080 --> 00:00:22,140
+la bonne gestion des données va
+
+6
+00:00:22,260 --> 00:00:25,080
+au-delà de la simple prévention d'un crash.
+
+7
+00:00:26,420 --> 00:00:29,800
+Aujourd'hui, les données s'accumulent toujours plus vite.
+
+8
+00:00:30,140 --> 00:00:34,440
+Lors de l'empaquetage de leurs données pour leur future analyse, réutilisation et partage,
+
+9
+00:00:34,660 --> 00:00:37,820
+les chercheurs n'ont souvent pas de système approprié.
+
+10
+00:00:38,420 --> 00:00:41,000
+Cette stratégie peut fonctionner pendant un temps,
+
+11
+00:00:41,300 --> 00:00:45,160
+mais lorsque la quantité et la complexité des ensembles de données augmentent,
+
+12
+00:00:45,180 --> 00:00:49,020
+les chercheurs peuvent se retrouver en réel danger !
+
+13
+00:00:49,540 --> 00:00:53,000
+Parce que vous ne voulez pas perdre des jours à trier vos données,
+
+14
+00:00:53,100 --> 00:00:59,980
+maîtrisez la sécurité, l'organisation, la dénomination et la lisibilité des données par ordinateur.
+
+15
+00:00:59,980 --> 00:01:04,580
+Ensuite, le processus de recherche se déroulera sans heurts et efficacement.
+
+16
+00:01:05,920 --> 00:01:14,057
+Si vous souhaitez maîtriser la gestion des données et accroître votre efficacité, consultez un service d'aide à la gestion des données de recherche ou en ligne.
+
+17
+00:01:14,057 --> 00:01:21,130
+Traduction : Julien Colomb
+
+18
+00:01:21,130 --> 00:01:29,730
+Dans le prochain épisode, nous verrons comment la gestion des données de recherche peut vous aider à analyser vos données, alors ne manquez pas la suite!

@@ -64,6 +64,10 @@ If you want to master data management and increase your efficiency, look for hel
 
 
 17
+00:01:14,057 --> 00:01:21,130
+Translation: XXX
+
+18
 00:01:21,130 --> 00:01:29,730
 In the next episode, we will see how research data management can help you with your data analysis, so stay tuned!
 

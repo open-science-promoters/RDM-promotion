@@ -1,0 +1,44 @@
+﻿1
+00:00:00,000 --> 00:00:04,350
+Perdimos nuestro tiempo durante el análisis de datos
+
+2
+00:00:04,350 --> 00:00:08,350
+Se rechazó un trabajo porque se perdieron los datos en bruto.
+
+3
+00:00:08,350 --> 00:00:11,220
+Perdimos nuestros datos
+
+4
+00:00:11,220 --> 00:00:14,660
+Destruimos datos que no tenían sentido
+
+5
+00:00:14,660 --> 00:00:19,160
+Fallamos en reconocer los datos abiertos como el nuevo estándar
+
+6
+00:00:19,430 --> 00:00:22,900
+Nunca más!
+
+7
+00:00:22,900 --> 00:00:27,070
+nosotros/as queremos Mejor Investigación
+
+8
+00:00:27,070 --> 00:00:31,310
+En menos tiempo
+
+9
+00:00:31,310 --> 00:00:35,410
+para producir abrir los datos de FAIR y fomentar la colaboración.
+
+10
+00:00:35,410 --> 00:00:39,890
+Esas son las promesas de Gestión de datos.
+
+11
+00:00:40,891 --> 00:00:46,890
+traducción : Fernanda Peset
+

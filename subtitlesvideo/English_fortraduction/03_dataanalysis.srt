@@ -175,6 +175,10 @@ share, and re-use.
 To learn more about data formats, structures, and documentation, look for help at a Research Data Management Helpdesk or online!
 
 45
+00:03:23,000 --> 00:03:30,260
+Translation: XXX
+
+46
 00:03:30,260 --> 00:03:39,350
 In the next episode, we will learn more about research data managers, stay tuned!
 

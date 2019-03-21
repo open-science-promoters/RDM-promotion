@@ -1,0 +1,43 @@
+1
+00:00:00,000 --> 00:00:04,350
+Nous avons perdu notre temps lors de l'analyse des données
+
+2
+00:00:04,350 --> 00:00:08,350
+Nous avons eu un papier rejeté parce que les données brutes ont été perdues.
+
+3
+00:00:08,350 --> 00:00:11,220
+Nous avons perdu nos données
+
+4
+00:00:11,220 --> 00:00:14,660
+Nous avons détruit des données qui ne faisaient plus aucun sens pour nous.
+5
+00:00:14,660 --> 00:00:19,160
+Nous refusions de reconnaître les données ouvertes comme le nouveau standard.
+
+6
+00:00:19,430 --> 00:00:22,900
+Plus jamais !
+
+7
+00:00:22,900 --> 00:00:27,070
+Nous voulons une meilleure recherche
+
+8
+00:00:27,070 --> 00:00:31,310
+En moins de temps
+
+9
+00:00:31,310 --> 00:00:35,410
+tout en produisant des données FAIR ouvertes afin de favoriser la collaboration.
+
+10
+00:00:35,410 --> 00:00:39,890
+Telles sont les promesses de la gestion des données.
+
+
+11
+00:00:40,891 --> 00:00:46,890
+Traduction: Julien Colomb

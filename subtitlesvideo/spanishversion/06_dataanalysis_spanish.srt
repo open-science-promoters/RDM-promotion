@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:05,080 --> 00:00:09,290
 La investigación es un proceso largo que a menudo se basa en datos.
 
@@ -147,11 +147,11 @@ Existe el riesgo de pérdida total de datos.
 A veces, con mucha suerte y esfuerzo,
 
 38
-00:02:54,060 --> 00:02:56,080
+00:02:47,820 --> 00:02:52,289
 los datos pueden ser guardados.
 
 39
-00:02:56,180 --> 00:02:57,840
+00:02:56,180 --> 00:02:59,760
 Y a veces no.
 
 40
@@ -160,7 +160,7 @@ Porque nadie desea volver a evaluar o recopilar sus datos:
 
 41
 00:03:03,820 --> 00:03:07,990
-Escribe un plan, documenta cada paso, produce conjuntos de datos bien ordenados,
+Escribe un plan, documenta cada paso, produce conjuntos de datos bien ordenados ("tidy").
 
 42
 00:03:08,980 --> 00:03:12,240
@@ -175,5 +175,10 @@ compartir y reutilizar.
 Para obtener más información sobre los formatos, estructuras y documentación de los datos, busque ayuda en el Research Data Management Helpdesk o en línea.
 
 45
+00:03:23,000 --> 00:03:30,260
+traducción : Fernanda Peset
+
+46
 00:03:30,260 --> 00:03:39,350
 En el próximo episodio, aprenderemos más sobre los gestores de datos de investigación, ¡no se lo pierdan!
+

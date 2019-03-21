@@ -1,0 +1,184 @@
+1
+00:00:05,080 --> 00:00:09,290
+La recherche est un long processus qui repose souvent sur des données.
+
+2
+00:00:10,960 --> 00:00:14,060
+Les données sont recueillies, documentées, traitées,
+
+3
+00:00:14,160 --> 00:00:17,120
+préservées, partagées et archivées.
+
+4
+00:00:18,035 --> 00:00:22,640
+Le processus de travail est long, complexe et parfois répétitif.
+
+5
+00:00:24,020 --> 00:00:28,540
+Mais tout cela est nécessaire pour gravir les marches de la recherche,
+
+6
+00:00:28,860 --> 00:00:31,760
+pour arriver à la dernière étape avant les résultats :
+
+7
+00:00:32,000 --> 00:00:34,420
+l'analyse des données.
+
+8
+00:00:36,960 --> 00:00:41,180
+Mais les analyses échoueront si les données manquent de qualité.
+
+9
+00:00:41,380 --> 00:00:44,880
+La recherche pourrait s'effondrer. Les erreurs qui causent les problèmes
+
+10
+00:00:45,040 --> 00:00:48,600
+naissent souvent au début d'un projet.
+
+11
+00:00:50,140 --> 00:00:53,540
+La recherche fournit une grande quantité de précieuses données, mais,
+
+12
+00:00:53,660 --> 00:00:56,440
+même lorsque les données sont faciles à retrouver,,
+
+13
+00:00:56,520 --> 00:00:59,080
+de petits problèmes dans son traitement
+
+14
+00:00:59,120 --> 00:01:04,220
+peuvent avoir un impact considérable sur l'opérabilité des données.
+
+15
+00:01:05,100 --> 00:01:08,480
+Des problèmes qui sont des enjeux marginaux au départ
+
+16
+00:01:08,620 --> 00:01:11,580
+gagnent de plus en plus en importance.
+
+17
+00:01:14,700 --> 00:01:19,260
+Les données sont là, mais elles ne peuvent pas être utilisées ou analysées correctement.
+
+18
+00:01:19,480 --> 00:01:21,900
+Les données deviennent inutiles.
+
+19
+00:01:22,380 --> 00:01:25,180
+En fin de compte, afin de sauver le projet,
+
+20
+00:01:25,280 --> 00:01:27,860
+les données doivent être décomposées ou nettoyées,
+
+21
+00:01:27,960 --> 00:01:32,180
+un processus souvent difficile, parfois dangereux,
+
+22
+00:01:32,240 --> 00:01:35,120
+et qui prend toujours beaucoup de temps.
+
+23
+00:01:35,600 --> 00:01:39,200
+En planifiant longtemps à l'avance la façon dont les données seront analysées,
+
+24
+00:01:39,340 --> 00:01:42,260
+on peut choisir la meilleure façon de recueillir les données,
+
+25
+00:01:42,340 --> 00:01:46,280
+de sorte que les données se retrouvent dans leur position optimale.
+
+26
+00:01:47,560 --> 00:01:49,980
+Bien qu'on puisse toujours s'attendre à des surprises,
+
+27
+00:01:50,060 --> 00:01:54,820
+les dangers sont réduits lorsqu'un format de fichier adéquat est choisi.
+
+28
+00:01:55,280 --> 00:01:57,740
+Mais ce qui est encore plus important que les données,
+
+29
+00:01:57,860 --> 00:02:02,420
+c'est sa documentation, qui doit être conçue et saisie avec précaution.
+
+30
+00:02:02,460 --> 00:02:06,620
+ou les données pourraient devenir inutiles.
+
+31
+00:02:13,560 --> 00:02:19,740
+La transformation des données d'un format à un autre pour leur analyse est un défi considérable.
+
+32
+00:02:19,780 --> 00:02:23,940
+Même les données lisibles par l'ordinateur sont difficiles à faire migrer.
+
+33
+00:02:24,320 --> 00:02:27,860
+Il est facile de sous-estimer le problème,
+
+34
+00:02:27,960 --> 00:02:32,260
+et il est tentant de penser que l'on fabriquera quelque chose plus tard.
+
+35
+00:02:32,600 --> 00:02:35,720
+Mais "plus tard" pourrait devenir "trop tard".
+
+36
+00:02:38,080 --> 00:02:41,640
+On court le risque d'une perte totale de données.
+
+37
+00:02:43,520 --> 00:02:47,460
+Parfois, avec beaucoup de chance et d'efforts,
+
+38
+00:02:47,820 --> 00:02:52,289
+les données peuvent être sauvées.
+
+39
+00:02:56,180 --> 00:02:59,760
+Et parfois non.
+
+40
+00:02:59,760 --> 00:03:03,460
+Parce que vous ne voulez pas devoir évaluer ou recueillir vos données à nouveau :
+41
+00:03:03,820 --> 00:03:07,990
+Rédigez un plan, documentez chaque étape, produisez des ensembles de données ordonnées ("tidy").
+
+42
+00:03:08,980 --> 00:03:12,240
+Le management des données facilitera l'analyse de vos données,
+
+43
+00:03:12,280 --> 00:03:14,280
+leur partage, et leur réutilisation.
+
+44
+00:03:15,200 --> 00:03:23,000
+Pour en savoir plus sur les formats de données, leur structures et la documentation, consultez un service d'aide à la gestion des données de recherche ou en ligne !
+
+45
+00:03:23,000 --> 00:03:30,260
+Traduction: Julien Colomb
+
+46
+00:03:30,260 --> 00:03:39,350
+Dans le prochain épisode, nous en apprendrons davantage sur les champions de données de recherche, ne manquez pas la suite!
+
+
