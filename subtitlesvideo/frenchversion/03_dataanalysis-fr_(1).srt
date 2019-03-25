@@ -1,4 +1,9 @@
 1
+00:00:00,000 --> 00:00:04,888
+Pourquoi gérer ses données de recherche 1/4: 
+Analyser ses données
+
+1
 00:00:05,080 --> 00:00:09,290
 La recherche est un long processus qui repose souvent sur des données.
 
@@ -16,11 +21,11 @@ Le processus de travail est long, complexe et parfois répétitif.
 
 5
 00:00:24,020 --> 00:00:28,540
-Mais tout cela est nécessaire pour gravir les marches de la recherche,
+Mais tout cela est nécessaire pour gravir les échelons de la recherche,
 
 6
 00:00:28,860 --> 00:00:31,760
-pour arriver à la dernière étape avant les résultats :
+et se retrouver sur la dernière marche avant les résultats :
 
 7
 00:00:32,000 --> 00:00:34,420
@@ -28,7 +33,7 @@ l'analyse des données.
 
 8
 00:00:36,960 --> 00:00:41,180
-Mais les analyses échoueront si les données manquent de qualité.
+Mais les analyses échoueront si les données pèchent en qualité.
 
 9
 00:00:41,380 --> 00:00:44,880
@@ -44,7 +49,7 @@ La recherche fournit une grande quantité de précieuses données, mais,
 
 12
 00:00:53,660 --> 00:00:56,440
-même lorsque les données sont faciles à retrouver,,
+même lorsque les données sont faciles à retrouver,
 
 13
 00:00:56,520 --> 00:00:59,080
@@ -112,7 +117,7 @@ Mais ce qui est encore plus important que les données,
 
 29
 00:01:57,860 --> 00:02:02,420
-c'est sa documentation, qui doit être conçue et saisie avec précaution.
+c'est leur documentation, qui doit être conçue et saisie avec précaution.
 
 30
 00:02:02,460 --> 00:02:06,620
@@ -124,7 +129,7 @@ La transformation des données d'un format à un autre pour leur analyse est un 
 
 32
 00:02:19,780 --> 00:02:23,940
-Même les données lisibles par l'ordinateur sont difficiles à faire migrer.
+Même les données lisibles par ordinateur sont difficiles à migrer.
 
 33
 00:02:24,320 --> 00:02:27,860
@@ -156,10 +161,11 @@ Et parfois non.
 
 40
 00:02:59,760 --> 00:03:03,460
-Parce que vous ne voulez pas devoir évaluer ou recueillir vos données à nouveau :
+Parce que vous ne voulez pas devoir évaluer ou recueillir vos données à nouveau:
+
 41
 00:03:03,820 --> 00:03:07,990
-Rédigez un plan, documentez chaque étape, produisez des ensembles de données ordonnées ("tidy").
+Rédigez un plan, documentez chaque étape, produisez des ensembles de données ordonnées ("tidy data").
 
 42
 00:03:08,980 --> 00:03:12,240

@@ -161,7 +161,7 @@ And sometimes not.
 
 41
 00:02:59,760 --> 00:03:03,460
-Because you do not want to evaluated or collected your data again:
+Because you do not want to evaluate or collect your data again:
 
 42
 00:03:03,820 --> 00:03:07,990

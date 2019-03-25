@@ -1,4 +1,9 @@
 1
+00:00:00,000 --> 00:00:04,888
+Pourquoi gérer ses données de recherche 1/4: 
+Retrouver ses données
+
+1
 00:00:05,860 --> 00:00:08,060
 Les chercheurs adorent leurs données
 
