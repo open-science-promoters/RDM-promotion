@@ -5,7 +5,7 @@ Retrouver ses données
 
 1
 00:00:05,860 --> 00:00:08,060
-Les chercheurs adorent leurs données
+Les chercheuses/chercheurs adorent leurs données
 
 2
 00:00:09,080 --> 00:00:13,040
@@ -13,7 +13,7 @@ Et si leurs données sont perdues, leur danse s'arrête.
 
 3
 00:00:13,800 --> 00:00:16,700
-Bien que les chercheurs puissent éviter
+Bien que les chercheuses/chercheurs puissent éviter
 
 4
 00:00:16,760 --> 00:00:19,940
@@ -37,7 +37,7 @@ Lors de l'empaquetage de leurs données pour leur future analyse, réutilisation
 
 9
 00:00:34,660 --> 00:00:37,820
-les chercheurs n'ont souvent pas de système approprié.
+les chercheuses/chercheurs n'ont souvent pas de système approprié.
 
 10
 00:00:38,420 --> 00:00:41,000
@@ -49,7 +49,7 @@ mais lorsque la quantité et la complexité des ensembles de données augmentent
 
 12
 00:00:45,180 --> 00:00:49,020
-les chercheurs peuvent se retrouver en réel danger !
+les chercheuses/chercheurs peuvent se retrouver en réel danger !
 
 13
 00:00:49,540 --> 00:00:53,000

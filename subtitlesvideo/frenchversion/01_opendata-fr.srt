@@ -77,7 +77,7 @@ Mais une fois la gestion des données implémentée, l'ouverture des données se
 
 20
 00:01:33,250 --> 00:01:38,760
-Par défaut, les données sont Recherchables, Accessibles, Interopérables et Réutilisables,
+Par défaut, les données sont Recherchables, Accessibles, Interopérables et Réutilisables (FAIR),
 
 21
 00:01:38,760 --> 00:01:42,340
@@ -89,7 +89,7 @@ C'est la bonne recherche qui gagne toujours à la fin !
 
 23
 00:01:49,120 --> 00:01:52,240
-Le moment venu, c'est un job pour les chercheurs.
+Le moment venu, c'est un job pour les chercheuses/chercheurs.
 
 24
 00:01:52,440 --> 00:01:56,700
