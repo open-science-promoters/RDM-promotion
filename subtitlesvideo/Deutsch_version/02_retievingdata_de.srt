@@ -1,0 +1,75 @@
+1
+00:00:03,860 --> 00:00:05,860
+Wozu Forschungsdatenmanagement 2/4:
+Daten-Retrieval
+
+2
+00:00:05,860 --> 00:00:08,060
+Forscher lieben ihre Daten
+
+3
+00:00:09,080 --> 00:00:13,040
+Und wenn ihre Daten verloren gegangen sind, hört der Tanz auf.
+
+4
+00:00:13,800 --> 00:00:16,700
+Während Forscher die Katastrophe des vollständigen Datenverlustes
+
+5
+00:00:16,760 --> 00:00:19,940
+durch Sicherheitskopien vermeiden können, 
+
+6
+00:00:20,080 --> 00:00:22,140
+geht richtiges Datenmanagement über die 
+
+7
+00:00:22,260 --> 00:00:25,080
+Vermeidung eines solchen Crashes hinaus.
+
+8
+00:00:26,420 --> 00:00:29,800
+Heutzutage wachsen die Datenberge immer schneller,
+
+9
+00:00:30,140 --> 00:00:34,440
+wohingegen beim Verpacken der Daten für zukünftige Analysen, Wiederverwendung,
+
+10
+00:00:34,660 --> 00:00:37,820
+und gemeinsamer Nutzung oft ein geeignetes System fehlt.
+
+11
+00:00:38,420 --> 00:00:41,000
+Diese Strategie mag eine Weile funktionieren,
+
+12
+00:00:41,300 --> 00:00:45,160
+doch wenn die Größe und Komplexität der Datensätze wachsen,
+
+13
+00:00:45,180 --> 00:00:49,020
+dann kann Forschung in wirkliche Gefahr geraten!
+
+14
+00:00:49,540 --> 00:00:53,000
+Denn Sie möchten ja nicht Tage mit dem Sortieren von Daten vergeuden,
+
+15
+00:00:53,100 --> 00:00:59,980
+sondern Datensicherheit, Organisation, Bezeichnung und Computerlesbarbkeit sicher beherrschen.
+
+16
+00:00:59,980 --> 00:01:04,580
+Dann geschieht der Forschungsprozess reibungslos und effizient.
+
+17
+00:01:05,920 --> 00:01:14,057
+Wenn Sie Datenmanagement beherrschen und Ihre Effizienz steigern wollen, fragen Sie bei einer Kontaktstelle für Forschungsdatenmanagement, gerne auch online.
+18
+00:01:14,057 --> 00:01:21,130
+Translation: XXX
+
+19
+00:01:21,130 --> 00:01:29,730
+In der nächsten Folge lernen wir wie Forschungsdatenmanagement Ihnen bei Ihrer Datenanalyse helfen kann. Bleiben Sie dran!

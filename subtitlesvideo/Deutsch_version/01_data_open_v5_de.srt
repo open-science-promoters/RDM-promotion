@@ -1,0 +1,115 @@
+1
+00:00:00,000 --> 00:00:04,888
+Wozu Forschungdatenmanagement 1/4: 
+Open Data ist der neue Standard
+
+2
+00:00:05,120 --> 00:00:09,880
+Forschungsdaten sollten frei zugänglich, für alle verfügbar und wiederverwendbar sein.
+
+3
+00:00:10,200 --> 00:00:14,700
+Nur wenn sie offen sind, werden sie ihr wahres Potential entfalten.
+
+4
+00:00:15,640 --> 00:00:20,320
+Offene Daten fördern die Zusammenarbeit und Entwicklung in der Forschung -
+
+5
+00:00:21,570 --> 00:00:27,610
+auch Jahre nach ihrer Produktion kann sie Forschung auf die richtige Spur bringen, 
+
+6
+00:00:28,340 --> 00:00:31,800
+indem sie Datenanalysen leicht macht.
+
+7
+00:00:32,580 --> 00:00:35,780
+Open Data bietet kugelsichere Westen
+
+8
+00:00:36,140 --> 00:00:40,120
+gegen Vorwürfe von Fehlverhalten in der Forschung und schlechter wissenschaftlicher Praxis.
+
+9
+00:00:40,540 --> 00:00:44,740
+Open Data steigern die wissenschaftliche Sichtbarkeit und die Anzahl der Zitate,
+
+10
+00:00:45,000 --> 00:00:49,980
+und wenn sie gut organisiert sind, können offene Daten den gesamten Forschungsprozess antreiben.
+
+11
+00:00:50,820 --> 00:00:55,060
+Zuverlässige Ergebnisse werden effizient und sicher dargeboten,
+
+12
+00:00:55,540 --> 00:00:59,320
+und Veröffentlichungen und Förderungen des Forschungsbereichs bekommen gute Aussichten.
+
+13
+00:01:00,100 --> 00:01:04,820
+Regierungen, Fördermittelgeber, Universitäten und Verlage
+14
+00:01:04,960 --> 00:01:08,540
+haben erkannt, wie wichtig es ist, Forschungsdaten öffentlich zugänglich zu machen.
+
+15
+00:01:08,900 --> 00:01:12,420
+Mittlerweile FORDERN sie dies auch oft, und das zu Recht.
+
+16
+00:01:13,940 --> 00:01:17,700
+Doch offene Daten zu erzeugen ist nicht immer einfach, 
+
+17
+00:01:18,120 --> 00:01:21,960
+denn es kann Veränderungen im Forschungsprozess erfordern, 
+
+18
+00:01:22,100 --> 00:01:26,340
+eine Veränderung, die nicht ohne Mühe und zusätzlichen Aufwand geschieht.
+
+19
+00:01:27,370 --> 00:01:32,480
+Aber wenn Datenmanagement einmal eingeführt wurde, bereitet das Öffentlichmachen von Daten keine Mühe mehr. 
+
+20
+00:01:33,250 --> 00:01:38,760
+Grundsätzlich sind Daten aufFindbar, Abrufbar, Interoperabel und Recyclebar (FAIR),
+
+21
+00:01:38,760 --> 00:01:42,340
+und können per Knopfdruck öffentlich zugänglich gemacht werden.
+
+22
+00:01:42,500 --> 00:01:46,380
+Letztlich wird gute Forschung immer gewinnen!
+
+23
+00:01:49,120 --> 00:01:52,240
+Est ist also eine Aufgabe der Forscher und Forscherinnen:
+
+24
+00:01:52,440 --> 00:01:56,700
+Für ihre Karriere und die Gesellschaft müssen sie ihre Daten freigeben.
+
+25
+00:01:56,800 --> 00:01:59,580
+Sie müssen sie offen und FAIR machen.
+
+26
+00:01:59,980 --> 00:02:05,220
+Und ihre offenen und FAIRen Daten werden emporfliegen und die Lage retten. 
+
+27
+00:02:05,575 --> 00:02:13,984
+Wenn Sie Datenmanagement und die Erzeugung von Open Data erlernen möchten, fragen Sie bei einer Forschungsdatenstelle nach - gerne auch online.
+
+28
+00:02:14,651 --> 00:02:19,789
+Translation: XXX
+
+29
+00:02:19,789 --> 00:02:28,498
+In der nächsten Folge lernen wir, wie Forschungdatenmanagement Sie beim Datenretrieval unterstützen kann - bleiben Sie dran!
