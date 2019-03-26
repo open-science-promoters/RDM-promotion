@@ -44,7 +44,7 @@ Technology should not hinder anyone's participation, if you would like to send r
 3. For advanced github users. You may fork the project or ask for write access to the admins. Then make changes, add inputs on your branch (you might use the blogdown::new_post_addin() function in Rstudio) and ask for a pull request. Keep in touch if you like to learn how to do that. 
 
 ```
-To make an anonymous contribution, you have to take the google document path. You will need to log out of your google account first (or open a private wintow of your browser). You may then add content anonymously (on the upper right part of the window, google should be asking you to login).
+To make an anonymous contribution, you have to copy the google document path. You will need to log out of your google account first (or open a private window on your browser). You may then add content anonymously (on the upper right part of the window, google should be asking you to login).
 
 ```
 
