@@ -1,6 +1,6 @@
 "image","Include_page","dowloaded_from","license","license_group","Author","Title","Citation","PUID"
-"CC-by-NC-SA/data_crash.png",1,"https://theupturnedmicroscope.com/comic/flash-comic-february-2016/","CC-BY-NC-SA","NC","Nik Papageorgiou","FLASH COMIC, FEBRUARY 2016",,
-"CC-by-NC-SA/flash-may2015-data-management_2.png",1,"https://upmic.files.wordpress.com/2015/05/flash-may2015-data-management_2.png","CC-BY-NC-SA","NC","Nik Papageorgiou","FLASH COMIC, MAI 2016",,
+"CC-BY-NC-SA/data_crash.png",1,"https://theupturnedmicroscope.com/comic/flash-comic-february-2016/","CC-BY-NC-SA","NC","Nik Papageorgiou","FLASH COMIC, FEBRUARY 2016",,
+"CC-BY-NC-SA/flash-may2015-data-management_2.png",1,"https://upmic.files.wordpress.com/2015/05/flash-may2015-data-management_2.png","CC-BY-NC-SA","NC","Nik Papageorgiou","FLASH COMIC, MAI 2016",,
 "CC-BY/data_reuse.png",1,"https://doi.org/10.1371/journal.pbio.1002295","CC-BY-4.0","CC-BY","Ainsley Seago","How complete and reusable are publicly archived data in ecology and evolution?","“Article Source: Public Data Archiving in Ecology and Evolution: How Well Are We Doing? 
 Roche DG, Kruuk LEB, Lanfear R, Binning SA (2015) Public Data Archiving in Ecology and Evolution: How Well Are We Doing?. PLOS Biology 13(11): e1002295. https://doi.org/10.1371/journal.pbio.1002295”"," https://doi.org/10.1371/journal.pbio.1002295.g001"
 "CC-BY/lostandfound_data.png",1,"https://blogs.ch.cam.ac.uk/pmr/2011/08/01/why-you-need-a-data-management-plan/","CC-BY-2.0","CC-BY","Peter Murray-Rust","Why YOU need a data management plan",,
@@ -55,3 +55,5 @@ Roche DG, Kruuk LEB, Lanfear R, Binning SA (2015) Public Data Archiving in E
 "CC-BY/eefdm_video_screenshots/RDM_beyond_bkup_1.jpg",1,"here","CC-BY-4.0","CC-BY","Julien Colomb","video_screenshot_019","10.5281/zenodo.1293393",
 "CC-BY/eefdm_video_screenshots/RDM_beyond_bkup_2.jpg",1,"here","CC-BY-4.0","CC-BY","Julien Colomb","video_screenshot_020","10.5281/zenodo.1293394",
 "CC-BY-NC/datafile_naming_xkcd.png",1,"https://xkcd.com/1179/","CC-BY-NC","NC","Randall Munroe","proTip: never look into someone‘s else documents folder.","https://xkcd.com","https://xkcd.com/1459/"
+"CC-BY-NC-SA/research-data-management-cycle3.jpg",1,"http://libguides.library.curtin.edu.au/c.php?g=202401&p=1332990","CC-BY-NC-SA","NC","Curtin Library","research data management","Curtin Library",
+"CC-BY-NC/norm_normal_file_format_2x.png",1,"https://xkcd.com/2116/","CC-BY-NC","NC","Randall Munroe",".NORM Normal File Format","https://xkcd.com","https://xkcd.com/2116/"
