@@ -40,7 +40,6 @@ Das sind die Versprechen des Datenmanagements.
 
 11
 00:00:40,891 --> 00:00:46,890
-
 Warum Forschungdatenmanagement 4/4:
 Daten-Champions
 Übersetzung: Bettina Hesse, Petra Claudia Steiner

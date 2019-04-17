@@ -18,11 +18,11 @@ Während Forschende die Katastrophe des vollständigen Datenverlustes
 5
 00:00:16,760 --> 00:00:19,940
 durch Sicherheitskopien vermeiden können,
- 
+
 6
 00:00:20,080 --> 00:00:22,140
 geht richtiges Datenmanagement über die
- 
+
 7
 00:00:22,260 --> 00:00:25,080
 Vermeidung eines solchen Unglücks hinaus.

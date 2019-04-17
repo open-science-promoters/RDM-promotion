@@ -177,7 +177,6 @@ zu teilen und wiederzuverwerten.
 
 45
 00:03:15,200 --> 00:03:23,000
-
 Um mehr über Datenformate, -strukturen und -dokumentation zu erfahren, fragen Sie bei einer Kontaktstelle für Forschungsdatenmanagement an - gerne auch online.
 
 46

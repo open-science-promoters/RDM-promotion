@@ -102,7 +102,7 @@ Sie müssen sie offen und FAIR zur Verfügung stellen.
 26
 00:01:59,980 --> 00:02:05,220
 Und ihre offenen und FAIRen Daten werden emporfliegen und die Lage retten.
- 
+
 27
 00:02:05,575 --> 00:02:13,984
 WWenn Sie Datenmanagement und die Erzeugung von offenen Daten beherrschen möchten, fragen Sie bei einer Kontaktstelle für Forschungsdatenmanagement an - gerne auch online.
