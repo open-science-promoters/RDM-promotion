@@ -1,6 +1,6 @@
 1
 00:00:00,000 --> 00:00:04,350
-Wir vergeudeten unsere Zeit während der Datenanalyse.
+Wir haben unsere Zeit während der Datenanalyse vergeudet.
 
 2
 00:00:04,350 --> 00:00:08,350
@@ -8,19 +8,19 @@ Einer unserer Artikel wurde abgelehnt, weil die Rohdaten fehlten.
 
 3
 00:00:08,350 --> 00:00:11,220
-Wir verloren Daten.
+Wir haben Daten verloren.
 
 4
 00:00:11,220 --> 00:00:14,660
-We beseitigten Daten, deren Inhalt wir nicht verstanden.
+Wir haben Daten gelöscht, deren Inhalt wir nicht verstanden.
 
 5
 00:00:14,660 --> 00:00:19,160
-Wir hatten nicht begriffen, dass Open Data der neue Standard ist.
+Wir haben nicht erkannt, dass offene Daten der neue Standard sind.
 
 6
 00:00:19,430 --> 00:00:22,900
-Niemals wieder!
+Aber: Niemals wieder!
 
 7
 00:00:22,900 --> 00:00:27,070
@@ -28,7 +28,7 @@ Wir möchten bessere Forschung
 
 8
 00:00:27,070 --> 00:00:31,310
-in kürzerer Zeit
+in kürzerer Zeit,
 
 9
 00:00:31,310 --> 00:00:35,410
@@ -40,5 +40,7 @@ Das sind die Versprechen des Datenmanagements.
 
 11
 00:00:40,891 --> 00:00:46,890
-title: Daten-Champions,
-translation: XXX
+
+Warum Forschungdatenmanagement 4/4:
+Daten-Champions
+Übersetzung: Bettina Hesse, Petra Claudia Steiner
