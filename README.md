@@ -14,7 +14,7 @@ We thrive on open science principles in this project and therefore:
 1. We publish our results, as soon as we produce them.
 2. We foster collaboration, hoping no others will do the same work independently.
 3. A data management plan has been elaborated.
-4. The data produced/collected will is published under a CC0 or CC-By license.
+4. The data produced/collected has been published under a CC0 or CC-By license.
 
 
 # Contribute
@@ -49,12 +49,3 @@ The text will then be published as a blog post on the website.
 
 
 
-## 3 Ideas for new videos/comics
-
-I have started to write down my thoughts in [ideas_and_notes.md](ideas_and_notes.md). More material is to come.
-
-You wanna share your thoughts: 
-
-1. Open a new issue and label it "RDM_video_ideation", write some comments and let's start the discussion.
-
-2. Alternatively, you might write me an email at julien.colomb [at] jena-uni.de to start a one to one discussion
