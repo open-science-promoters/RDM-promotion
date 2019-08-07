@@ -47,7 +47,7 @@ B_NC<- paste0 ("![../material/",Metad$image,"](../material/",Metad$image,"){widt
 ```{r, echo= FALSE}
 #Metad= read.csv("../static/material/material_metadata.csv")
 
-dt=DT::datatable(Metad, #extensions = 'FixedColumns',
+dt=DT::datatable(Metad2, #extensions = 'FixedColumns',
   options = list(
     #dom = 't',
     scrollX = TRUE,
